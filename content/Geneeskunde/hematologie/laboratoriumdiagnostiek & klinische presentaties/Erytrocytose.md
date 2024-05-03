@@ -1,0 +1,85 @@
+Erytrocytose, een aandoening gekenmerkt door een toename van het rodecelvolume, brengt diverse complicaties met zich mee, zoals tromboses, bloedingen en hyperviscositeit. Typische symptomen zijn hoofdpijn, duizeligheid, wazig zien, moeheid en spierpijn. In de praktijk wordt erytrocytose gedefinieerd door een hematocriet boven 0.46 voor vrouwen en 0.50 voor mannen. Het begrijpen van erytrocytose en de bijbehorende definities in de klinische context is van vitaal belang om tijdig in te kunnen grijpen en de juiste behandeling toe te passen.
+___
+# Systematische diagnostiek van erytrocytose, NTvG 2007
+## Pathofysiologisch onderscheid
+- relatief
+	- afname plasmavolume, b.v. dehydratie of roken (?)
+- absoluut (praktische definitie: erytrocytose zonder dehydratie)
+	- primair
+		- PV
+		- primaire familiair congenitaal (EPO-R mutatie)
+		- idiopathisch
+	- secundair
+		- fysiologisch (aderlatingen mogelijk schadelijk, enkel profbehandeling als klachten van hyperviscositeit)
+			- verblijf op grote hoogte
+			- longaandoeningen
+				- COPD, Pickwick, OSAS, PH, pulmonale AV-malformaties
+			- rechts-/linksshunt
+				- septumdefect, Fallot, transpositie grote vaten, PDA
+			- hypoventilatie
+				- b.v. spierdystrofie
+			- intoxicaties
+				- kobalt, carboxyhemoglobine (CO)
+			- verhoogde O2-affiniteit van hemoglobine
+				- hemoglobinopathie, methemoglobinemie (verworven kán), 2,3-DPG deficiëntie
+		- niet-fysiologisch
+			- dysregulatie O2-detectie
+				- chuvash-polycytemie
+			- nierafwijkingen
+				- cysten, hydronefrose, nierarteriestenose, na NTX
+			- leveraandoeningen
+				- cirrose, hepatopulmonaal syndroom, virale hepatitis
+			- EPO-producerende tumoren
+				- NCC, nefroblastoom, HCC, hepatoom, hemangioblastoom, feo, uterus, ovarium
+			- endocriene stoornis
+				- cushing, primair hyperaldosteronisme
+			- medicatie
+				- auto-transfusies, androgenen, anabole steroïden, EPO-misbruik
+## Diagnostiek & aanvullend onderzoek
+- SpO2:
+    - <92% vs. >= 92%
+        - verlaagd: cardiopulmonaal
+        - normaal: doe HbCO
+- HbCO:
+    - > 5% vs. <5%
+        - > 5%: CO-intoxicatie
+            - stop blootstelling, check 2-3m nadien
+            - erytrocytose door alleen roken is zeldzaam, vaak + pulmonale afwijkingen
+        - <5%: doe JAK2
+- JAK2-mutatie:
+    - aan- vs. afwezig
+        - aanwezig: polycythemia vera (sensitiviteit 95%)
+        - afwezig: doe EPO
+- EPO:
+    - verlaagd vs. verhoogd
+        - sensitiviteit verlaagd EPO voor primaire erytrocytose 65%, specificiteit 95%
+        - verlaagd, doe beenmerg:
+            - afwijkend beenmerg: polycythemia vera
+            - normaal beenmerg: primair familiaire en congenitale polycythemie (PFCP) of idiopathische erytrocytose
+- PFCP:
+    - geen splenomegalie en normaal bloedbeeld
+    - deel heeft EPO-onafhankelijke receptor activatie door mutatie
+    - verhoogd:
+        - echo buik: EPO-producerende tumor, nierarteriestenose, niercysten of na NTX
+        - na NTX: reageert op ACE-remmer of ARB
+        - normale echo, doe Hb-O2 curve
+- P50 Hb-O2-curve
+    - normaal: VHL-genanalyse t.b.v. chuvash-polycythemie
+        - op Italiaans eiland Ischia en in het centraal Russische Chuvashia; geeft verhoogd trombo-embolisch risico
+        - behandeling niet duidelijk, aderlatingen geen effect
+    - verlaagd (lage SpO2 bij normale pO2): bepaal met-Hb
+- P50 MetHb:
+    - > 10% vs. <10%
+        - > 10%: methemoglobinemie (congenitaal/verworven)
+        - <10%: doe Hb elektroforese
+- Hb elektroforese
+    - afwijkend: hemoglobinopathie
+    - normaal: doe 2,3 -DPG
+- 2,3-DPG
+    - verlaagd: DPG-mutase of hereditair verhoogd ATP
+## Anki
+ja
+## Aliassen
+[[polycythemie]], [[polyglobulie]]
+## Datum laatste update
+02-02-2024

@@ -1,0 +1,16 @@
+- Vaste plaats bij:
+	- MitraClip (TEE)
+	- Coiling PVL (TEE)
+	- Sluiten ingewikkeld ASD (TEE)
+	- TAVI (TEE)
+	- LVF (TTE)
+		- 3D TTE:
+			- minder spatiële en temporele resolutie: zoom!
+			- stitching artefacten kán
+			- contrast kan niet
+		- schatting LVEF:
+			- 3D < MRI (gouden standaard) < CT
+			- diverse methoden:
+				- 'stacked volumes'
+				- speckle tracking & aflijnen endocardcontouren
+					- aantrekkelijk want in 2D throughplane motion ~ 2cm

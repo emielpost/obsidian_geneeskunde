@@ -1,0 +1,37 @@
+- 4 fasen diastole:
+	- IVRT
+	- vroege diastolische instroom
+	- diastase
+	- atriale contractie
+- factoren van invloed op dLVF-meting:
+	- circulerend volume -> preload -> LVd & Vd
+	- preload (LVEDV)
+	- relaxatie (~ wanddikte, volume & uniformiteit relaxatie myocardcellen (b.v. CVM/fibrose))
+	- elasticiteit/veerkracht
+		- b.v. dilatatie LV, CMP, infarct
+	- compliantie ($\Delta$V/$\Delta$P)
+	- diastolische drukopbouw
+		- combinatie van compliantie en V-verandering
+	- elastische recoil
+		- b.v. na myocardinfarct: afname contractie tijdens systole -> verminderde recoil tijdens diastole
+	- LA:
+		- preload
+		- LA-druk ($\Delta$V & C)
+		- LA-contractiliteit
+## oorzaken dLV-dysfunctie:
+- leeftijd
+- coronairlijden
+- HT
+- kleplijden
+- CMP
+- cardiotoxiciteit (b.v. anthracyclines)
+- diabetes mellitus
+- systeemziekten
+- nierinsufficiëntie
+## meten van dLVF (5x)
+- morfologie LV & LA
+	- inclusief LAVI
+- mitralisinstroom
+- pulmonaalvenen instroom
+- tissue Doppler
+- velocity propagation v/d MK-instroom
