@@ -1,61 +1,62 @@
 Auto immuun hemolytische anemie is een aandoening waarbij auto antistoffen de erytrocyt afbreken en zodoende hemolyse veroorzaken. De plaats van afbraak varieert (milt, lever of intravasculair), evenals de ernst en geassocieerde aandoeningen. De juiste diagnostische classificatie is belangrijk omdat de behandeling hier vanaf hangt. 
 ___
 # Hoe behandel ik: fulminante AIHA, NTVH 2023
+[[AIHA_hoebehandelik.pdf]]
 ## Inleiding
 - wAIHA (70%)
 	- circa 50% idiopathisch, overig infecties, auto-immuunziekten, immuundeficiënties en (hematologische) maligniteiten
 - cAIHA/CAD (20%)
 	- Engelstalig: 'cold agglutinin disease/syndrome'
 - mAIHA (10%)
-- geen goede definitie van ernstige AIHA
+- geen goede definitie ernstige AIHA
 	- grofweg Hb < 5 mmol/L en transfusiebehoefte met een duur < 7 dagen
 ## Diagnosestelling
 - anemie + hemolyse + positieve DAT
-	- 33% lage reti's: lysis voorlopers, inflammatie, beenmergziekte, medicatie of relatief EPO-tekort
+	- 33% heeft lage reti's: lysis voorlopers, inflammatie, beenmergziekte, medicatie of relatief EPO-tekort
 - DAT: 
 	- IgM vaak niet detecteerbaar, wel C3c en/of C3d
-		- bedenk: sommige labs polyspecifiek antihumaan globuline (alleen IgG en complement) -> IgA en IgM worden gemist
-	- positieve DAT niet 100% specifiek: 0.1% gezonde donoren en 1-15% opgenomen patiënten, zonder hemolyse
+		- bedenk: sommige labs polyspecifiek antihumaan globuline (alleen IgG en complement) → IgA en IgM worden gemist
+	- positieve DAT niet 100% specifiek: 0.1% gezonde donoren en 1-15% klinische patiënten (zonder hemolyse)
 - zoek naar onderliggende en geassocieerde aandoeningen
-- sluit alloantistoffen uit
+- sluit allo antistoffen uit
 ## Behandeling
 ![[Pasted image 20240429111115.png]]
 
-- expertopinie en extrapolatie vanuit algemene AIHA-behandelprincipes:
-	- opname o.a. bij Hb <5 mmol/L en/of HD instabiliteit
+- expert opinie en extrapolatie vanuit algemene AIHA-behandelprincipes:
+	- opname o.a. bij Hb < 5 mmol/L en/of HD instabiliteit
 		- instabiel Hb en/of dreigende (sub-)klinische hypoxemie? op IC
 	- monitor (sub-)klinische hypoxemie: ECG, verwardheid, lactaat
-	- frequente Hb-controle a 4-6u
+	- Hb-controle a 4-6u
 	- snelle analyse onderliggende oorzaak + behandeling waar mogelijk
 ### Transfusie
 - geen gevalideerde trigger, behalve cardiale en/of cerebrale ischemie
-- niet zozeer restrictief, ondanks risico op hyperhemolyse of hemolytische transfusiereacties (uiterst beperkt), allo-immunisatie 20-40%
-	- pB19 veilig! En preventief matchen op Rh-fenotype en K
+- niet zozeer restrictief, ondanks risico op hyperhemolyse of hemolytische transfusiereacties (uiterst beperkt), risico allo-immunisatie 20-40%
+	- pB19 veilig! 
+	- preventief matchen op Rh-fenotype en K
 		- vroeg overleg met transfusielab i.v.m. uitgebreide matching
 - één eenheid per keer, verwarmd indien CAD
 ### Ondersteunende behandeling
 - verhoogd tromboserisico: profylaxe
-- foliumzuursuppletie
+- foliumzuur 5mg 1dd
 - EPO (zeker als reticulopenie): 300mcg darbepoëtine per week
 - IVIG als wAIHA
 - warm houden indien CAD (cAIHA), incl. warme transfusies
 ### Medicamenteuze behandeling
 - wAIHA en mAIHA
-	- prednisolon 1mg/kg gedurende 2-3w tot Hb 6 mmol/L, nadien langzaam afbouwen.
+	- prednisolon 1 mg/kg gedurende 2-3 weken tot Hb 6 mmol/L, nadien langzaam afbouwen.
 		- responspercentage circa 80%; MPNS te overwegen indien fulminant, maar niet bewezen
-	- rituximab 375mg/m2 wekelijks voor 4w als 2e lijn (effect pas na 3-6w)
+	- rituximab 375mg/m<sup>2</sup> wekelijks voor 4 weken als 2e lijn (effect pas na 3-6 weken)
 	- plasmaferese = last resort
-	- fulminant en therapieresistent? spoedsplenectomie, met profylaxe voor hoge trombose- en infectierisico nadien
+	- fulminant en therapieresistent? 
+		- spoedsplenectomie, met profylaxe voor hoge trombose- en infectierisico nadien
 - cAIHA/CAD
-	- rituximab 375mg/m2 wekelijks voor 4w (effect pas na 3-6w)
+	- rituximab 375mg/m<sup>2</sup> wekelijks voor 4 weken (effect pas na 3-6 weken)
 	- overweeg (verwarmde) plasmaferese in afwachting van effect
 	- eculizumab slechts 0.5 punt Hb-stijging
 	- sutimlimab 1.7 punt Hb-stijging (werkt snel)
 		- vergoed in 'Orphan Drug Access Protocol': odap-sutimlimab@amsterdamumc.nl
-	
-
-
-	
+## Datum laatste update
+4-5-2024
 ___
 # Erytrocytenserologie, Sanquin, 2009 
 ## Inleiding
@@ -228,10 +229,6 @@ meest voorkomend, optimaal bij 37 graden.
 	- transfusies +/- plasmaferesee
 - bifasische hemolysinen
 	- voorkomen afkoeling en behandel infectie
-## Anki
-ja
-## Aliassen
-[[auto imuun hemolytische anemie]]
 ## Datum laatste update
 28-11-2023
 ___

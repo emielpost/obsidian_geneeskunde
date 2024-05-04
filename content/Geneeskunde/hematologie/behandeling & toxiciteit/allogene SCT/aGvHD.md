@@ -1,9 +1,10 @@
-Acute graft vs. host ziekte is een bekende complicatie van [[allogene stamceltransplantatie]] en [[DLI]]. Het uit zich als diarree, rash en/of de ontwikkeling van nieuwe leverenzymstoornissen. I.f.v. de ernst dient GvHD al snel met systemische immuunsupressieve therapie (IST) behandeld te worden. Ook al suggereert GvHD eveneens de aanwezigheid van een graft vs. disease effect, en is het theoretisch dus zelfs gewenst, een ernstige "graft" kan escalatie van IST noodzakelijk maken met verhoogde kans op opportunistische infecties en overlijden tot gevolg.
+Acute graft vs. host ziekte is een bekende complicatie van allogene SCT en [[DLI]]. Het uit zich als diarree, rash en/of de ontwikkeling van nieuwe leverenzymstoornissen. I.f.v. de ernst dient GvHD al snel met systemische immuunsupressieve therapie (IST) behandeld te worden. Ook al suggereert GvHD eveneens de aanwezigheid van een graft vs. disease effect, en is het theoretisch dus zelfs gewenst, een ernstige "graft" kan escalatie van IST noodzakelijk maken met verhoogde kans op opportunistische infecties en overlijden tot gevolg.
 ___
-# Vademecum AUMC, 19-10-2022
+# Vademecum AUMC, oktober 2022
+[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/acute-graft-versus-host-disease-gvhd/)
 ## Definitie
-- klassiek: <100 dagen
-- persisterend, recidiverend of late-onset: >100 dagen
+- klassiek: < 100 dagen
+- persisterend, recidiverend of late-onset: > 100 dagen
 ## **Diagnostiek**
 - huidafwijkingen
 	- biopt
@@ -20,35 +21,35 @@ ___
 	- overweeg biopt (stollingscorrectie)
 ## **Classificatie**
 - stadium 0 - 4
-	- huid: van geen rash tot gegeneraliseerde erytrodermie en bullae
-	- lever: bili van <33 tot bili > 255
-	- GIS: diarree van <500cc of nausea tot >2000cc/dag of +++ buikpijn
+	- huid: van geen rash tot gegeneraliseerde erythrodermie en bullae
+	- lever: bili van < 33 tot bili > 255
+	- GIS: diarree van < 500cc of nausea tot > 2000cc/dag of +++ buikpijn
 - graad I-IV
-	- dimensiereductie stadia huid, lever en darm
+	- dimensie reductie stadia huid, lever en darm
 ## **Behandeling**
 ### Graad I
 - CC creme (b.v. 0.1% TAC of betamethason 0.05%)
 - vermijd zonlicht en fotosensitizerende medicatie
 - CsA en MMF continueren
-- >2 risicofactoren overweeg behandeling als graad IIa:
+- \> 2 risicofactoren overweeg behandeling als graad IIa:
 	- donor = MUD
-	- <10/10 MUD
+	- < 10/10 MUD
 	- vrouwelijke donor voor mannelijke patiënt
 	- GvHD profylaxe met enkel ciclo/MMF
 	- CD3 > 250 bij infusie stamcellen
 	- GvHD vroeg, i.e. vóór neutro's > 1.0
-	- Sub-therapeutische ciclo-spiegels na Tx (2x achtereen <150 mcg/L)
+	- sub-therapeutische ciclo-spiegels na Tx (2x achtereen <150 mcg/L)
 ### Graad IIa
-- prednisolon 1mg/kg/dag
+- prednisolon 1 mg/kg/dag
 ### Graad II
-- prednisolon 2mg/kg/dag
-- CsA continueren danwel hervatten; p.o. / i.v.
+- prednisolon 2 mg/kg/dag
+- CsA continueren dan wel hervatten; p.o. / i.v.
 ### Graad III-IV
 - klinische opname indien orale en intake en medicatie inname niet gewaarborgd
 - prednisolon 2dd 1mg/kg/d
 - CsA continueren danwel hervatten; p.o./i.v.
 ### Steroïd refractaire GvHD
-- progressie na 7 dagen, <PR na 14 dagen of geen CR na 28 dagen
+- progressie na 7 dagen, < PR na 14 dagen of geen CR na 28 dagen
 - ruxolitinib, MSC of ATG
 - fecestransplantatie
 - vedolizumab
@@ -75,14 +76,12 @@ ___
 ## Profylaxe
 - CMV/EBV monitoring volgens indicatie
 - schimmelprofylaxe volgens richtlijn:
-	- > 30 mg prednisolon tot prednisolon <10 mg/dag
+	- > 30 mg prednisolon tot prednisolon < 10 mg/dag
 - PPI
 - alendroninezuur 1x/week 70mg
 - calcium/vitamine D3 
 - langdurig? check electrolieten, HCO3 en albumine
 - blijf alert op andere oorzaken diarree
-## Anki
-ja
 ## **Aliassen**
 [[graft]], [[graft versus host disease]], [[graft vs. host ziekte]]
 ## **Datum laatste update**

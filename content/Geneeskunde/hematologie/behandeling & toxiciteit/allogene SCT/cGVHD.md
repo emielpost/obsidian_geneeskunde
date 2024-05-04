@@ -1,6 +1,7 @@
-Chronische graft vs. host ziekte is een bekende complicatie van [[allogene stamceltransplantatie]] en [[DLI]]. Het uit zich als diarree, rash en/of de ontwikkeling van nieuwe leverenzymstoornissen. I.f.v. de ernst dient GvHD al snel met systemische immuunsupressieve therapie (IST) behandeld te worden.
+Chronische graft vs. host ziekte is een bekende complicatie van allogene stamceltransplantatie en [[DLI]]. I.f.v. de ernst dient GvHD al snel met systemische immuunsuppressieve therapie (IST) behandeld te worden.
 ___
 # Vademecum AUMC, 2017
+[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/chronische-graft-versus-host-disease-gvhd/)
 ## Diagnostiek en classificatie
 - Huid: sclerose, depigmentatie en hyperpigmentatie
 - Nagels: onycholyse, pterygium unguis
@@ -29,10 +30,7 @@ ___
 - PPI
 - alendroninezuur
 - calcium/vitamine D
-
-
-## Anki
-
 ## Aliassen
+[[graft]], [[graft versus host disease]], [[graft vs. host ziekte]]
 ## Datum laatste update
 21-02-2024

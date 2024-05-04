@@ -1,5 +1,8 @@
-# Vademecum AUMC, 26-03-2020
-## Immuunsuppressiva
+Graft vs. host ziekte is een bekende complicatie van allogene SCT en [[DLI]]. Acute GvHD uit zich als diarree, rash of de ontwikkeling van nieuwe leverenzymstoornissen, chronische GvHD kan zich in ieder orgaansysteem manifesteren waaronder huid, longen en genitalia.
+___
+# Vademecum AUMC, maart 2020
+[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/ia-profylaxe-gvhd/)
+## Immuunsuppressiva (IS)
 - ciclosporine
 	- NMA/RIC: oraal 2dd
 	- MA: i.v. continue of 2dd
@@ -31,34 +34,23 @@
 		- fluconazol
 			- weinig interactie, vaar op spiegels
 ## GvHD profylaxe in verschillende behandelprotocollen
-Conventieel
+### Conventioneel
 - ciclosporine, MMF
-
-HLA-identiek, PTCy
+### HLA-identiek, PTCy
 - cyclofosfamide D+3 en D+4, ciclosporine
-    
-Haplo-identiek, PTCy
+### Haplo-identiek, PTCy
 - cyclofosfamide D+3 en D+4, MMF, tacrolimus
-    
-FLAMSA
+### FLAMSA
 - ciclosporine, MMF
-    
-SAA, jongere patiënt
+### SAA, jongere patiënt
 - MTX D+1, D+3, D+6 en D+11, ciclosporine
-    
-SAA, oudere patiënt
+### SAA, oudere patiënt
 - ciclosporine, MMF
-    
-Myelofibrose, H134
+### Myelofibrose, H134
 - ciclosporine, MMF
-    
-Plasmacelleukemie, H129
+### Plasmacelleukemie, H129
 - ciclosporine, MMF
-
-Navelstrengbloed
+### Navelstrengbloed
 - ciclosporine, MMF
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 24-02-2024

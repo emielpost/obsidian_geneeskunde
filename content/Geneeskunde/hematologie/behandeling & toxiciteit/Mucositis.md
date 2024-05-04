@@ -1,18 +1,19 @@
-Frequent, m.n. bij hoge dosis chemotherapie: cytarabine, BEAM, melfalan, cyclofosfamide +/- radiotherapie
+Mucositis is een veelvoorkomende complicatie van met name blootstelling aan hoge doses chemotherapie, zoals cytarabine, BEAM, melfalan, cyclofosfamide, al dan niet in combinatie met radiotherapie.
 ___
-# Protocol AMC, 2013
+# Vademecum AUMC, 2013
+[link](https://www2.hematologie-amc.nl/JHM-MUC-004_mucositis)
 ## Preventie
-- Focusonderzoek tandarts en mondhygiënist en verpleegkundige anamnese
-- Cryotherapie
+- focusonderzoek tandarts en mondhygiënist en verpleegkundige anamnese
+- cryotherapie
 	- tijdens toediening dus enkel bij bolustherapie
-- Palifermin (keratinocyte growth factor)
+- palifermin (keratinocyte growth factor)
 	- goedgekeurd door FDA bij MA stamceltransplantatie
-	- niet in NL/EU?
+		- niet in NL/EU
 ## Kliniek
 - roodheid en zwelling mondslijmvlies, pijnlijk branderig gevoel
 - later erosieve laesies en ulcera +/- buikpijn en diarree
-- start enkele dagen na CT, max rond 7-10 dagen
-- LO
+- start enkele dagen na start chemotherapie, maximaal rond 7-10 dagen
+- lichamelijk noderzoek
 	- m.n. wangen, mondbodem, lippen en tong
 		- ulceraties gingiva, harde palatum en dorsale zijde tong meestal infectieus (candida/HSV)
 	- OMI-20 schaal
@@ -24,17 +25,14 @@ ___
 	- spoelingen met fysiologisch zout (chloorhex/fluoride geen toegevoegde waarde)
 	- ijsblokjes/ijswater
 - pijnbestrijding
-	- laagdrempelig fentanyl 12.5mcg/u + PCM
-		- doorbraakpijn: 2.5-5mg morfine i.v. z.n. of PCA
-	- locaal: lidocaïne crem of spoelingen
-	- nexium i.g.v. pijn epigastrio
+	- laagdrempelig fentanyl 12.5 mcg/u + PCM
+		- doorbraakpijn: 2.5-5 mg morfine i.v. z.n. of PCA
+	- lokaal: lidocaïne creme of spoelingen
+	- PPI i.g.v. pijn epigastrio
 - voeding
-	- indicatie TPV: gewichtsverlies >10% (houdt rekening met neuropenieduur)
+	- indicatie TPV: gewichtsverlies > 10% (houdt rekening met neutropenieduur)
 - infecties
 	- laagdrempelig kweken op HSV en candida
 	- overweeg empirisch valaciclovir/fluconazol
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 08-02-2024
