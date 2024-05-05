@@ -1,7 +1,6 @@
 Acute graft vs. host ziekte is een bekende complicatie van allogene SCT en [[DLI]]. Het uit zich als diarree, rash en/of de ontwikkeling van nieuwe leverenzymstoornissen. I.f.v. de ernst dient GvHD al snel met systemische immuunsupressieve therapie (IST) behandeld te worden. Ook al suggereert GvHD eveneens de aanwezigheid van een graft vs. disease effect, en is het theoretisch dus zelfs gewenst, een ernstige "graft" kan escalatie van IST noodzakelijk maken met verhoogde kans op opportunistische infecties en overlijden tot gevolg.
 ___
-# Vademecum AUMC, oktober 2022
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/acute-graft-versus-host-disease-gvhd/)
+**bron**: [vademecum AUMC, oktober 2022](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/acute-graft-versus-host-disease-gvhd/)
 ## Definitie
 - klassiek: < 100 dagen
 - persisterend, recidiverend of late-onset: > 100 dagen
@@ -76,7 +75,7 @@ ___
 ## Profylaxe
 - CMV/EBV monitoring volgens indicatie
 - schimmelprofylaxe volgens richtlijn:
-	- > 30 mg prednisolon tot prednisolon < 10 mg/dag
+	- \> 30 mg prednisolon tot prednisolon < 10 mg/dag
 - PPI
 - alendroninezuur 1x/week 70mg
 - calcium/vitamine D3 

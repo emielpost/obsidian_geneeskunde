@@ -1,7 +1,6 @@
 Het doel van een allogene SCT is het consolideren van immunologische reacties via een graft-versus-tumorrespons tegen zogeheten MiHA's (minor histocompatibility antigens) op hematopoëtische stamcellen. Hoewel er gestreefd wordt naar een 10/10 HLA-match, zijn er nog steeds SNP's die de expressie van MiHA's veroorzaken. Er kan tolerantie van (jonge/nieuwe) T-cellen ten opzichte van MiHA's bij de ontvanger ontstaan, maar er kan ook nog een allogene respons zijn van rijpe donor lymfocyten (DLI). Tegenwoordig worden deze niet meer ingevroren vanuit het transplantaat, maar later vers aangevraagd of verzameld.
 ___
-# Vademecum AUMC, 2021
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/donor-lymfocyteninfusie-dli/)
+**bron**: [vademecum AUMC, 2021](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/donor-lymfocyteninfusie-dli/)
 ## Algemeen
 - GvT effect
 	- CML >> Ph- MPN's > MDS/AML > MM/laaggradig NHL 

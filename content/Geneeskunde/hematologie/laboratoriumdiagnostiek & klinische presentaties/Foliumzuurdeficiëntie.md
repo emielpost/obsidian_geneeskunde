@@ -1,6 +1,7 @@
-inleiding
+Vanwege beperkte lichaamsreserves kan foliumzuurdeficiëntie snel optreden, vaak binnen vier maanden na een periode van ontoereikende voeding. De aanbevolen dagelijkse hoeveelheid is 300 microgram. De gemiddelde dagelijkse inname van foliumzuur in Nederland wordt geschat op 180 microgram, waarbij 10% van de bevolking zelfs minder dan 100 microgram per dag binnenkrijgt, wat het absolute minimum is om serumspiegels op peil te houden.
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
+
 - reusvormen in alle reeksen, kernrijping blijft achter. 
 - ineffectieve hematopoïese, conform MDS
 ## bloed
@@ -15,15 +16,12 @@ ___
 			- NB gelijktijdig ijzerdeficiëntie maskeert megaloblastair beeld
 - granulopoïese: reuze metamyelocyten en -staafkernen
 - megakaryopoïese: extreme hypersegmentatie, losse kernlobben, vacuolisering cytoplasma, hypogranulatie
-### PA
+### biopt
 - zeer celrijk, diepe basofilie megaloblasten
 	- sterke toename erytropoiese
 		- jonge vormen, diep basofile megaloblasten, extreme kernvormafwijkingen
 	- granulopoiese: hypersegmentatie, reusstaven en -segmenten
 	- megakaryopoiese: hypersegmentatie, kleine vormen kán
 - normale reticuline kleuring
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 21-02-2024

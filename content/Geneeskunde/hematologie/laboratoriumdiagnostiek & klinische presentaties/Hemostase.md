@@ -1,4 +1,4 @@
-# Hemostase update, 2023
+**bron**: Hemostase update, 2023
 ## Oriënterend onderzoek
 CITRAAT BUIZEN VOOR STOLLING
 ### plaatjesfunctie
@@ -17,7 +17,7 @@ CITRAAT BUIZEN VOOR STOLLING
 	- behoorlijk variabel maar er is niet veel beters
     ### bloedingstijd
 - beperkt sensitief, veel variabiliteit    
-### optical platelet aggregomitery (plaatjesaggregatietest)
+### plaatjesaggregatietest
 - lichtbundel door buisje met plaatjes van patiënt
 	- toevoegen agonist/activatoren (verschillende opties), b.v.:
 		- ristocetine (vroeger AB, maar veel trombose): zorgt voor ontvouwen van von Willebrand factor
@@ -25,6 +25,7 @@ CITRAAT BUIZEN VOOR STOLLING
 		- aggregatiepatronen bij verschillende agonisten/activatoren geeft je een indruk van onderliggend defect
 		- praktisch: niet in buizenpost (!), geen 
 ### plaatjes aantal
+- eenvoudig te bepalen; cave aggregatie
 ### aPTT
 - intrinsieke pathway: plasma + negatief geladen oppervlakte
 	- PK, HMWK, XII, XI, IX, VIII, X, V, trombine, prot C, prot S
@@ -45,6 +46,7 @@ CITRAAT BUIZEN VOOR STOLLING
 - remmer (kan dus ook)
 - VKA
 ### fibrinogeen
+- hypofibrinogenemie?
 ## aanvullend onderzoek
 - plaatjesfunctie
 - stollingsfactoren
@@ -64,8 +66,5 @@ CITRAAT BUIZEN VOOR STOLLING
 - dabigatran: anti trombine
 - apixaban, edoxaban, rivaroxaban: aXa
 - vaak klein beetje effect op PT en/of aPTT
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 25-02-2024

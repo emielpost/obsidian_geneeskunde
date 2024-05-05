@@ -1,6 +1,6 @@
 Verhoogde ijzerabsorptie kan leiden tot ijzerstapeling in het bloed, wat zich kan manifesteren als ophoping van ijzer in organen zoals de lever, alvleesklier, gewrichten en het hart. Dit overschot kan niet worden uitgescheiden via urine. Een MRI-scan kan soms helpen om de organen te identificeren waarin ijzerstapeling significant wordt.
 ___
-# Bloedbankonderwijs Erfan Nur, april 2023
+**bron**: lokaal bloedbankonderwijs Erfan Nur, april 2023
 ## Introductie
 - voorbeeld thalassemie:
 	- erytronen onderdrukken hepcidine waardoor meer ijzeropname

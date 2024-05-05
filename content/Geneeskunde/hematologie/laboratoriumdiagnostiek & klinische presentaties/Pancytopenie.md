@@ -1,8 +1,8 @@
-Pancytopenie is een aandoening waarbij er een aanzienlijke afname is in het aantal bloedcellen in alle drie de cellijnen. Wanneer slechts twee cellijnen aangedaan zijn wordt de term 'bicytopenie' gebruikt. De diagnostische benadering van bicytopenie is vergelijkbaar met die van pancytopenie.
+Pancytopenie is een aandoening waarbij er een aanzienlijke afname is van het aantal bloedcellen in alle drie de cellijnen. Wanneer slechts twee cellijnen aangedaan zijn wordt de term 'bicytopenie' gebruikt. De diagnostische benadering van bicytopenie is vergelijkbaar met die van pancytopenie.
 ___
-# Pancytopenia, UpToDate,  juli 2023
+**bron**: Pancytopenia, UpToDate, juli 2023 ([[Approach to the adult with pancytopenia - UpToDate.pdf]])
 ## Definitie
-- bedenk: analyse bicytopenie grofweg hetzelfde en afkapwaarden verschillen i.f.v. etniciteit maar ook klinische context.
+- bedenk: analyse bicytopenie grofweg hetzelfde, afkapwaarden verschillen i.f.v. etniciteit maar ook klinische context.
 	- Hb < 7.5 voor niet-zwangere vrouwen, Hb < 8.0 voor mannen
 	- ANC < 1.8
 	- trombo's < 150
@@ -29,8 +29,8 @@ ___
 	- DIS, TTP
 	- hypersplenisme: levercirrose, stapelingsziekte, lymfoom of auto-immuunaandoeningen
 ## Oorzaken
-Verworven
-- Beenmerginfiltratie
+### Verworven
+#### Beenmerginfiltratie
 - Maligne
 	- Acute leukemie
 	- CM(M)L/MPN
@@ -41,36 +41,36 @@ Verworven
 	- Myelofibrose
 	- Infectieus (eg, schimmels, TBC)
 	- Stapelingsziekten
-- Beenmergfalen
-	- Immuun-gemedieerd
-		- Aplastische anemie/PNH
-		- Medicatie (zie tabel 3)
-			- Cytostatica
-			- Idiosyncratische reacties
+#### Beenmergfalen
+- immuun-gemedieerd
+	- aplastische anemie/PNH
+	- medicatie (zie tabel 3)
+		- Cytostatica
+		- Idiosyncratische reacties
 	- LGL
-	- Autoimmuun (eg, SLE, RA, sarcoidose)    
+	- autoimmuun (eg, SLE, RA, sarcoidose)    
 	- HLH
-- Nutritioneel
-	- Megaloblastair (vitamine B12, FZ)
-	- Excessief alcoholgebruik
-	- Overig (eg, koperdeficiëntie, zink toxiciteit)
-	- Malnutritie/anorexia nervosa with gelatineuze degeneratie
-- Mergsupressie
-	- Viraal (eg, HIV, hepatitis, EBV)
-	- Ineffectieve hematopoiese (eg, MDS, nutritioneel)
-- Destructie/sequestratie/redistributie
-	- DIS (e.g. bij sepsis, acute promyelocytaire leukemie) 
-	- Splenomegalie
-		- Portale hypertensie/cirrose
-		- Infecties (eg, EBV)
-		- Autoimmuun (eg, SLE, RA/Felty syndroom)
-		- Maligniteiten (eg, lymfomen, MPN)
-		- Myelofibrose met myeloide metaplasie
-		- Stapelingsziekte (eg, Gaucher)
-Congenitaal
+- nutritioneel
+	- megaloblastair (vitamine B12, FZ)
+	- excessief alcoholgebruik
+	- overig (eg, koperdeficiëntie, zink toxiciteit)
+	- malnutritie/anorexia nervosa with gelatineuze degeneratie
+- mergsupressie
+	- viraal (eg, HIV, hepatitis, EBV)
+	- ineffectieve hematopoiese (eg, MDS, nutritioneel)
+#### Destructie/sequestratie/redistributie
+- DIS (e.g. bij sepsis, acute promyelocytaire leukemie) 
+- splenomegalie
+	- portale hypertensie/cirrose
+	- infecties (eg, EBV)
+	- autoimmuun (eg, SLE, RA/Felty syndroom)
+	- maligniteiten (eg, lymfomen, MPN)
+	- myelofibrose met myeloide metaplasie
+	- stapelingsziekte (eg, Gaucher)
+### Congenitaal
 - Wiskott Aldrich syndroom
 - Fanconi anemie
-- Dyskeratosis congenita/telomeer ziekte
+- dyskeratosis congenita/telomeer ziekte
 - Shwachman-Diamond syndroom
 - GATA2 deficiëntie
 - HLH
@@ -111,18 +111,14 @@ Congenitaal
 	- verlengde stollingstijden
 		- direct analyse TMA: fragmentocyten? trombopenie?
 			- negatief? zoek naar leverziekte, vitamine K deficiëntie, medicatie etc.
-## Anki
-ja
-## Aliassen
-[[bicytopenie]]
 ## Datum laatste update
 02-02-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## Cytopenie bij hypocellulair beenmerg
 - AA
 - hMDS
-	-  <30% cellulariteit <70j, <20% cellulariteit > 70j
+	-  < 30% cellulariteit < 70j, < 20% cellulariteit > 70j
 	- dysplasie bloeduitstrijkjes en beenmerg
 	- passende MoDi en cytogenetica helpt
 		- b.v. -7, del(5q), +8
@@ -161,8 +157,5 @@ ___
 	- geen duidelijke oorzaak?
 		- check lymfoide compartiment en voorgeschiedenis
 			- veel CD3+ T-cellen? Overweeg (T-)LGL
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

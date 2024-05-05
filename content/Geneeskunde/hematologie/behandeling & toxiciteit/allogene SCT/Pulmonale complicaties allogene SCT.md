@@ -1,7 +1,6 @@
 Niet-infectieuze pulmonale afwijkingen na allogene stamceltransplantaties zijn een belangrijk klinisch probleem. Deze afwijkingen kunnen variëren van milde symptomen zoals hoesten en kortademigheid tot ernstige complicaties zoals diffuse alveolaire bloeding (DAH) en bronchiolitis obliterans (BOS). Bij myeloablatieve (MA) regimes komen niet-infectieuze pulmonale complicaties voor bij ongeveer 10-15% van patiënten, terwijl bij niet-myeloablatieve/reduceerde intensiteit conditionering (NMA/RIC) dit percentage ligt tussen 5-10%. Bij bronchiolitis obliterans syndroom (BOS), cryptogene organiserende pneumonie (COP), en interstitiële pneumonitis syndroom (IPS) lijkt GvHD de voornaamste oorzaak te zijn, bij diffuse alveolaire bloeding (DAH) en mogelijk IPS lijkt de conditionering ook een belangrijke rol te spelen.
 ___
-# Vademecum AUMC, november 2017
-[link](https://www2.hematologie-amc.nl/JHM-ENP-099_Pulm_afwijk_niet_infec_na_alloSCT)
+**bron**: [lokaal protocol AMC, november 2017](https://www2.hematologie-amc.nl/JHM-ENP-099_Pulm_afwijk_niet_infec_na_alloSCT)
 ## Definities
 ### BOS: bronchiolitis obliterans syndroom
 - obstructief longlijden, geen koorts

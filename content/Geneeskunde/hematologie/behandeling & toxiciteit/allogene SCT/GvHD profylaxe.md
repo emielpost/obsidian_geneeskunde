@@ -1,7 +1,6 @@
 Graft vs. host ziekte is een bekende complicatie van allogene SCT en [[DLI]]. Acute GvHD uit zich als diarree, rash of de ontwikkeling van nieuwe leverenzymstoornissen, chronische GvHD kan zich in ieder orgaansysteem manifesteren waaronder huid, longen en genitalia.
 ___
-# Vademecum AUMC, maart 2020
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/ia-profylaxe-gvhd/)
+**bron**: [vademecum AUMC, maart 2020](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/ia-profylaxe-gvhd/)
 ## Immuunsuppressiva (IS)
 - ciclosporine
 	- NMA/RIC: oraal 2dd

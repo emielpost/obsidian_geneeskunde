@@ -1,35 +1,35 @@
-inleiding
+Thalassemie is een erfelijke aandoening waarbij de productie hemoglobine verstoord is, resulterend in chronische bloedarmoede. Deze autosomaal recessieve ziekte komt voornamelijk voor bij mensen afkomstig uit het Middellandse Zeegebied, het Midden-Oosten, delen van Azië (India, Indonesië) en Afrika. Het is een van de meest voorkomende aangeboren ziekten waarbij de dragers geen symptomen vertonen en een normale levensverwachting hebben. Majeure thalassemie, waarbij geen functionele hemoglobine meer wordt aangemaakt, leidt echter tot ernstige complicaties, zoals skeletafwijkingen en ijzerstapeling.
 ___
-# Richtlijn thalassemie, 2023
+**bron**: [richtlijn thalassemie, 2023](https://publicatie.hematologienederland.nl/richtlijnen/thalassemie/)
 ## Diagnostiek
-- Indicatie diagnostiek?
+- indicatie diagnostiek?
 	- symptomatologie
 	- familie anamnese
 	- onbegrepen hemolyse
 	- microcytair bloedbeeld
-- Welke diagnostiek?
+- welke diagnostiek?
 	- beta-thalassemie: HPLC en capillaire elektroforese
 		- m.n. t.b.v. antenatale diagnostiek mutatie analyse
-	- alfa thalassemie: altijd moleculair
+	- alfa-thalassemie: altijd moleculair
 		- meestal 7 meest voorkomende deleties met GAP-PCR
 			- overweeg alfa gen sequencing bij hoge verdenking
 - algemene lab afwijkingen
 	- beta-thalassemie: MCV 50-70 (max 80), hypochroom (laag MCH), reticulocytose, schietschijfcellen, normaal ijzer
 	- alfa-thalassemie: MCV 50-70 (max 80), hypochroom (laag MCH), reticulocytose
 ![[Pasted image 20240429152638.png]]
-## Monitoren orgaanschade (zie richtlijn)
-- vooral ijzerstapeling en osteoporose, zowel bij transfusieafhankelijke en -onafhankelijke thalassemie (TDT en NTDT)
+## Monitoren orgaanschade
+- vooral ijzerstapeling en osteoporose, zowel bij transfusieafhankelijke als -onafhankelijke thalassemie (TDT en NTDT)
 	- enkel ferritine en TSAT is onvoldoende
 - eerste consult
 	- o.a. leverlab, ijzerstatus, hormoononderzoek bij verdenking stapeling, pB19, HBV/HCV, HIV, MRI lever etc.
 - follow-up monitoring
-	- zie richtlijn, o.a. ECG, echo cor, botdenistometrie, endocriene parameters + extra monitoring bij chelatietherapie
+	- o.a. ECG, echo cor, botdenistometrie, endocriene parameters + extra monitoring bij chelatietherapie
 ## Bloedtransfusie
 ### Indicaties
 - Hb < 3.1
-- Hb < 4.3 
+- Hb < 4.3
 	- indien:
-		- chronische transfusiebehandeling
+		- chronische transfusie behandeling
 		- verandering ossale gezichtsstructuren
 		- groeiretardatie
 		- fracturen
@@ -43,13 +43,13 @@ ___
 - pB19 veilig indien seronegatief
 	- jaarlijks testen tot antistoffen
 ## Ijzerstapeling en ontijzeringstherapie
-- verricht MRI T2 en bepaal LIC en T2 waarden hart
-	- TDT?
+- verricht MRI T2 en bepaal LIC en MIC
+	- TDT
 		- vanaf 20-25 eenheden (gemiddeld 200mg ijzer per transfusie) of LIC > 3
 			- deferasirox
 				- alternatief: deferoxamine of deferipron
 			- bij cardiale ijzerstapeling deferipron, eventueel later i.c.m. deferoxamine
-	- NTDT (toename ijzerabsorptie)?
+	- NTDT (toename ijzerabsorptie)
 		- LIC > 5, ferritine > 800 of TSAT > 45%
 			- deferasirox
 			- bij acuut hartfalen door ijzerstapeling continue i.v. deferoxamine i.c.m. deferipron
@@ -60,18 +60,20 @@ ___
 	- leefstijladviezen: lichamelijke activiteit, vermijd roken etc.
 	- vroegtijdig DM opsporen
 - t.a.v. osteoporose:
-	- bisfosfanaten (altijd i.c.m. Ca/vit D), liefst zolendroninezuur
+	- bisfosfanaten (altijd i.c.m. calcium/vitamine D), liefst zolendroninezuur
 		- indicaties
-			- Z-score < -2.0 (<50j), T-score <-2.5 (>50j)
+			- Z-score < -2.0 (< 50j), T-score <-2.5 (> 50j)
 			- fragility fracturen en/of afname botdichtheid ondanks adequate vitamine D-spiegel
 			- hormoonbehandeling bij hypogonadisme
-		- na 12m DEXA-scan herhalen
+		- na 12 maanden DEXA-scan herhalen
 ## Tromboseprofylaxe?
 - geen indicatie tenzij NTDT (??), na splenectomie of niet uitgelokte trombose
 ## Pulmonale hypertensie
-- zowel intermedia als major screenen op PHT met TE
+- zowel intermedia als major screenen op PHT met TTE
 	- consult longarts indien verhoogde rechtsdrukken
-- indien CTEPH antistolling, bij beta-thalassemie intensificatie transfusies, primaire PH (precapillair)? specifieke behandelingen, post-capillaire PH verbeteren LVF
+- indien CTEPH antistolling, bij beta-thalassemie intensificatie transfusies
+	- primaire PH (precapillair)? specifieke behandelingen
+	- post-capillaire PH? verbeteren LVF
 ![[Pasted image 20240430101115.png]]
 ## Ulcus cruris
 - verwijs naar dermatoloog of plastische chirurg
@@ -81,14 +83,14 @@ ___
 		- hyperbare O2
 		- huidtransplantatie
 ## Fertiliteit, zwangerschap en counseling
-- benoem risico ernstig aangedaankind (als partner drager of aangedaan)
+- benoem risico ernstig aangedaan kind (als partner drager of aangedaan)
 - contraindicatie tijdens zwangerschap:
 	- ijzerchelatoren (enkel deferoxamine in specifieke gevallen), bisfosfanaten, interferon, ribavarine en hydroxycarbamide
 - benadruk gebruik van foliumzuur, calcium en vitamine D
 - vóór zwangerschap:
 	- mate van ijzerstapeling, cor functie, endocriene assen, botdensiteit, leverfunctie, vitale status moeder, bloedgroep antigeenstatus en allo-antistoffen
 - tijdens zwangerschap:
-	- NTDT en TDT in hemoglobinopathiekenniscentrum in nauw contact met gynaecoloog: ieder trimester cardiale functie, schildklier en leverfunctie
+	- NTDT en TDT in hemoglobinopathie kenniscentrum in nauw contact met gynaecoloog: ieder trimester cardiale functie, schildklier en leverfunctie
 ## Splenectomie
 - indicaties?
 	- toename transfusiebehoefte en inadequate ontijzeringsmogelijkheden
@@ -117,30 +119,27 @@ ___
 			- geen effect?  dan gentherapie
 		- NDTD en ernstige extramedullaire hematopoëse? 
 			- luspatercept
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 07-02-2024
 ___
-# Diagnostiek van thalassemieën, NTvG 2014
+**bron**: diagnostiek van thalassemieën, NTvG 2014 ([[NTvG_diagnostiek_thalassemieen.pdf]])
 ## Achtergrond
 - hemoglobinopathieën x2:
 	- structurele afwijkingen ketenproductie, i.e. sikkelcelziekte
 	- kwantitatieve afwijkingen ketenproductie: thalassemieën
 - Hb = tetrameer, 2 koppels van globineketens
-	- ~ 97% HbA1: alfa_2, beta_2
-	- ~ 2-3% HbA2: alfa_2, delta_2
-	- ~ 0-0.5% HbF: alfa_2, gamma_2
+	- ~ 97 % HbA1: alfa_2, beta_2
+	- ~ 2-3 % HbA2: alfa_2, delta_2
+	- ~ 0-0.5 % HbF: alfa_2, gamma_2
 - Thalassemie: autosomaal recessieve overerving
-	- alfa thalassemie iets ingewikkelder 4 alfa_globine genen die als koppel overerven
+	- alfa thalassemie iets ingewikkelder: 4 alfa_globine genen die als koppel overerven
 		- kans op alfa thalassemie kind ~ aantal en combinatie van alfa-genen dat gemuteerd is
 ## Herkomst en incidentie
-- beta thalassemie: vooral rond Middelandse Zee, maar ook Azië en Afrika
-- alfa thalassemie: vooral Z-O Azië, India, China en Filippijnen.
+- beta-thalassemie: vooral rond Middelandse Zee, maar ook Azië en Afrika
+- alfa-thalassemie: vooral Z-O Azië, India, China en Filippijnen
 - autochtone NL'ers: circa 1:1000 t.g.v. spontane mutaties en verre voorouders
 ## Kliniek en behandelmogelijkheden
-### Alfa thalassemie
+### Alfa-thalassemie
 - mild: 
 	- 1 alfa gen gemuteerd: -a/aa
 		- heterozygoot a+
@@ -159,13 +158,13 @@ ___
 	- 4 gemuteerd: --/--
 		- Hb-Barts-hydrops-foetalis-syndroom
 		- niet levensvatbaar: overlijdt perinataal
-### Beta thalassemie
+### Beta-thalassemie
 - dragerschap/heterozygoot
 	- meestal asymptomatisch, soms intermedia met transfusiebehoefte
 - homozoygoot/major vorm
 	- ernstig: kind met icterus, hemolytische anemie en hepatosplenomegalie
 		- transfusies en ijzerchelatie, allo enige curatieve optie
-- compound-heterozygotie
+- compound heterozygotie
 	- + structurele hemoglobinopathie
 		- HbSbeta: sikkelcelanemie
 		- E-beta-thalassemie (+HbE): beta thalassemie intermedia
@@ -174,22 +173,23 @@ ___
 - onverklaarde microcytaire hypochrome anemie
 	- MCV < 90 fL als heterozygoot, ferritine normaal
 	- typisch: hogere erytrocytenconcentratie (compensatie)
-	- +/- vormafwijkingen en insluitsels: microcytose, anisopoikilocytose, targetcellen of basofiele stippeling
+	- +/- vormafwijkingen en insluitsels: microcytose, aniso-/poikilocytose, target cellen of basofiele stippeling
 ### screenend Hb onderzoek
 - capillair-elektroforese of HPLC
 	- structurele Hb-pathieën: andere pieken
-	- beta thalassemie:
+	- beta-thalassemie:
 		- verminderde expressie beta genen
 			- heterozygoot: minder HbA, verhoogd % HbA2, verhoogde HbF-waarde
 			- homozygoot: enkel HbA2 en HbF
-	- alfa thalassemie:
+	- alfa-thalassemie:
 		- milde ziekte: verlaagd % HbA2, maar minimaal
 			- moleculaire diagnostiek vaak noodzakelijk
 		- HbH: tetrameren van énkel beta-ketens (beta_4): afwijkende piek in het Hb-chromatogram
 ### moleculaire diagnostiek
-- alfa thalassemie: grote stukken DNA (enkele kilobasen)
-- beta thalassemie vaak puntmutaties: deletis, inserties of verwisselingen van 1 of enkele basen.
-	- vaak gap-PCR: breekpunten veel voorkomende deleties gescreend. Negatief? dan zelfdzamere varianten, al dan niet hele globinegen sequencen.
+- alfa-thalassemie: grote stukken DNA (enkele kilobasen)
+- beta-thalassemie vaak puntmutaties: deleties, inserties of verwisselingen van 1 of enkele basen.
+	- vaak gap-PCR: breekpunten veel voorkomende deleties gescreend. n
+		- negatief? dan zelfdzamere varianten, al dan niet hele globinegen sequencen.
 ### hielprik
 - enkel HbH-ziekte en homozygote beta-thalassemie
 ## Interpretatie laboratoriumonderzoek
@@ -201,19 +201,17 @@ ___
 - vrij aardige correlatie tussen genotype en kliniek: goed voor counseling etc.
 ### valkuilen bij interpretatie
 #### ijzer
-- ferritine <40: nog aanzienlijke kans op ijzergebrek (<15 +++ specifiek), andersom: inflammatie + ferritine 100-150: ijzergebrek kán.
-- bedenk: FZ-suppletie, ook als voorraden normaal.
+- ferritine < 40: nog aanzienlijke kans op ijzergebrek (< 15 +++ specifiek), andersom: inflammatie + ferritine 100-150: ijzergebrek kán
+- bedenk: FZ-suppletie, ook als voorraden normaal
 #### MCV
 - check MCV in het verleden
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 07-02-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
+
 - hereditaire, hypochrome, microcytaire anemie
-	- hemolyse, ineffectieve erytropoiese en onvoldoende ijzerinbouw
+	- hemolyse, ineffectieve erytropoïese en onvoldoende ijzerinbouw
 ## bloed
 - beta: microcytose, hypochromie, anisocytose, traandruppel- en schietschijfcellen. 
 	- voorstadia granulopoïese bij ernstige hemolyse kán
@@ -222,8 +220,5 @@ ___
 - erytroïde hyperplasie, basofiele punctering erytroblasten, toename macrofagen incl. schuimcellen
 - ijzerkleuring: hoog aantal sideroblasten
 	- DD ernstig ijzergebrek moeilijk (dan geen basofiele stippeling)
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 21-02-2024

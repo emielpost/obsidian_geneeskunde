@@ -1,7 +1,6 @@
 Veno-occlusieve ziekte (VOD) kan optreden na stamceltransplantatie, inclusief na autologe SCT. Het ontstaat door schade aan het sinusoïdale endotheel van de lever en hepatocyten na conditionering. Klinisch presenteert het zich meestal binnen een maand na de transplantatie met symptomen als gewichtstoename, hyperbilirubinemie, pijn in de leverstreek en ascites. Trombocytopenie, nierinsufficiëntie, hepatische encefalopathie en MOF kunnen volgen. Vroege herkenning en behandeling zijn essentieel vanwege de ernst van de complicatie.
 ___
-# Vademecum AUMC, januari 2023
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/sinusoidaal-obstructie-syndroom-sos-veno-occlusive-ziekte-vod/)
+**bron**: [vademecum AUMC, januari 2023](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/sinusoidaal-obstructie-syndroom-sos-veno-occlusive-ziekte-vod/)
 ## Risicofactoren
 - pre-existente leverschade
 - busulfan

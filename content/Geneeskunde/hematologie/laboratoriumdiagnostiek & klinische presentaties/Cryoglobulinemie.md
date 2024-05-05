@@ -1,10 +1,10 @@
-Cryoglobulines zijn immuunglobulines die neerslaan <37 graden en weer oplossen bij opwarmen. In vivo vindt neeerslag in bloedvaten met als klinisch gevolg een vasculitis. Er bestaan drie typen:
-- Type I: monoklonaal IgG of IgM, zelden IgA of VLK's. Onderliggend altijd klonale aandoeningen: MGUS, MM, WM of CLL.
-- Type II: gemengd monoklonaal IgM-RF en polyklonaal IgG; 90% HCV, circa 10% geen oorzaak ('essentieel'). Overig: HIV, HBV, systeemziekten en lymfoproliferatieve aandoeningen.
-- Type III: gemengd polyklonaal IgM-RF en polyklonaal IgG. Altijd secundair aan systeemziekten of infecties (vaak HCV). 
+Cryoglobulines zijn immuunglobulines die neerslaan < 37 graden en weer oplossen bij opwarmen. In vivo vindt neerslag in bloedvaten met als klinisch gevolg een vasculitis. Er bestaan drie typen:
+- Type I: monoklonaal IgG of IgM, zelden IgA of VLK's. Onderliggend altijd klonale aandoeningen: MGUS, MM, WM of CLL
+- Type II: gemengd monoklonaal IgM-RF en polyklonaal IgG; 90% HCV, circa 10% geen oorzaak ('essentieel'); overig: HIV, HBV, systeemziekten en lymfoproliferatieve aandoeningen
+- Type III: gemengd polyklonaal IgM-RF en polyklonaal IgG, altijd secundair aan systeemziekten of infecties (vaak HCV)
 Bedenk dat asymptomatisch cryoglobulinemie, zelfs in gezonde individuen, kan voorkomen. Dan vaak in lage concentraties.
 ___
-# How I treat cryoglobulinemia, Blood 2017
+**bron**: [how I treat cryoglobulinemia, Blood 2017](https://ashpublications.org/blood/article/129/3/289/36030/How-I-treat-cryoglobulinemia) 
 ## Pathogenese
 - type I: neerslag i.f.v. temperatuur en concentratie (i.e. in extremiteiten en nieren)
 - type II en III: immuuncomplex vorming bij IgG met zekere antigeen aviditeit (en dus vaak bij HCV)
@@ -13,13 +13,13 @@ ___
 - meten cryocriet indien mogelijk (type I > II > III) maar slechte correlatie tussen hoeveelheid en kliniek.
 - aanvullend RF en complementstudies
 ## Cryoglobulinemie en hematologische aandoeningen
-- <25% van alle cryoglobulinemieën
+- < 25% van alle cryoglobulinemieën
 	- type I: vooral WM, MM en CLL
 	- type II: meer in WM of B-cellymfomen
 ## Kliniek en behandeling
 ### kliniek type I
 meestal vasculair bepaald maar ook kleine-vaten vasculitis:
-- huid (70-85%): livedo reticularis, Raynaus, ulcera, ...
+- huid (70-85%): livedo reticularis, Raynaud, ulcera, ...
 - perifere neuropathie (30%), meestal pijnlijk en onderste extremiteiten
 - arthralgie (30%)
 - renale betrokkenheid: proteinurie, microscopische hematurie en MPGN op biopt
@@ -39,7 +39,7 @@ indien symptomatisch:
 - huid: purpura (90%), vaak flare door koude, inspanning, depilatie, infecties; meestal voeten/benen maar kan uitbreiden
 	- triade van Meltzer (33%): koorts, artralgie en purpura
 	- minder vaak ulcera en livedo reticularis
-- perifere neuropathie (30%): 
+- perifere neuropathie (30%)
 - arthralgie (30%)
 - nauwelijks hyperviscositeit
 - zelden: long-(fibrose/COP/alveolaire bloeding), gastro-intestinale-, CNS- (CVA, verwardheid) of cardiale betrokkenheid (ischemie of dilaterende CMP)
@@ -68,8 +68,5 @@ indien symptomatisch:
 		- overweeg restadiëren ziekte
 ### HCV-geassocieerde gemengde cryoglobulinemie
 - wederom i.f.v. ernst: eerst immuunsuppressiva (incl. rituximab), gevolgd door antivirale therapie, of enkel antivirale therapie
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

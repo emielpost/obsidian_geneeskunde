@@ -2,99 +2,105 @@ Chronische lymfatische leukemie (CLL) is de meest voorkomende vorm van leukemie 
 ___
 # Richtlijn chronische lymfatische leukemie/ kleincellig lymfocytair lymfoom, 2021
 ## Diagnose CLL
-- Bloedbeeld, incl. diff: lymfocytose, kapot gestreken en grumulée patroon
+- bloedbeeld, incl. diff: lymfocytose, kapot gestreken en grumulée patroon
 - IFT: CD19+, CD20 zwak, CD5+, CD23+, kappa/lambda zwak en afwijkende ratio
-	- Additioneel: CD200+, CD43+, CD79b +/- of -
+	- additioneel: CD200+, CD43+, CD79b+/- of -
 ### Definities
-- CLL: >5x10^9/L monoklonale B-cellen met passende IFT
-- SLL: <5x10^9/L circulerende monoklonale B-cellen met lymfadenopathie en/of splenomegalie en in lymfeklier lymfoide cellen met grumulee kernstructuur en passende IFT
-- Monoklonale B-lymfocytose: <5x10^9/L circulerende monoklonale B-cellen zonder lymfadenopathie, splenomegalie of symptomen
+- CLL: > 5 x 10<sup>9</sup>/L monoklonale B-cellen met passende IFT
+- SLL: < 5 x 10<sup>9</sup>/L circulerende monoklonale B-cellen met lymfadenopathie en/of splenomegalie en in lymfeklier lymfoide cellen met grumulee kernstructuur en passende IFT
+- MBL: < 5 x 10<sup>9</sup>/L circulerende monoklonale B-cellen zonder lymfadenopathie, splenomegalie of symptomen
 ### Stadiëring
-- Rai (lymfo's, lymfadenopathie, organomegalie, trombocytopenie) of Binet (Hb, trombo's en klierstations)
+- Rai (lymfo's, lymfadenopathie, organomegalie, trombocytopenie)
+- Binet (Hb, trombo's en klierstations)
 #### Actieve ziekte ja/nee
-- Minimaal 1 van:
+- minimaal 1 van:
 	- B-symptomen en/of extreme vermoeidheid
         - BMF'en
-        - Steroïd refractaire AIHA en/of ITP
-        - Massale of progressieve splenomegalie
-        - Massale klieren of -pakken of progressieve lymfadenopathie
-        - Progressieve lymfocytose met stijging >50% <2m, of geanticipeerde verdubbelingstijd <6 maanden
+        - steroïd refractaire AIHA en/of ITP
+        - massale of progressieve splenomegalie
+        - massale klieren of -pakketten of progressieve lymfadenopathie
+        - progressieve lymfocytose met stijging > 50% in < 2 maanden, of geanticipeerde verdubbelingstijd < 6 maanden
 #### Behandelindicatie ja/nee
-- Rai I/II of Binet B: indien actieve ziekte
 - Rai III/IV of Binet C: ja
+- Rai I/II of Binet B: indien actieve ziekte
 ### Diagnostiek voor start behandeling
-- Bloedonderzoek: o.a. DAT, Ig's, beta2microglobuline, hep B/C serologie en HIV
-- Cytogenetica: del(17p), moleculair: TP53-mutatie (minimaal 10%)
+- bloedonderzoek: o.a. DAT, Ig's, beta2microglobuline, hep B/C serologie en HIV
+- cytogenetica: del(17p), moleculair: TP53-mutatie (> 10%)
 - IGHV mutatiestatus (mits consequentie voor therapiekeuze)
-- Beenmergonderzoek: Bij trombopenie of anemie: verdringing of auto-imuun?
-- Beeldvorming: CT hals/thorax/abdomen (mits consequenties voor therapiekeuze en inschatting TLS)
+- beenmergonderzoek: bij trombopenie of anemie → verdringing of auto-imuun?
+- beeldvorming: CT hals/thorax/abdomen (mits consequenties voor responsevaluatie of ter inschatting TLS)
 ## Prognostische classificatie
-- volgens CLL-IPI (zie tabel 5, p17): TP53/del(17p) + IGHV mutatiestatus + beta2microglobuline + Binet/Rai stadium + leeftijd
-## Eerstelijns behandeling
+- volgens CLL-IPI (zie tabel 5, p17): 
+	- TP53/del(17p) + IGHV mutatiestatus + beta2microglobuline + Binet/Rai stadium + leeftijd
+## 1e lijns behandeling
 ###  Laag risico (geen del(17p), TP53 niet-gemuteerd)
-- Fit
-    - <65j:
-        - Gemuteerde IGHV-status
+- fit
+    - < 65 jaar:
+        - gemuteerde IGHV-status
             - FCR (curatie bij 50%; na remissie van 6j nauwelijks recidieven)
-        - Ongemuteerde IGHV-status
+        - ongemuteerde IGHV-status
             - FCR of ibrutinib
-    - > 65j:
-        - Gemuteerde IGHV-status
+    - > 65 jaar:
+        - gemuteerde IGHV-status
             - BR90
-        - Ongemuteerde IGHV-status
+        - ongemuteerde IGHV-status
             - BR90 of ibrutinib
-- Niet fit
-    - Gemuteerde IGHV-status
+- niet fit
+    - gemuteerde IGHV-status
         - 1e keuze: Chl-O
         - 2e keuze: Chl-R
         - 3e keuze: acalabrutinib, ibrutinib of ven-O
-    - Ongemuteerde IGHV-status
-        - 1e keuze: acalabrutinib, ibrutinib, ven-O of Chl-O
+    - ongemuteerde IGHV-status
+        - 1e keuze: acalabrutinib, chl-O, ibrutinib of ven-O
         - 2e keuze: Chl-R
-        - Overwegingen: behandelduur, behandelzwaarte, therapietrouw, comorbiditeit, lange termijn complicaties, cardiale toxische effecten ibrutinib
+        - overwegingen: behandelduur, behandelzwaarte, therapietrouw, comorbiditeit, lange termijn complicaties, cardiale toxische effecten ibrutinib
 ### Hoog risico (del(17p) of TP53)
-- 1e keuze: ibrutinib (relatieve c.i.: antistolling, CV voorgeschiedenis en/of sterke CYP3A4-remmer)
-- 2e keuze: acalabrutinib of venetoclax continue of venetoclax-obinutuzumab
-- 3e keuze: idelalisib-rituximab
+- 1e keuze: acalabrutinib of ibrutinib (relatieve c.i.: antistolling, CV voorgeschiedenis en/of sterke CYP3A4-remmer)
+- 2e keuze: venetoclax continue of ven-O
+- 3e keuze: R-idelalisib
 ## Behandeling recidief
-### Vroeg recidief, of refractaire ziekte, of recidief met del(17p) of TP53-mutatie
-- venetoclax-rituximab
-- acalabrutinib of ibrutinib
-- idelalisib-rituximab of venetoclax continue
-- (Overweeg allo)
-### Laat recidief (>4-6j na FCR, >3j na R-benda, >1j na chloorambucil) zonder del(17p) of TP53-mutatie
-- Fit (<65-70j)
-    - Venetoclax-rituximab
-    - FCR, BR70
-    - Acalabrutinib of ibrutinib
-- Niet-fit
-    - Venetoclax-rituximab
-    - BR70 of chloorambucil-rituximab
-    - Acalabrutinib of ibrutinib
-### Behandeling R/r na doelgerichte therapie (ibrutinib, acalabrutinib, venetoclax of idelalisib)
+### Vroeg recidief, refractair of recidief met del(17p) of TP53-mutatie
+- acalabrutinib, ibrutinib of ven-R
+- duvelisib, idelalisib-R of venetoclax continue
+- (overweeg allo)
+### Laat recidief
+- fit (<65-70j)
+	- \> 4-6 jaar na FCR: 
+		- ven-R
+	    - FCR, BR70
+	    - acalabrutinib of ibrutinib
+- niet-fit
+	- \> 3 jaar na R-benda, > 1 jaar na chloorambucil:
+	    - ven-R
+	    - BR70 of chl-R
+	    - acalabrutinib of ibrutinib
+### Behandeling R/r na doelgerichte therapie
 ### zonder del(17p)/TP53-mutatie
-- Venetoclax-rituximab, ibrutinib of venetoclax
-- Chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R)
-- (Overweeg allo)
+- acalabrutinib, ibrutinib, venetoclax continue of ven-R
+- chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R), duvelisib of R-idelalisib
+- (overweeg allo)
 ### del(17p)/TP53-mutatie
-- Venetoclax-rituximab, ibrutinib of venetoclax
-- Idelalisib-rituximab
-- (Overweeg allo)
+- acalabrutinib, ibrutinib, venetoclax continue of ven-R
+- chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R), duvelisib of R-idelalisib
+- (overweeg allo)
 ## Allo SCT
-- Overweeg wanneer:
-    - Klonaal gerelateerde transformatie naar DLBCL
+- overweeg wanneer:
+	- patiënt met:
+	    - del(17p) en/of TP53, én
+	    - R/R na chemo-immuno én R/R na kinaseremmer of venetoclax
+    - patiënt met:
+	    - lage kans op 2-jaars NRM, én
+	    - R/R na chemo-immuno én R/R na kinaseremmer of venetoclax
+	- patiënt met:
+		- lage kans op 2-jaars NRM, én
+		- del(17p) en/of TP53, én
+		- R/R na kinaseremmer of venetoclax
+    - klonaal gerelateerde transformatie naar DLBCL
         - (Eerst inductie met R-CHOP)
-    - R/R na kinaseremmer én venetoclax
+    - refractair op kinaseremmer én venetoclax
         - (Tenzij geen del(17p) en TP53 (eerst chemo-immuno))
-    - R/R na kinaseremmer óf venetoclax
-        - (En lage 2j NRM (~ leeftijd, WHO PS, HLA-match, comorbiditeit, geslacht donor), en:
-            - R/R na chemo-immuno, of
-            - Del(17p) en/of TP53-mutatie)
-    - Inductie
-        - Minimaal PR met kinaseremmer/venetoclax, alternatief R-DHAP (ook effectief als del(17p) en/of TP53).
-        - Indien refractair op kinaseremmer/venetoclax: overweeg schema volgens Castro met hoge dosis methylpred en rituximab.
 ## Transformatie
-- Hodgkin: Als de novo Hodgkin
+- Hodgkin: als de novo Hodgkin
 - Richters (DLBCL)
     - Klonaal gerelateerd (IGHV sequencing) aan CLL?
         - Ja: 1st R-CHOP, 2nd allo
@@ -103,9 +109,13 @@ ___
 - Zie pagina's 36 en 37
 ## Module 8: Supportive care bij doelgerichte therapie en chemo-immunotherapie
 ### Venetoclax
-- TLS: Volgens tabellen 6-8
-    - cave o.a.: Allopurinol niet op dagen dat rasburicase wordt gegeven
-- neutropenie: G-CSF en eventueel AB
+- TLS: volgens tabellen 6-8
+    - cave o.a.: allopurinol niet op dagen dat rasburicase wordt gegeven
+- neutropenie: G-CSF en eventueel AB (figuur 1)
+	- CYP3A4 remmers en inductoren bij venetoclax:
+		- absolute contra-indicatie sterke CYP3A4 remmers
+		- relatieve contra-indicatie verapamil, diltiazem, amiodarone, voriconazol, itraconazol en digoxine
+		- overweeg dosisreductie bij vermoeden toxiciteit venetoclax
 ### Ibrutinib
 - verhoogd bloedingsrisico
     - absoluut niet i.c.m. VKA (weinig ervaring mee), DOAC + TAR of DAPT
@@ -179,10 +189,6 @@ ___
 	- beenmerg indien cytopenie of consequenties (b.v. bij CR of MRD in studies)
 	- beeldvorming: CT h/th/abd, mits consequenties
 - zie tabel 9 voor respons-criteria
-## Anki
-ja
-## Aliassen
-[[ouderdomsleukemie]]
 ## Datum laatste update
 04-02-2024
 ___

@@ -1,7 +1,6 @@
 Conditioneringsschema's voor allogene stamceltransplantatie spelen een cruciale rol bij het voorbereiden van de patiënt op de transplantatieprocedure en het bevorderen van het succes ervan. Deze schema's omvatten een combinatie van chemotherapie en/of radiotherapie, die worden gebruikt om het immuunsysteem van de ontvanger te onderdrukken en ruimte te maken voor de nieuwe stamcellen. De keuze van het conditioneringsschema hangt af van verschillende factoren, waaronder de leeftijd en algehele gezondheid van de patiënt, de aard en het stadium van de ziekte, en eventuele eerdere behandelingen die de patiënt heeft ondergaan.
 ___
-# Vademecum AUMC, oktober 2021
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/conditioneringsschemas-allo-pbsct/)
+**bron**: [vademecum AUMC, oktober 2021](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/conditioneringsschemas-allo-pbsct/)
 ## Myeloablatief (MA)
 ### ALL < 40j
 - 10/10 SIB

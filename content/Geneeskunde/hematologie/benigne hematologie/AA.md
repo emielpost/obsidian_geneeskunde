@@ -1,7 +1,6 @@
 Aplastische anemie is een vorm van immuungemedieerd beenmergfalen. Er is in de pathofysiologie een rol weggelegd voor oligoklonale CD8+ T-cellen, CD4+ T-cellen, afwijkende Treg's en gamma delta T-cellen. Een significant deel van de patiënten laat een toename van GPI-anker negatieve cellen zien en hebben dus bijkomend een [[PNH]]. De aandoening is zeldzaam en niet altijd makkelijk te diagnosticeren, met name het onderscheid met hypoplastische [[MDS]] kan moeilijk zijn. 
 ___
-# Richtlijn verworven aplastische anemie, maart 2019
-[link](https://publicatie.hematologienederland.nl/richtlijnen/verworven-aplastische-anemie-bij-volwassenen/)
+**bron**: [richtlijn verworven aplastische anemie, maart 2019](https://publicatie.hematologienederland.nl/richtlijnen/verworven-aplastische-anemie-bij-volwassenen/)
 ## Differentiaal diagnose
 - o.a. congenitaal BMF'en:
 	- Fanconi anemie: hyperpigmentatie, café-au-lait, korte gestalte, dysplastische duim, onderontwikkelde radius, microcefalie, abnormale nieren, verminderde fertiliteit. Familiair voorkomen gynaecologische- of hoofd/hals maligniteiten, MDS en/of ++ toxiciteit chemo- en/of radiotherapie

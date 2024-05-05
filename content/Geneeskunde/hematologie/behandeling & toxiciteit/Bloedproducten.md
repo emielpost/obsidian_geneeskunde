@@ -1,5 +1,4 @@
-# Indicaties per product, vademecum AUMC, februari 2022
-[link](https://vademecum.hematologie.nl/artikelen/transfusiebeleid/richtlijn-transfusies/)
+**bron**: [vademecum AUMC, februari 2022](https://vademecum.hematologie.nl/artikelen/transfusiebeleid/richtlijn-transfusies/)
 ## Erytrocytenconcentraat
 ### gewassen
 - IgA-deficiëntie

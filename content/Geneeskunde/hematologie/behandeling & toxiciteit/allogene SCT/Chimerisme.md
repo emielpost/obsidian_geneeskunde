@@ -1,7 +1,6 @@
 Chimerisme onderzoek wordt gebruikt om ontvanger- en donorcellen te onderscheiden bij patiënten na allogene stamceltransplantatie. Bij een "compleet donorchimerisme" zijn alle hematopoëtische cellen afkomstig van de donor, terwijl niet-hematopoëtische cellen nog steeds van de ontvanger zijn. "mixed chimerisme" kan tijdelijk optreden na een niet-myeloablatieve stamceltransplantatie en kan na ongeveer 3 maanden overgaan in volledig donorchimerisme. Aanhoudend "mixed chimerisme" kan leiden tot immuuntolerantie en een verhoogd risico op recidief. Het monitoren van chimerisme is doorgaans niet sensitief genoeg om recidieven tijdig te voorspellen.
 ___
-# Vademecum AUMC, maart 2022
-[link](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/chimerisme-onderzoek-en-graft-failure/)
+**bron**: [vademecum AUMC, maart 2022](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/chimerisme-onderzoek-en-graft-failure/)
 ## Chimerisme
 - Uitblijven volledig donor chimerisme geeft hoog recidief risico en/of rejectie.
 - NMA bij goedaardige aandoeningen vaak permanent mixed chimerisme (m.n. T-cellen). 

@@ -1,7 +1,6 @@
 Mucositis is een veelvoorkomende complicatie van met name blootstelling aan hoge doses chemotherapie, zoals cytarabine, BEAM, melfalan, cyclofosfamide, al dan niet in combinatie met radiotherapie.
 ___
-# Vademecum AUMC, 2013
-[link](https://www2.hematologie-amc.nl/JHM-MUC-004_mucositis)
+**bron**: [lokaal protocol AMC, 2013](https://www2.hematologie-amc.nl/JHM-MUC-004_mucositis)
 ## Preventie
 - focusonderzoek tandarts en mondhygiënist en verpleegkundige anamnese
 - cryotherapie
