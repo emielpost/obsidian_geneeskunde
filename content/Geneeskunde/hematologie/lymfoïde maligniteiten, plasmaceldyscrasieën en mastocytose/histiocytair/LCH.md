@@ -1,14 +1,13 @@
 Langerhans-celhistiocytose (LCH) kan zowel kinderen als volwassenen treffen en manifesteert zich met een breed scala aan klinische verschijnselen, waaronder unifocale laesies, single-system multifocale betrokkenheid, single-system pulmonale vorm (geassocieerd met roken), of multisysteemziekte. De bestaande behandelingsrichtlijnen voor LCH bij volwassenen zijn grotendeels gebaseerd op bevindingen uit de pediatrische literatuur. In de afgelopen tien jaar heeft de ontdekking van clonaliteit en mutaties in de MAPK-ERK-signaalroute in de meeste gevallen geleid tot de erkenning van LCH als een hematopoëtische maligniteit. Dit heeft de deuren geopend voor behandelingen met gerichte therapieën.
 ___
-# International Expert Consensus Recommendations for the Diagnosis and Treatment of LCH in Adults, 2022
-
-## LCH subtypes and definitions (See Table 2)
-- Unifocal (solitaire laesie)
-    - Single-System Pulmonary
-        - ~ Roken
-- Single-System Multifocal (>1 Lesion in 1 Organsystem)
-- Multisystem (>1 Organsystems)
-### Gemengde Histiocytose
+bron: [International Expert Consensus Recommendations for the Diagnosis and Treatment of LCH in Adults, 2022](https://ashpublications.org/blood/article/139/17/2601/484364/International-expert-consensus-recommendations-for)
+## LCH subtypes and definitions
+- unifocaal (solitaire laesie)
+    - single-system pulmonary
+        - ~ roken
+- single-systeem multifocaal (> 1 laesie in 1 orgaansysteem)
+- multisysteem (> 1 orgaansystemen)
+### Gemengde histiocytose
 - overlap met ECD
 	- ECD altijd tegelijkertijd met of na LCD
     - minder op dezelfde anatomische lokatie
@@ -19,32 +18,32 @@ ___
 ## LCH een concomitante hematologische/solide neoplasmata
 - ~ met o.a. AML, MPN, CMML, lymfomen
 - long- en thyroidcarcinoom, RCC
-- wees hier alert op
+- wees hier alert op!
 ## Kliniek en radiologie van LCH
-- Pulmonaal 40-50%
+- pulmonaal 40-50%
     - meestal dyspnoe bij verminderde DLCO, soms pneumothorax
     - HRCT nodulaire/cysteuze laesies
 - lytische botlaesies 30-50%, FDG-avide
 - endocrien 20-25%
     - diabetes insipidus of (pan-)hypopit
     - vaak irreversibel en zonder radiologisch substraat
-- CNS en Orbitae 15-20%
+- CNS en orbitae 15-20%
     - focale laesies in m.n. hypofyse-steel, hypothalamus of glandula pinealis
     - soms neurodegeneratieve LCH
-- Lever en milt: 10-15%
+- lever en milt: 10-15%
     - In laat stadium scleroserende cholangitis-achtig beeld. Doe MRI.
-- Huid 5-10%
+- huid 5-10%
     - erythemateuze papulaire rash
-- Beenmerg en Lymfenoduli
+- beenmerg en lymfenoduli
     - betrokkenheid kan, cave andere hematologische maligniteit. LA bijna nooit zonder multisysteem betrokkenheid.
-- Gastro-intestinaal en cardiovasculair
+- gastro-intestinaal en cardiovasculair
     - zeldzaam, indien CV vaak LCH/ECD overlap
 ## Diagnose van LCH in volwassenen
-- Histopathologie!
-    - Indien van toepassing longbiopt nastreven
-	    - als dit niet lukt: MoDI perifeer bloed op MAPK-ERK mutaties
+- histopathologie!
+    - indien van toepassing longbiopt nastreven
+	    - als dit niet lukt: MoDi perifeer bloed op MAPK-ERK mutaties
     - multipele naaldbiopten (5-10)
-    - botweefsel: EDTA-gebaseerde decalcificatie t.b.v. MoDI
+    - botweefsel: EDTA-gebaseerde decalcificatie t.b.v. MoDi
 ### Histopathologische Kenmerken en Differentiaal Diagnose
   - klassiek: 'foamy histiocytes'
 	  - vaak reactief inflammatoire achtergrond: eo's, kleine lymfo's en macrofagen
@@ -63,16 +62,17 @@ ___
     - negatief:
 	    - overige mutaties MAPK-ERK- en geassocieerde pathways
 ### Diagnostiek voor start behandeling
-- [Zie](https://ashpublications.org/blood/article/139/17/2601/484364/International-expert-consensus-recommendations-for) paragraaf op p2606 en p2607 en figuur 3 op p2611
-## Behandeling ([zie](https://ashpublications.org/blood/article/139/17/2601/484364/International-expert-consensus-recommendations-for) ook figuur 4, p2615)
+- zie paragraaf op pagina 2606 en pagina 2607 en figuur 3 op pagina 2611
+## Behandeling 
+- zie ook figuur 4, pagina 2615
 ### Unifocale LCH
-- Vaak curabel met lokale therapie: chirurgie, RT of intralesionale corticosteroiden
-- Anogenitale of gingivale lesies: oraal MTX of hydrea
-- Cutaan: topisch of orale therapie
+- vaak curabel met lokale therapie: chirurgie, RT of intralesionale corticosteroiden
+- anogenitale of gingivale lesies: oraal MTX of hydrea
+- cutaan: topisch of orale therapie
 - CNS, hypofyse, lever, milt, hart etc.: lokaal vaak moeilijk dus dan systemisch conform multisysteem ziekte
 ### Single-System Pulmonale LCH
 - enkel long:
-    - Individualiseren o.b.v. longfunctie en radiologische uitgebreidheid.
+    - individualiseren o.b.v. longfunctie en radiologische uitgebreidheid.
     - stoppen met roken, incl. vapen of marijuana!!
 	    - vaak enige noodzakelijke interventie
 	    - +/- CC's en langwerkend beta2-agonist
@@ -82,7 +82,7 @@ ___
     - bisfosfonaat als 1e keuze
 - enkel huid (inclusief mucosa)
     - MTX (oraal)
-    - Hydrea
+    - hydrea
 - Refractair?
 	- cladribine lijkt effectief
 	- vinblastine minder
@@ -91,7 +91,7 @@ ___
 ### Multifocale en multisysteem LCH
 - asymptomatisch en niet-kritische organen?
     - initieel observatie en active surveillance kan
-- symptomatische en/of CNS, lever, long etc. (o.b.v. [NCCN](https://www.nccn.org/professionals/physician_gls/pdf/histiocytic_neoplasms.pdf) guidelines):
+- symptomatische en/of CNS, lever, long etc. (o.b.v. [NCCN](https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1502) guidelines):
     - BRAF-gemuteerd
         - 1e keuze vemurafenib
         - 2e keuze dabrafenib
@@ -99,7 +99,7 @@ ___
         - 1e keuze: cobimetinib
         - 2e keuze: trametinib, binimetinib, selumetinib
     - onafhankelijk van mutatie
-        - Vinca alkaloid/steroid based
+        - vinca alkaloid/steroid based
 	        - hoge response rate maar vaak relaps (40-80%)
         - antimetaboliet based (cladribine, clofarabine, cytarabine), al dan niet + MTX
     - Overig:
@@ -112,7 +112,7 @@ ___
 		- o.b.v. case reports/series: bisfosfanaten, IMiDs, hydrea, low-dose MTX, HSCT, BRAF en MEK inhibitoren
 	- r/R: allo SCT voor geslecteerde patiënten
 ## Responsevaluatie en monitoring
-I.f.v. orgaanbetrokkenheid bij diagnose.
+i.f.v. orgaanbetrokkenheid bij diagnose.
 - 1e PET/CT na 2-3m, vervolgnes a 3-6 maanden
 	- i.f.v. betrokken organen CT, HRCT, echo of MRI toevoegen
 - respons kan maanden duren
@@ -122,14 +122,10 @@ I.f.v. orgaanbetrokkenheid bij diagnose.
 - tot 50% van patienten met botlaesies houdt pijn, ondanks verdwijnen op PET/CT
 - erken psychologische last zoals depressie en angst
 ## Prognose
-- unifocaal: >95% 5-j OS
-- single systeem PLCH: 70-80% 5-j OS (moeilijk te voorspellen)
-- multi systeem LCH: 90% 5-j OS
+- unifocaal: > 95% 5 jaar OS
+- single systeem PLCH: 70-80% 5 jaar OS (moeilijk te voorspellen)
+- multi systeem LCH: 90% 5 jaar OS
 	- lever- en miltbetrokkenheid mogelijk wat slechtere prognose
 	- zeldzame manifestaties zoals neurodegeneratieve LCH of scleroserende cholangitis: slechter
-## Anki
-ja
-## Aliassen
-[[histiocytose]], [[langerhans]], [[langerhanscelhistiocytose]]
 ## Datum laatste update
 03-02-2024

@@ -1,6 +1,8 @@
-Nodulair lymfoïde hyperplasie (NLPHL) vertegenwoordigt ongeveer 5% van de gevallen van Hodgkin-lymfoom (HL) en kent over het algemeen een indolent beloop. De lymfocyten in NLPHL vertonen typisch het CD20+ fenotype, maar zijn CD30-. Histopathologisch wordt NLPHL vaak onderverdeeld in twee categorieën: 75% van de gevallen heeft een typisch groeipatroon, terwijl 25% een variant histologie heeft.
+Nodulair lymfoïde hyperplasie (NLPHL) vertegenwoordigt ongeveer 5% van de gevallen van Hodgkin-lymfoom (HL) en kent over het algemeen een indolent beloop. De lymfocyten in NLPHL vertonen typisch het CD20+ fenotype, maar zijn CD30-. Histopathologisch wordt NLPHL vaak onderverdeeld in twee categorieën: 75% van de gevallen heeft een typisch groeipatroon, terwijl 25% een variant histologie heeft. 
+
+BELANGRIJK: in de praktijk wordt deze aandoening beduidend minder agressief behandeld dan hieronder beschreven! I.e. wait & see of rituximab monotherapie.
 ___
-# Eichenauer, How I treat nodular lymphocyte predominant Hodgkin lymphoma
+**bron**: [Eichenauer, How I treat nodular lymphocyte predominant Hodgkin lymphoma](https://ashpublications.org/blood/article/136/26/2987/463607/How-I-treat-nodular-lymphocyte-predominant-Hodgkin)
 ## Risico stratificatie o.b.v. GHSG
 - vroeg stadium
 	- stadium I/II zonder risicofactoren
@@ -46,8 +48,5 @@ ___
 - risico 7% in 10 jaar
 	- hoger risico als betrokkenheid milt bij diagnose
 - meestal R-CHOP of HD chemo + autologe SCT
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

@@ -1,6 +1,6 @@
-persisterende polyklonale B-cel lymfocytose
+Persisterende polyklonale B-cellymfocytose is een goedaardige aandoening die wordt gekenmerkt door een toename van B-lymfocyten van verschillende klonen in het perifere bloed; de aanwezigheid van binucleaire lymfocyten en een polyklonale stijging van het IgM. Deze aandoening wordt vaak ontdekt tijdens routinematige bloedonderzoeken en vertoont meestal geen symptomen.
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## Algemeen
 - polyklonale IgM/-D positieve cellen
 	- binucleaire kern
@@ -10,10 +10,6 @@ ___
 	- soms milt vergroot
 ## Behandeling
 geen
-## Anki
-ja
-## Aliassen
-
 ## Datum laatste update
 24-02-2024
 

@@ -4,7 +4,7 @@ Nederland. De klinische presentatie wordt gekenmerkt door lymfadenopathie en met
 bij de uitgebreidere stadia door malaise, gewichtsverlies en soms extranodale manifestaties
 als hepato-splenomegalie. De mediane leeftijd van presentatie van DLBCL is 65-70 jaar.
 ___
-# Richtlijn DLBCL 2023
+**bron**: [richtlijn DLBCL 2023](https://publicatie.hematologienederland.nl/richtlijnen/diffuus-grootcellig-b-cel-non-hodgkin-lymfoom/)
 ## Diagnostiek
 - anamnese, o.a. WHO PS
 - lab o.a. HBV, HCV en HIV, NT-proBNP en troponine-T op indicatie
@@ -19,16 +19,16 @@ ___
 	- ALTL (anaplastisch grootcellig T-cellymfoom)
 ### Pathologie
 - bij diagnose noodzakelijk
-- volledige klier, incisie- of excisiebiopt, bij uitzondering dikke naald biopt (14G); GEEN cytologisch onderzoek
+- volledige klier, incisie- of excisie biopt, bij uitzondering dikke naald biopt (14G); GEEN cytologisch onderzoek
 - bij recidief aanbevolen
 - MYC-FISH, indien positief ook BCL2 en BCL6 FISH:
 	- "agressief B-cel lymfoom met MYC en BCL2 en/of BCL6 translocatie" (ook wel HGBCL of "double hit lymfoom")
 	- DLBCL-NOS
-	- HGBCL-NOS 
+	- HGBCL-NOS
 ### Rol van PET/CT
-- Diagnose/stadiëring
+- diagnose/stadiëring
 	- + diagnostische CT hals/thorax/abdomen
-- Behandelrespons
+- behandelrespons
 	- PET-low dose CT na C2
 		- negatief? de-escalatie:
 			- stadium I-II non bulky: 4 kuren R-CHOP i.p.v. 3 kuren met RT
@@ -36,16 +36,16 @@ ___
 		- positief? in MDO
 			- PMR: door
 			- stabiel/progressie: 2e lijn
-- Respons na behandeling
+- respons na behandeling
 	- MOET!
 		- na chemotherapie 4-6 weken na behandeling
-		- na RT >3 maanden
-	- NPV: 2j PFS <97%
+		- na RT > 3 maanden
+	- NPV: 2 jaar PFS < 97%
 	- PPV suboptimaal:
-		- indien mogelijk PA bevestiging 
+		- indien mogelijk PA bevestiging
 		- of PET/CT herhalen
 		- nieuwe lokalisaties? PA herhalen
-- Follow up
+- follow-up
 	- GEEN beeldvorming
 ## Stadiëring en classificatie
 ### Stadiëring
@@ -53,14 +53,14 @@ ___
 - beenmergbiopt?
 	- PET/CT positief: geen zin
 	- PET/CT negatief: alleen als consequenties voor behandeling (extranodaal = stadium IV)
-### Prognosticering en risico-classificatie (p17)
+### Prognosticering en risico-classificatie
 - IPI ~ leeftijd + WHO PS + LDH + stadium + extranodaliteit
 - aaIPI ~ LDH + WHO PS + LDH
 - CNS-IPI ~ IPI + nier en/of bijnierbetrokkenheid
 ## Behandeling
-### 1e lijn (p21)
+### 1e lijn
 #### Stadium I/II beperkt, zonder bulk
-- <60j en aaIPI 0, niet PET-gestuurd
+- \< 60 jaar en aaIPI 0, niet PET-gestuurd
 	- 4x R-CHOP + 2R
 	- alternatief: 3x RCHOP + INRT
 - alle leeftijden
@@ -70,7 +70,7 @@ ___
 		- iPET positief
 			- 6x R-CHOP
 #### Stadium I/II beperkt, bulk
-- 6x R-CHOP (geen 2xR)
+- 6x R-CHOP (geen 2x R)
 	- tox? 3x R-CHOP21 + INRT
 #### Stadium II-IV
 - fit
@@ -78,7 +78,7 @@ ___
 		- 6x DA-EPOCH-R + CNS profylaxe
 			- C1 R-CHOP ok
 		- tox? 6x R-CHOP + CNS profylaxe
-		- H130: 6x R-CHOP + 2R met lenalidomide vergelijkbare OS en PFS, voordeel: poliklinisch; add-on vergoeding aangevraagd.
+		- **H130**: 6x R-CHOP + 2R met lenalidomide vergelijkbare OS en PFS, voordeel: poliklinisch; add-on vergoeding aangevraagd.
 	- DLBCL
 		- PET-gestuurd
 			- iPET positief
@@ -95,32 +95,32 @@ ___
 		- R-Gemox
 #### Ouderen
 ##### Belastbaarheid ouderen
-- Voorkeur voor sGCA (combinatie van ADL, iADL, CIRS-G en leeftijd)
+- voorkeur voor sGCA (combinatie van ADL, iADL, CIRS-G en leeftijd)
 ##### Behandeling ouderen
-- Fit: 6x R-CHOP21
-- Niet fit: 6x mini-R-CHOP21 +/- dosis escalatie
+- fit: 6x R-CHOP21
+- niet fit: 6x mini-R-CHOP21 +/- dosis escalatie
 	- "mini": cyclofosfamide, doxo en vincristine a 50-75% van dosering. 
-- Frail: 4-6x mini-R-CHOP, eventueel R-COP, R-Gemox of R-benda
+- frail: 4-6x mini-R-CHOP, eventueel R-COP, R-Gemox of R-benda
 - IKNL data: 35% van patiënten >75j geen systeemtherapie meer
 ##### Speciale voorzorgsmaatregelen: 
 - reversed R-(mini)-CHOP
 - G-CSF (PEG-filgastrim): i.i.g. bij 1e cyclus, op dag 2
 - hydrocortison bij ernstige vermoeidheid na staken prednisolon
-- cardiale voorgeschiedenis? doxo -> etoposide
+- cardiale voorgeschiedenis? doxo → etoposide
 ### 2e lijn
 - mediane OS recidief enkele maanden
 - indien chemosensitief in 2e lijn: 30-60% ziektevrije overleving
 - primair refractair (+ behandeling): PFS 6 maanden
-#### geschikt voor autoloog
+#### Geschikt voor autoloog
 - R-DHAP of R-GDP + BEAM (of TEAM) en autoloog
 	- alternatief: R-ICE, R-DHAC (nierinsufficiëntie of verminderde LVEF), R-VIM, R-Gem OX
 	- geen indicatie onderhoud post-autoloog
-#### niet geschikt voor autoloog/recidief na autoloog
+#### Niet geschikt voor autoloog/recidief na autoloog
 - bevestig met PA!
-##### curatief
+##### Curatief
 - studie-inclusie? 
 	- na 2 of meer lijnen: tisa-cel of axi-cel
-##### palliatief zie tabel 1 (p40)
+##### Palliatief, zie tabel 1
 - i.f.v. co-morbiditeit, restverschijnselen en potentiële toxiciteit:
 	- R-PECC
 	- R-gemox
@@ -128,16 +128,15 @@ ___
 	- R-benda (+/- polatuzumab vedotin)
 ### Indicaties CAR T in behandeling DLBLC, tFL en PMBCL?
 - CAR-T: CD19-specifiek single chain Fv domein (van antistof afkomst) aan een i.c. T-celreceptor zeta keten en een costimulatoir domein (CD28 of 41-BB)
-  
 - R/r na 2 lijnen, ook als minder fit
 	- bij voorkeur studieverband
 	- prognose: 30-40% langdurige PFS
 		- slechte prognose: 
 			- primair R-CHOP refractair
-			- recidief <12m 
+			- recidief < 12 maanden 
 			- eerder rituximab
 			- recidief snel na autoloog
-			- niet in aanmerking vr autoloog
+			- niet in aanmerking voor autoloog
 - PMBCL: zeldzaam, agressief, jonge vrouwen
 - ZUMA-1, JULIET en TRANSCEND studies mooie overleving
 	- cave mITT analyses en lastig te vergelijken: verschil lymfodepleterende therapieen, gradering CRS
@@ -145,21 +144,22 @@ ___
 	- ZUMA-7, BELINDA en TRANSFORM
 - bijwerkingen: CRS, ICANS, infecties, cytopenie en B-celdepletie waardoor hypogammaglobulinemie
 ### Indicaties CNS profylaxe
-- Slechte prognose, kans echter laag, zeker na rituximab (2-4%)
-- Gebruik CNS-IPI, sommige lokalisaties verhogen kans: testis, nier en bijnier, uterus, mamma. Double- en triple hit waarschijnlijk ook.  
-- Advies:
+- slechte prognose, kans echter laag, zeker na rituximab (2-4%)
+- gebruik CNS-IPI, sommige lokalisaties verhogen kans: testis, nier en bijnier, uterus, mamma
+	- double- en triple hit waarschijnlijk ook.
+- advies:
 	- CNS-IPI 3 + epidurale lokalisatie of CNS-IPI 4: LP diagnostiek. Negatief? geen profylaxe.
 		- Positief? intensievere behandeling conform secundair CZS lymfoom
-			- indien onmogelijk: LP na afname compressie myelum.
-- Profylaxe: 
+			- indien onmogelijk: LP na afname compressie myelum
+- profylaxe: 
 	- DLBCL in testis, ovarium, nier of bijnier
 	- DLBLCL in mamma EN hoog LDH
 	- DLBCL bij HIV-positiviteit en extranodale lokalisaties
 	- CNS-IPI 5-6
 	- DLBCL met MYC en BCL2 en/of BCL6 translocatie ("double/triple hit")
-	- Intravasculair B-cellymfoom
-- Toedieningsvorm:
-	- 2 giften HD-MTX (3 g/m2) op dag 7-9 van kuur 2, 3
+	- intravasculair B-cellymfoom
+- toedieningsvorm:
+	- 2 giften HD-MTX (3 g/m<sup>2</sup>) op dag 7-9 van kuur 2, 3
 		- alternatief: einde van R-CHOP
 		- HD-MTX niet i.c.m. DA-EPOCH-R: dan conform H152 met DA-EPOCH-R en MTX op dag 1
 	- primair testislymfoom? overweeg + 4 giften i.t. MTX
@@ -181,9 +181,6 @@ ___
 		- <= 3 FDG-avide lokalisaties na reinductie, 36-40 Gy
 	- i.f.v. o.a conditie, tumor load etc. voor/na autoloog
 - palliatief: pijn, compressie etc.
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-12-2023
 

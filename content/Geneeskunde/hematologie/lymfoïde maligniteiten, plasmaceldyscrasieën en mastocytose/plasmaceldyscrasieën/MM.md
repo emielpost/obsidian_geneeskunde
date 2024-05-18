@@ -1,6 +1,6 @@
 Multipel myeloom, het archetype plasmaceldyscrasie, is goed voor ongeveer 10% van hematologische kankers en ontstaat vaak uit "monoklonale gammopathie van onbepaalde betekenis" (MGUS). De eerste gedocumenteerde casus uit 1844 werd beschreven door Samuel Solly en betrof Sarah Newbury, een vrouw van 39 jaar oud die klachten van vermoeidheid en botpijn ontwikkelde als gevolg van multipele fracturen. Bij de autopsie, 4 jaar na het optreden van de symptomen, bleek het beenmerg vervangen door een "roodachtige substantie". In Nederland krijgen zo'n 1300 mensen per jaar de diagnose, de relatieve 5-jaars overleving is circa 75%.
 
-In 2024 is een nieuwe behandelrichtlijn gepubliceerd waarin dara-VRD en dara-Rd definitief een centrale plaats hebben in de 1e lijns behandeling. Tandem transplantatie wordt enkel nog gegeven bij aanwezigheid van del(17p). De vaccinatie strategie na hoge dosis melphalan is uigebreid. Bispecifieke antilichamen zoals teclistamab en talquetamab worden geïntroduceerd, en het beleid t.a.v. tromboseprofylaxe is herzien, met nu LMWH voor iedereen. Tot slot zijn de adviezen t.a.v. behandelschema's zoals PAD/RAD voor solitair plasmacytoom geschrapt.
+In 2024 is een nieuwe behandelrichtlijn gepubliceerd waarin dara-VRD en dara-Rd definitief een centrale plaats hebben in de 1e lijns behandeling. Tandem transplantatie wordt enkel nog gegeven bij aanwezigheid van del(17p). De vaccinatie strategie na HDM en autologe SCT is uigebreid. Bispecifieke antilichamen zoals teclistamab en talquetamab worden geïntroduceerd, en het beleid t.a.v. tromboseprofylaxe is herzien, met nu LMWH voor iedereen. Tot slot zijn de adviezen t.a.v. behandelschema's zoals PAD/RAD voor solitair plasmacytoom geschrapt.
 ___
 # Richtlijn behandeling multipel myeloom, 2024
 ## Definities
@@ -13,14 +13,14 @@ ___
 	- kreatinine > 177  (of GFR < 40)
 	- Hb < 6.2 (of >1.2 minder dan ondergrens)
 	- osteolytische botlaesie op (PET-)CT
-### Smoldering multipel myeloom (>25% nooit MM, niet behandelen, studie inclusie)
+### Smoldering multipel myeloom (> 25% nooit MM, niet behandelen, studie inclusie)
 - geen SLiMCRAB en 1 van:
 	- 10-60% clonale plasmacellen beenmerg
-	- M-proteine > 30 g/L
-	- urine M-proteine > 500mg/24u
+	- M-proteïne > 30 g/L
+	- urine M-proteïne > 500mg/24u
 ## Behandeling
 ### Behandeling 1e lijn
-#### indien autoloog (grofweg <70j)
+#### indien autoloog (grofweg < 70 jaar)
 - inductie
 	- 4 cycli dara-VRD (voorkeur, lagere kosten) of dara-VTD
 		- overweeg carfilzomib indien bortezomib-geinduceerde PNP
@@ -29,23 +29,23 @@ ___
 	- cyclofosfamide 2000 mg/m2 + MESNA + G-CSF + on demand plerixafor
 	- steady state oogsten met alleen G-CSF (10 mcg/gk/d verdeeld over 2 doses) + on demand plerixafor
 		- NIET meer mobilisatie falen, wel frequenter plerixafor en mogelijk duurder
-	- >4 x 10^6 CD34+/kg voor tandem of eventueel 2e transplantatie
+	- \> 4 x 10<sup>6</sup> CD34+/kg voor tandem of eventueel 2e transplantatie
 - autologe stamceltransplantatie
-	- HDM 200 mg/m2
-		- 140 mg/m2 indien eGFR <40
+	- HDM 200 mg/m<sup>2</sup>
+		- 140 mg/m<sup>2</sup> indien eGFR < 40
 	- tandem indien del(17p)
 		- 2-3 maanden na eerste transplantatie (o.a. H95, niet conclusief)
 - consolidatie na autoloog
 	- 2x dara-VRD
-		- met VRD mediane PFS 60m vs. 45m, onafhankelijk van aantal autologe SCT's
+		- met VRD mediane PFS 60 maanden vs. 45 maanden, onafhankelijk van aantal autologe SCT's
 - onderhoud na autoloog
-	- lenalidomide 10mg 3w/4w tot aan progressie (te weinig evidence voor daratumumab)
-		- start <3m mits hematologisch herstel
+	- lenalidomide 10mg 3/4 weken tot aan progressie (te weinig evidence voor daratumumab)
+		- start < 3 maanden mits hematologisch herstel
 		- ook na tandem transplantatie overwegen maar liever in studieverband
 			- ook als t(4;14 of t(14;16)?
 - allogene stamceltransplantatie
 	- vermijden, ook niet i.g.v. primaire plasmacelleukemie (o.b.v. interim data H129)
-#### indien geen autoloog (grofweg >70j)
+#### indien geen autoloog (grofweg > 70 jaar)
 - inductie, o.b.v. IMWG frailty of andere geriatrische assessment score:
 	- fit
 		- effectief, geregistreerd en vergoed
@@ -74,8 +74,8 @@ ___
 #### in aanmerking voor (tweede) autologe SCT
 - indicaties
 	- nog geen autoloog
-	- remissieduur >24m
-		- remissieduur >36m indien lena onderhoud
+	- remissieduur > 24 maanden
+		- remissieduur > 36 maanden indien lenalidomide onderhoud
 - re-inductie 
 	- indien VGPR of beter op 1e inductiebehandeling:
 	- minimaal 4 cycli
@@ -85,7 +85,7 @@ ___
 #### niet in aanmerking voor (tweede) autologe SCT
 - algemeen
 	- drie middelen, liever dan Rd
-	- nieuwe klasse tenzij onder desbetreffende therapie >VGPR en PFS >1j
+	- nieuwe klasse tenzij onder desbetreffende therapie > VGPR en PFS > 1 jaar
 	- bij voorkeur drie-drug combinaties, zeker i.g.v. hoog-risico cytogenetica
 	- streef zo diep mogelijke respons na
 ##### niet-refractair voor lenalidomide
@@ -101,7 +101,7 @@ ___
 - Ixa-Rd
 - Elo-Rd
 - Rd
-##### lenalidomide refractair (tijdens, of <6m na staken)
+##### lenalidomide refractair (tijdens, of < 6 maanden na staken)
 ###### niet voorbehandeld met/refractair onder daratumumab
 - **dara-Kd of isa-Kd (1e keuze)**
 - dara-Vd (2e keuze)
@@ -135,22 +135,21 @@ penta refractair:
 - studies of compassionate use
 - overweeg PEP
 ### Toekomstige behandelingen
-- Teclistamab (BCMA-CD3) en talquetamab (GPRC5D-CD3) EMA geregistreerd en in afwachting van vergoedingsstatus beschikbaar (in studieverband)
+- teclistamab (BCMA-CD3) en talquetamab (GPRC5D-CD3) EMA geregistreerd en in afwachting van vergoedingsstatus beschikbaar (in studieverband)
 	- na eerdere behandeling met IMID, proteasoomremmer en aCD38.
-- Elranatamab (BCMA-CD3) in studieverband
+- elranatamab (BCMA-CD3) in studieverband
 - ide-cel en cilta-cel nog niet beschikbaar vanwege prijsonderhandelingen
-
 ### Supportive care
 #### botziekte
 - bisfosfanaat iedere nieuwe MM
-	- min 2j, max 5j
+	- minimaal 2 jaar, max 5 jaar
 		- totale duur i.f.v. respons, botbetrokkenheid, skelet-gerelateerde events, osteoporose, bijwerkingen
-			- zoledronaat /3m indien botziekte (betere OS, zelfde PFS)
+			- zoledronaat a 3 maanden indien botziekte (betere OS, zelfde PFS)
 			-  (i.p. geen pamidronaat of clodronaat: inferieur)
 		- controleer regelmatig nierfunctie, calcium en fosfaat, magnesium en vitamine D
-	- hervat bij progressie of recidief, cumulatieve duur max 5j
-	- zie tabel 1, p70 voor dosisaanpassingen bij nierinsufficiëntie
-- denosumab 120mg s.c. 1x/m indien tox of eGFR <30
+	- hervat bij progressie of recidief, cumulatieve duur max 5 jaar
+	- zie tabel 1, pagina 70 voor dosisaanpassingen bij nierinsufficiëntie
+- denosumab 120 mg s.c. 1x/maand indien tox of eGFR < 30
 	- cave 'hungry bone'
 	- cave rebound, overweeg nog 2x zoledroninezuur a 6m of continueren
 	- duur in principe levenslang
@@ -178,20 +177,19 @@ penta refractair:
 - pas antistolling aan tijdens trombopene fase rond ASCT
 - overweeg na 6m over op carbasalaatcalcium
 - langdurig antistolling als VTE
-
 #### infectieprofylaxe
 - 20% van overlijdens, b.v. S. pneumoniae (OR 5-18) en virale LWI's
 	- VZV en PJP door behandeling
 ##### antibiotische profylaxe
-- valaciclovir 500mg 2dd
-	- tot 3w na staken bortezomib, ixazomib, carfilzomib, daratumumab of isatuximab
-		- tot 6m na bispecifieke antistoffen en CART
-		- tot 6m na autologe SCT
-	- cotrimoxazol 480mg 1dd vs. PJP en gram-positieve cocceninfecties
+- valaciclovir 500 mg 2dd
+	- tot 3 qwkwn na staken bortezomib, ixazomib, carfilzomib, daratumumab of isatuximab
+		- tot 6 maanden na bispecifieke antistoffen en CART
+		- tot 6 maanden na autologe SCT
+	- cotrimoxazol 480 mg 1dd vs. PJP en gram-positieve cocceninfecties
 		- indien DXM > 20mg/week of equivalent
 		- bij bispecifieke antistoffen en CART
 		- bij verwachte langdurige neutropenie of lymfopenie
-	- overweeg levofloxacine 500mg 1dd eerste 12w na diagnose
+	- overweeg levofloxacine 500mg 1dd eerste 12 weken na diagnose
 		- minder koorts, verbeterde OS
 	- overweeg schimmel-/gistprofylaxe bij HDM en aansluitend neutropenie
 	- hepatitis B screening, profylaxe en behandeling volgens HBV richtsnoer
@@ -227,29 +225,25 @@ penta refractair:
 #### lenalidomide-geinduceerde diarree
 - galzuurmalabsorptie
 	- reduceer vetinname tot 20% calorie-intake
-	- colestyramine tot 6dd 4g
-		- <4u voor en na lenalidomide-innname
+	- colestyramine tot 6dd 4 gram
+		- \< 4 uur voor en na lenalidomide-innname
 		- voorts o.g.v. ontlasting
 	- colesevelam alternatief
 ### Therapieschema's en dosisaanpassingen
-- p91 - p108
+- pagina 91 - pagina 108
 	- aandacht voor o.a.:
 		- injectiereacties daratumumab en isatuximab
 		- cave bloedgroeptypering daratumab en isatuximab
-## Anki
-ja
-## Aliassen
-[[MM]], [[myeloom]], [[Kahler]]
 ## Datum laatste update
 25-01-2024
 ___
-# Diagnostiek richtlijn multipel myeloom 2021
+**bron**: [Diagnostiek richtlijn multipel myeloom 2022](https://publicatie.hematologienederland.nl/richtlijnen/diagnostiek-richtlijn-multipel-myeloom/) 
 ## Algemeen
 Richtlijn niet voor diagnostiek M-proteinen Waldenstrom, B-NHL of AL amyloidose. Bedenk: waarden tussen laboratoria niet zondermeer uitwisselbaar.
 ## Diagnostiek M-proteïne en classificatie ziektebeelden
 ### Indicaties initiële diagnostiek monoklonale immunoglobulinen
-- Monoklonale Ig's betekent: M-proteine, monoklonaal intact Ig in serum of monoklonale VLK in serum of urine (Bence Jones)
-- Doe M-proteine bij verdenking klonale plasmacelziekte of LPL (zie [tabel 1](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=9) en [tabel 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=9) (enkel in studies) en [figuur 1](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=12)).
+- monoklonale Ig's betekent: M-proteine, monoklonaal intact Ig in serum of monoklonale VLK in serum of urine (Bence Jones)
+- doe M-proteine bij verdenking klonale plasmacelziekte of LPL (zie [tabel 1](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=9) en [tabel 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=9) (enkel in studies) en [figuur 1](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=12)).
 	- [tabel 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=9) : definities MGUS (2x), SMM, MM, solitair plasmacytoom, POEMS, AL-amyloidose, MGRS
 	-  [figuur 1](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=12): start met M-proteïne
 		- Niet aantoonbaar maar verdenking LCMM, LCDD, amyloidose of POEMS? Doe VLK's
@@ -260,7 +254,7 @@ Richtlijn niet voor diagnostiek M-proteinen Waldenstrom, B-NHL of AL amyloidose.
 ### M-proteïne meting voor follow-up van patiënten
 M-proteïnen en sVLK kunnen gebruikt worden. Elke keer kappa én lambda ketens meenemen is niet nodig. 
 - sVLK ratio alléén voor monoklonaliteit bij diagnose en om bij CR sCR status te kunnen bepalen. Dan ook negatieve immuunfixatie van zowel serum als urine én beenmerg zonder klonale cellen in biopt. 
-- In geval van PR: sVLK ratio alleen als remissiestatus niet o.b.v. intact M-proteine of Bence-Jones kan worden bepaald.
+- in geval van PR: sVLK ratio alleen als remissiestatus niet o.b.v. intact M-proteine of Bence-Jones kan worden bepaald.
 ### Follow-up als geen meetbaar intact M-proteïne of VLK-productie
 non-secernerend MM <2% van alle MM. 
 - % plasmacellen in BM
@@ -270,10 +264,10 @@ R-ISS o.b.v. beta2-microglobuline, cytogenetica en LDH
 ## Technische laboratoriumaspecten
 ### Detectie en kwantificering van M-proteïnen
 #### Intacte M-proteïnen
-1. Screening serum eiwitspectrum middels gel/capillair elektroforese
+1. screening serum eiwitspectrum middels gel/capillair elektroforese
 	- hoge verdenking monoklonale gammopathie maar screening negatief? dan ook door naar 2., i.e. sVLK's +/- Bence-Jones
-2. Verdere karakterisatie met immunofixatie elektroforese of immunosubtractie (+ sensitief)
-3. Kwantificering M-proteine m.b.v. serum eiwitspectrum-densitogram
+2. verdere karakterisatie met immunofixatie elektroforese of immunosubtractie (+ sensitief)
+3. kwantificering M-proteine m.b.v. serum eiwitspectrum-densitogram
 	- tangent skimming (met aftrek polyklonale immunoglobuline) of perpendicular drop (zonder aftrek)
 	- twee bandjes? ofwel monomeer en dimeer (of pentameer) van zelfde isotype: dan geen klinische consequenties, ofwel oligoklonale ontwikkeling: dan isotype en kwantificering dominant M-proteine vermelden.
 	- M-spike niet zichtbaar? b.v. in beta-fractie, dan kwantificatie met immunochemische bepaling. Pas op: als IgM of IgA M-proteine, dan vaak overkwantificering.
@@ -286,10 +280,10 @@ R-ISS o.b.v. beta2-microglobuline, cytogenetica en LDH
 	- doe wél laagdrempelig urineportie + eiwit ter detectie van amyloidose
 - interferentie therapeutische monoklonale antistoffen
 	- b.v. daratumumab kan a 1g/L in bloed aanwezig zijn: kleine monoklonale band mogelijk. 
-		- shift-assay ter differentiatie IgG-kappa M-proteine vs. IgG-kappa biological
+		- shift-assay ter differentiatie IgG-kappa M-proteïne vs. IgG-kappa biological
 			- indicatie: enkel vaststellen CR + co-migratie en diepe respons bereikt.
 - Heavy-lite analyse bij diagnose en FU
-	- indien M-proteinen migreren in beta-fractie: 
+	- indien M-proteïnen migreren in beta-fractie: 
 	- advies feitelijk om totaal immuunglobuline te meten (maar dus poly- en monoklonaal)
 	- Heavylite immunoassay: kan mono- van polyklonaal onderscheiden
 - M-proteïne diagnostiek m.b.v. MS
@@ -319,6 +313,7 @@ Enkel nog in studie verband, i.v.m. dara CD38 multi-epitope antistof-combinatie.
 		- nonhyperdiploïdie: vaak translocatie IGH-gen in chromosoomband 14q32
 - ziekte-initiërende veranderingen
 - secundaire genetische veranderingen
+
 Te doen:
 - cytogenetica naar slecht risico afwijkingen:
 	- slechte prognose, tandem HDM en ASC~T doet slechte prognose teniet:
@@ -330,22 +325,19 @@ Te doen:
 			- overexpressie transcriptiefactor MAF. Vaak andere cytogenetische afwijkingen en vaker nierfalen.
 	- ook zoeken naar gain 1q21, deletie 1p32, monosomie 13 en del(13q14) en hyperdiploidie (gunstige progrnose), t(11;14): cycline D1-overexpressie, neutrale prognose, goede respons op bortezomib i.c.m. venetoclax
 #### Toekomstige en nieuwe technieken
-- MMprofiler met KSY92: 92 genen in myeloom plasmacellen, o.a. mutaties NRAS, KRAS, TP53, BRAF etc. Onduidelijk hoe genexpressie-analyse geïntegreerd moet gaaan worden. Dan next gen cytogenetics, WGS en high-resolution optical mapping ter vervanging van FISH/array testen.
+- MM profiler met KSY92: 92 genen in myeloom plasmacellen, o.a. mutaties NRAS, KRAS, TP53, BRAF etc. Onduidelijk hoe gen expressie-analyse geïntegreerd moet gaaan worden. Dan next gen cytogenetics, WGS en high-resolution optical mapping ter vervanging van FISH/array testen.
 #### Aanbevelingen cytogenetische diagnostiek
 - % plasmacellen in BM-aspiraat is laag: cytogenetische analyse CD138-verrijkt plasma noodzakelijk
 - er bestaat nog geen whole-genome analyse, gebalanceerde chromosoomafwijkingen (zoals IGH-afwijkingen) niet door SNP-array, FISH blijft aangewezen.
 - bij recidief nieuwe afwijkingen: kán zinvol zijn om te herhalen. Prognostische waarde dan onbekend.
-- [Figuur 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=30) wat uitleg over aantonen M-proteine
-- [Tabel 1A](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=31) 9-kleuren EuroFlow PCD panel
-- [Tabel 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=31): prognostische impact genetische en cytogentische afwijkingen bij MM
-## Anki
-ja
-## Aliassen
-[[MM]]
+- [figuur 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=30) wat uitleg over aantonen M-proteine
+- [tabel 1A](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=31) 9-kleuren EuroFlow PCD panel
+- [tabel 2](https://hematologienederland.nl/wp-content/uploads/2022/03/Diagnostiek_myeloom_18-3-2022-DEF.pdf#page=31): prognostische impact genetische en cytogentische afwijkingen bij MM
 ## Datum laatste update
 02-02-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
+
 - genetica
 	- hoog risico: del(17p), t(4;14), t(14;16)
 		- enkel del(17p) indicatie voor tandem transplantatie
@@ -373,12 +365,9 @@ ___
 - PA
 	- leidend bij % plasmacelinfiltratie
 	- toename vaak reactief
-		- groepen (atypische) PC'en >30-40, paratrabeculair en vervezeling
+		- groepen (atypische) PC'en > 30-40, paratrabeculair en vervezeling
 	- amyloid in periost?
 		- overweeg bij procedure eerst biopt
 		- primaire amyloidose:  MGUS >> MM > LPL (5%)
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

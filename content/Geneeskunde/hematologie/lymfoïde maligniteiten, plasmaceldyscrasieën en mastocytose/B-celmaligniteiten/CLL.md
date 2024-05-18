@@ -1,6 +1,6 @@
-Chronische lymfatische leukemie (CLL) is de meest voorkomende vorm van leukemie in Nederland, met jaarlijks zo'n 600 nieuwe gevallen. Deze maligne aandoening kenmerkt zich door de abnormale groei van B-lymfocyten. Klinisch uit zich dit o.a. in lymfadenopathie, splenomegalie en verhoogde infectiegevoeligheid. Echter, het betreft niet zelden een toevalsbevinding wanneer bij standaard bloedonderzoek een lymfocytose met afwijkend aspect van de lymfocyten wordt gevonden. CLL wordt vaak geassocieerd met gevorderde leeftijd, en treft vaker mannen dan vrouwen.
+Chronische lymfatische leukemie (CLL) is de meest voorkomende vorm van leukemie in Nederland, met jaarlijks zo'n 600 nieuwe gevallen. Deze maligne aandoening kenmerkt zich door de abnormale groei van B-lymfocyten. Klinisch uit zich dit o.a. in lymfadenopathie, splenomegalie en verhoogde infectiegevoeligheid. Echter, het betreft niet zelden een toevalsbevinding wanneer bij standaard bloedonderzoek een lymfocytose met afwijkend aspect van de lymfocyten wordt gevonden. CLL wordt geassocieerd met gevorderde leeftijd, en treft vaker mannen dan vrouwen.
 ___
-# Richtlijn chronische lymfatische leukemie/ kleincellig lymfocytair lymfoom, 2021
+**bron**: [richtlijn CLL/SLL, 2022](https://publicatie.hematologienederland.nl/richtlijnen/chronische-lymfatische-leukemie-kleincellig-lymfocytair-lymfoom/)
 ## Diagnose CLL
 - bloedbeeld, incl. diff: lymfocytose, kapot gestreken en grumulée patroon
 - IFT: CD19+, CD20 zwak, CD5+, CD23+, kappa/lambda zwak en afwijkende ratio
@@ -64,7 +64,7 @@ ___
 - duvelisib, idelalisib-R of venetoclax continue
 - (overweeg allo)
 ### Laat recidief
-- fit (<65-70j)
+- fit (< 65-70 jaar)
 	- \> 4-6 jaar na FCR: 
 		- ven-R
 	    - FCR, BR70
@@ -96,15 +96,15 @@ ___
 		- del(17p) en/of TP53, én
 		- R/R na kinaseremmer of venetoclax
     - klonaal gerelateerde transformatie naar DLBCL
-        - (Eerst inductie met R-CHOP)
+        - (eerst inductie met R-CHOP)
     - refractair op kinaseremmer én venetoclax
-        - (Tenzij geen del(17p) en TP53 (eerst chemo-immuno))
+        - (tenzij geen del(17p) en TP53 (eerst chemo-immuno))
 ## Transformatie
 - Hodgkin: als de novo Hodgkin
 - Richters (DLBCL)
-    - Klonaal gerelateerd (IGHV sequencing) aan CLL?
-        - Ja: 1st R-CHOP, 2nd allo
-        - Nee: Als de novo DLBCL
+    - klonaal gerelateerd (IGHV sequencing) aan CLL?
+        - ja: 1st R-CHOP, 2nd allo
+        - nee: Als de novo DLBCL
 ## Module 7: Therapieschema's
 - Zie pagina's 36 en 37
 ## Module 8: Supportive care bij doelgerichte therapie en chemo-immunotherapie
@@ -116,67 +116,68 @@ ___
 		- absolute contra-indicatie sterke CYP3A4 remmers
 		- relatieve contra-indicatie verapamil, diltiazem, amiodarone, voriconazol, itraconazol en digoxine
 		- overweeg dosisreductie bij vermoeden toxiciteit venetoclax
-### Ibrutinib
+### BTKi
+- ibrutinib en aclabrutinib
 - verhoogd bloedingsrisico
     - absoluut niet i.c.m. VKA (weinig ervaring mee), DOAC + TAR of DAPT
     - bij voorkeur VKA naar DOAC
-    - stop (bij voorkeur afbouwen indien <6m geleden start i.v.m. flare-up CLL):
+    - stop (bij voorkeur afbouwen indien < 6 maanden geleden start i.v.m. flare-up CLL):
 	    - 3-7 dagen rondom invasieve ingrepen
 	    - bij ernstige bloeding en geef trombo's
 - atriumfibrilleren
     - ibrutinib door
-    - bij voorkeur betablokker
+    - bij voorkeur betablokker i.v.m. interactie
     - DOAC indien indicatie antistolling
 - hypertensie
     - poliklinisch controleren en behandelen
 - infecties
-    - overweeg tijdelijk staken, cave flare-up
+    - overweeg tijdelijk staken indien ernstig, cave flare-up
 - CYP3A4 remmers en inductoren
     - absolute contraindicatie sterke CYP3A4-remmer
     - relatieve contraindicatie overige CYP3A4 remmers als verapamil, diltiazem, amiodarone, voriconazol, itraconazol, digoxine
     - overweeg dosisreductie ibrutinib
-### Idelalisib (meer tox dan ibrutinib en venetoclax)    
-- Diarree
-	- Stoppen indien graad 2 langer dan 3 dagen
-        - Stoppen indien graad 4
-- Pneumonitis
-    - Stoppen indien afwijkingen niet passend bij lobaire pneumonie
-    - Overweeg steroïden
-- Transaminitis
-    - Frequent monitoring, m.n. 1e drie maanden
-    - Stoppen zo nodig
-    - Overweeg steroïden
-- Algemeen
-    - Infectie-preventie:
-        - PJP-profylaxe tot 6 maanden na FCR, R-benda en idelalisib-rituximab
-        - CMV-monitoring 1x/maand bij idelalisib
-        - Herpesprofylaxe volgens lokaal protocol
-    - Bestraalde bloedproducten:
-        - Tot 1 jaar na FCR
+### PI3Ki
+- idelalisib en devulisib
+- diarree
+	- stoppen indien graad 2 langer dan 3 dagen
+	- stoppen indien graad 3-4
+- pneumonitis
+    - stoppen indien afwijkingen niet passend bij lobaire pneumonie
+    - zo nodig steroïden
+- transaminitis
+    - frequent monitoring, m.n. eerste 3 maanden
+    - stoppen zo nodig
+    - zo nodig steroïden
+### Algemeen 
+- Infectie-preventie:
+	- PJP-profylaxe tot 6 maanden na FCR, R-benda en R-idelalisib
+	- CMV-monitoring 1x/maand bij idelalisib
+	- herpesprofylaxe volgens lokaal protocol
+- Bestraalde bloedproducten:
+	- tot 1 jaar na FCR
 ## Module 9: behandeling van complicaties
 ### Warmte AIHA of ITP
-- Prednison 1mg/kg
-- Rituximab 4x als geen respons
+- prednison 1mg/kg
+- rituximab 4x als geen respons
 - CLL-behandeling als geen respons (of splenectomie)
 ### Koude AIHA
-- Rituximab 4x
+- rituximab 4x
 - CLL-behandeling als geen respons
 ### Immuuncytopenie na purine-analogen (fludarabine, cladribine)
-- door plots remmen compensatoire aanmaak bloedcellen bij AIHA of ITP
-- staken purine-analogen, start prednisolon 1mg/kg
+- staken purine-analogen, start prednisolon 1 mg/kg
 	- overweeg toevoegen ciclosporine als geen respons
-### Recidiverende luchtweginfecties
+### Recidiverende luchtweg infecties
 - antibiotica on demand
-- >3 infecties/jaar: profylactisch cotrim 960mg, azitromycine of doxycycline
+- \> 3 infecties/jaar: profylactisch cotrimoxazol 960mg, azitromycine 250 mg 3x/week of doxycycline 100 mg 1dd
 ### Hypogammaglobulinemie
 - IVIG
 	- indicaties:
-		- >3x/jaar infecties ondanks profylactisch AB
-		- complicaties van recidiverende longschade (bronchiëctasieen)
+		- $\geq$ 3x/jaar infecties ondanks profylactisch AB
+		- complicaties van recidiverende longschade (bronchieëctasieën)
 - dosering:
 	- 200-400mg/kg per 3-4 weken
-	- streef dalspiegel >6g/L tenzij aanhoudende infecties en/of bronchiëctasieën, dan >8g/L
-		- overweeg staken/dosisverlaging na 6m - 1j indien onder controle
+	- streef dalspiegel > 6 g/L tenzij aanhoudende infecties en/of bronchiëctasieën, dan > 8 g/L
+		- overweeg staken/dosisverlaging na 6 maanden - 1 jaar indien onder controle
 ### Vaccinaties
 - conform richtlijn RIVM
 ### Symptomatische lymfadenopathie met contra-indicatie systemische therapie
@@ -187,10 +188,10 @@ ___
 - tijdens behandeling:
 	- A/LO, bloedonderzoek
 	- beenmerg indien cytopenie of consequenties (b.v. bij CR of MRD in studies)
-	- beeldvorming: CT h/th/abd, mits consequenties
+	- beeldvorming: CT hals/thorax/abdomen, mits consequenties
 - zie tabel 9 voor respons-criteria
 ## Datum laatste update
-04-02-2024
+05-05-2024
 ___
 # Wenkebach cursus, 2023
 ## Algemeen

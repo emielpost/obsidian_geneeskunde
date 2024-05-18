@@ -1,17 +1,17 @@
 Het folliculair lymfoom, met zijn oorsprong in het kiemcentrum van de lymfeklieren, wordt gekenmerkt door de t(14;18)(q32;q21) translocatie en overexpressie van BCL2, samen met veranderingen in genen zoals MLL2, EPHA7, TNFRSF14, BCL6 en EZH2. Klinisch manifesteert het zich meestal met gegeneraliseerde lymfadenopathie, waarbij ongeveer de helft van de patiënten ook beenmergbetrokkenheid heeft. Een minderheid heeft een lokaal beperkte ziekte. Een opvallend kenmerk is de transformatie naar agressievere vormen, zoals diffuus grootcellig B-cellymfoom (DBLCL), Burkitt-lymfoom of lymfoblastisch lymfoom (LBL) met TdT-expressie. Een diepgaand begrip van de genetische basis en klinische presentatie is essentieel voor de diagnose en behandeling van deze uitdagende ziekte.
 ___
-# Richtlijn folliculair lymfoom, 2023
+**bron**: [richtlijn folliculair lymfoom, 2023](https://publicatie.hematologienederland.nl/richtlijnen/folliculair-lymfoom/)
 ## Diagnostiek
 - LO: o.a. extra-nodaal
-- Pathologie: histologisch biopt voor morfologie en immuunhistochemie, op indicatie MoDi
+- pathologie: histologisch biopt voor morfologie en immuunhistochemie, op indicatie MoDi
 	- vaak positief: CD45, CD19 (vaak zwak), CD20, CD10, CD38, sIgkappa of lambda restrictie, FMC7, CD22 en CD79b.
 	- 90% t(14;18)(q32;q21): BCL2 (overigens niet specifiek, o.a. 30% van DLBCL positief)
 		- translocatieonderzoek en MoDi op indicatie als DD moeilijk
-- Lab: IgA, IgG, IgM, M-proteine en B2M, hep B/C serologie, op indicatie HIV
-- Beeldvorming: CT h/th/a (+ i.v. en oraal contrast)
+- lab: IgA, IgG, IgM, M-proteine en B2M, hep B/C serologie, op indicatie HIV
+- beeldvorming: CT h/th/a (+ i.v. en oraal contrast)
 	- op indicatie PET/CT (verdenking st. I/II of transformatie, of PET/CT beoogd voor responsevaluatie)
-- Beenmergonderzoek indien therapeutische consequenties: aspiraat voor morfo en IFT, biopt voor morfo en immuunhistochemie
-- Toxiciteit: ECG, echo cor/ejectiefractie. Op indicatie: counseling fertiliteit
+- beenmergonderzoek indien therapeutische consequenties: aspiraat voor morfo en IFT, biopt voor morfo en immuunhistochemie
+- toxiciteit: ECG, echo cor/ejectiefractie. Op indicatie: counseling fertiliteit
 ## Primaire diagnostiek (WHO 2022)
 - zeer specifieke varianten: paediatric type, in situ Folliculair B cel neoplasm, duodenal-type FL. Voor de rest geldt:
 	- klassieke FL (voorheen graad 1 t/m 3a)
@@ -21,7 +21,7 @@ ___
 	- FL met voornamelijk diffuus groeipatroon
 		- meestal solitair in de lies met goede prognose
 ## Transformatie
-- Denk transformatie bij:
+- denk transformatie bij:
 	- snel groeiende lymfeklier
 	- B-symptomen
 	- plotselinge achteruitgang performance status
@@ -29,29 +29,29 @@ ___
 	- hypercalciëmie
 	- onvoldoende respons op behandeling
 ## Stadiëring
-- CT h/th/a met oraal en i.v. contrast
+- CT hals/thorax/abdomen met oraal en i.v. contrast
 	- bij diagnose, vóór en na afronding van behandeling
 	- PET/CT indien stadium I of II t.b.v. radiotherapie
 - beenmergonderzoek
 	- vóór behandeling
 		- tenzij > stadium III of asymptomatisch en normaal bloedbeeld
-Volgens Ann-Arbor (zie pagina 20):
+Volgens Ann-Arbor:
 - stadium I (IE) t/m IV
-	- zie ook figuur 1 (Cheson et al.) op p 21 voor klierstations: cervicaal, axillair, mediastinaal, mesenteriaal, para-aortaal en inguinaal (+ epitrochleair en popliteaal)
+	- zie ook figuur 1 (Cheson et al.) voor klierstations: cervicaal, axillair, mediastinaal, mesenteriaal, para-aortaal en inguinaal (+ epitrochleair en popliteaal)
 ## Indicaties PET/CT
-- stadium I-II ziekte, voorafgaanda an curatieve RT
+- stadium I-II ziekte, voorafgaand aan curatieve RT
 - bij vermoeden transformatie
 - aanbevolen stagering, vooral indien ná inductie therapie FDG-PET wordt toegepast voor respons evaluatie
 ## MDO
 - iedere patiënt in MDO, steeds opnieuw indien (nieuwe) behandelindicatie
-## Prognose (zie pagina 26)
+## Prognose
 FLIPI ~ leeftijd + Ann-Arbor + aantal klierstations + LDH + Hb:
 - laag
 - intermediair
 - hoog
 nieuw, nog onvoldoende gevalideerd: FLIPI2 (o.a. B2M), PRIMA-PI, M7-FLIPI (genen), FLEX
 ## Behandeling
-### Eerste lijn
+### 1e lijn
 #### Stadium I-II
 - curatieve intentie: RT 24 Gy
 	- stadium II: max 2 aangrenzende lymfeklierregio's
@@ -61,8 +61,7 @@ nieuw, nog onvoldoende gevalideerd: FLIPI2 (o.a. B2M), PRIMA-PI, M7-FLIPI (genen
 	- symptomatisch: 
 		- RT 4 Gy
 		- R mono
-#### Stadium
-III-IV (en stadium II maar geen RT)
+#### Stadium III-IV (en stadium II maar geen RT)
 bedenk: geen curatie mogelijk! bovendien 10-20% spontane regressie.
 - fit
 	- asymptomatisch: watch & wait
@@ -79,14 +78,14 @@ bedenk: geen curatie mogelijk! bovendien 10-20% spontane regressie.
 		- 4x R mono, evt. met onderhoudsbehandeling (2e keuze)
 		- 18x R-lena (+R onderhoud); mits vergoed
 		- RT 4 Gy
-### Tweede lijn
+### 2e lijn
 Doe nieuw biopt ter uitsluiting tFL. Overwegingen: 
-- >12-24m responsduur? meest succesvolle regime opnieuw (m.u.v. anthracyclines)
-- <12-24m responsduur? 'niet kruisresistent' regime, overweeg ook F-CR.
+- \> 12-24 maanden responsduur? meest succesvolle regime opnieuw (m.u.v. anthracyclines)
+- < 12-24 maanden responsduur? 'niet kruisresistent' regime, overweeg ook F-CR.
 	- indien nog autoloog, vermijdt fludarabine vanwege mobilisatie falen.
-- Geen PR of CR onder rituximab? Beschouwen als rituximab-refractair. 
-- Voor 3e lijns regimes of meer, overweeg DLBCL-schema's zoals (R)-PECC, (R)-DHAP-VIM-DHAP
-- Laagdrempelig bestralen (lage dosis vaak voldoende, bijna altijd mooi effect).
+- geen PR of CR onder rituximab? Beschouwen als rituximab-refractair. 
+- voor 3e lijns regimes of meer, overweeg DLBCL-schema's zoals (R)-PECC, (R)-DHAP-VIM-DHAP
+- laagdrempelig bestralen (lage dosis vaak voldoende, bijna altijd mooi effect).
 
 Overzicht behandelopties:
 - asymptomatisch: watch & wait
@@ -109,38 +108,38 @@ Overzicht behandelopties:
 		- ibrutinib
 		- mosenutuzumab (bispecifiek)
 		- CAR-T (axicel/ticacel)
-### 3e lijnsbehandeling en later
-- Bij lange responsduur (>12-24m) tot dan toe meest succesvolle regime opnieuw
-- Voor 3e lijns regimes of meer, overweeg DLBCL-schema's zoals (R)-DHAP, (R)-GDP
+### 3e lijn en later
+- bij lange responsduur (> 12-24 maanden) tot dan toe meest succesvolle regime opnieuw
+- voor 3e lijns regimes of meer, overweeg DLBCL-schema's zoals (R)-DHAP, (R)-GDP
 - ibrutinib, of idelalisib ter overbrugging naar b.v. allogene SCT
 	- idelalisib = PI3Kδ remmer
 		- veel bijwerkingen: diarree en colitis, pneumonie, infecties: CMV- en PJP, neutropenie en leverenzymstoornissen
 			- PJP-profylaxe
 			- VZV/HSV-profylaxe
-			- CMV PCR a 4w eerste 6m
-			- neutro's a 2w eerste 6m
-			- leverenzymen a 2w eerste 3m
+			- CMV PCR a 4 weken eerste 6 maanden
+			- neutro's a 2 weken eerste 6 maanden
+			- leverenzymen a 2 weken eerste 3 maanden
 	- eventueel ibrutinib (tot aan progressie?) als minder fit
-- bedenk: goed gevoelig voor RT 4Gy
+- bedenk: goed gevoelig voor RT 4 Gy
 - Bij hoger risico ziekte (POD24 of refractoriteit)
 	- mosenutuzumab (aCD3/CD20)
-		- pas op: CART therapie nadien mogelijk minder effectief
+		- pas op: CAR-T therapie nadien mogelijk minder effectief
 	- tisacel/axicel
 ### Onderhoud en consolidatie
 - rituximab
-	- 2j lang bij respons op immunochemo t.b.v. PFS
+	- 2 jaar lang bij respons op immunochemo t.b.v. PFS
 		- ook na 2e lijn indien eerder geen rituximab onderhoud
 - obinutuzumab
-	- onderhoudsbehandeling in 2e lijn als reinductie met O-benda
+	- onderhoudsbehandeling in 2e lijn als reïnductie met O-benda
 - autologe SCT
-	- vooral zinvol na reïnductiebehandeling van recidief <2j met R-chemo
+	- vooral zinvol na reïnductiebehandeling van recidief < 2 jaar met R-chemo
 		- ideale timing: na eerste of tweede recidief, bij > 3 voorbehandelingen minder effectief
 		- verdere argumenten:
 			- geen geschikte donor
 			- contra-indicaties voor allo die een autologe niet in de weg staan
 			- tFL
 - allogene SCT
-	- na 2 of meer recidieven, vooral als <2j na immunochemotherapie
+	- na 2 of meer recidieven, vooral als < 2 jaar na immunochemotherapie
 	- argumenten:
 		- recidief na autoloog
 		- meerdere voorbehandelingen (3 of meer b.v.)
@@ -148,15 +147,15 @@ Overzicht behandelopties:
 	- overig:
 		- geen voordeel myeloablatief vs. RIST (dus voorkeur hiervoor)
 ### Alternatieven rituximab
-- Obinutuzumab
+- obinutuzumab
 	- niet in 1e lijn (meer tox)
 	- indien rituximab refractair: obinutuzumab i.c.m. bendamustine, gevolgd door obinutizumab onderhoud
-- Biosimilars van rituximab ok
-- Rituximab subcutaan
+- biosimilars van rituximab ok
+- rituximab subcutaan
 	- na 1e gift kán
 ### tFL
 #### niet voorbehandeld
-- conform richtlijn DLBCL met 6x R-CHOP + 2xR
+- conform richtlijn DLBCL met 6x R-CHOP + 2x R
 	- geen autoloog tenzij geen rituximab (gezien voordeel in pre-rituximab tijdperk)
 #### voorbehandeld
 - 6x R-CHOP (of R-DHAP/R-VIM/R-DHAP) + consolidatie met autoloog
@@ -183,24 +182,21 @@ Overzicht behandelopties:
 ### Vitamine D suppletie
 - start suppletie indien behandelindicatie voor FL en gemeten vitamine D is laag
 ## Responsevaluatie
-- interim: CT h/th/abd
+- interim: CT hals/thorax/abdomen
 	- geen PET
 - einde behandeling: 
-	- CT h/th/abd volgens Lugano of Cheson
+	- CT hals/thorax/abdomen volgens Lugano of Cheson
 	- PET indien consequenties
 	- optioneel: beenmerg indien bij start positief
 - onvoldoende respons (minder dan PR): overweeg salvage therapie
 	- bij PR met onderhoudsbehandeling soms alsnog CR
 ## Follow-up
 - elke 3-6 maanden A/LO + lab (ook na 3 jaar)
-## Anki
-ja
-## Aliassen
-[[folliculair lymfoom]]
 ## Datum laatste update
 13-02-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
+
 - vaak stadium III of IV
 - genetica
 	- t(14;18): overexpressie BCL2 (apoptose remmend)
@@ -212,19 +208,16 @@ ___
 - IFT
 	- B-cel type, vrij sterke monoklonaal membraan Ig-expressie (SmIgM/IgD/IgG), CD5-, CD10 + (zwakker dan ALL), CD23-
 ## Beenmerg
-- cytomorfologie
-	- kliefjes
-	- centroblasten (belangrijk DD met MCL; overige cytologie bijna identiek)
-- PA
-	- paratrabeculair (typisch) + vervezeling lokaal (biopt erg belangrijk)
-	- t(14;18): BCL2 (apoptose remmend)
-	- i.p.v. vroegere histologische gradering, nu volgens WHO 2022:
-		- cFL: klassiek met BCL2
-		- folliculair grootcellig B-cellymfoom
-			- voorloper DLBCL (tFL)
-		- uFL
-## Anki
-ja
-## Aliassen
+### cytomorfologie
+- kliefjes
+- centroblasten (belangrijk DD met MCL; overige cytologie bijna identiek)
+### biopt
+- paratrabeculair (typisch) + vervezeling lokaal (biopt erg belangrijk)
+- t(14;18): BCL2 (apoptose remmend)
+- i.p.v. vroegere histologische gradering, nu volgens WHO 2022:
+	- cFL: klassiek met BCL2
+	- folliculair grootcellig B-cellymfoom
+		- voorloper DLBCL (tFL)
+	- uFL
 ## Datum laatste update
 24-02-2024

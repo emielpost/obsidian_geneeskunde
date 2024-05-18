@@ -22,7 +22,7 @@ ___
 	- chemicalieën of bestrijdingsmiddelen, o.a. benzeen
 	- chemotherapie of radiotherapie 
 ## Aanvullend onderzoek
-### laboratoriumonderzoek
+### Laboratoriumonderzoek
 - o.a. reti's, haptoglobine en DAT, PNH diagnostiek en IFT lymfo's ter uitlsluiting van T-LGL, ANA en anti-dsDNA
 	- verdenking Fanconi?
 		- mitomycine-C test als <40j (overweeg als >40j)
@@ -130,7 +130,7 @@ ___
 ## Datum laatste update
 28-11-2023
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## inleiding
 - pathologie onduidelijk?
 	- immunologisch gemedieerd

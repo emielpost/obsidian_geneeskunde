@@ -1,4 +1,5 @@
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
+
 - (initiële) overproductie hematopoïese
 - leukocytose, trombocytose en/of erytrocytose
 - hypercellulair beenmerg +/- splenomegalie

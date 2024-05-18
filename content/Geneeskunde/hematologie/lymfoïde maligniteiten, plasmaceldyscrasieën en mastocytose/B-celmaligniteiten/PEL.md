@@ -1,6 +1,6 @@
 Primair effusie lymfoom (PEL) is een zeldzaam B-cellymfoom dat typisch wordt gekenmerkt door effusies zonder detecteerbare tumormassa. Het komt voornamelijk voor bij immuungecompromitteerde individuen, zoals mensen met hiv of na orgaantransplantatie. PEL wordt geassocieerd met het humaan herpesvirus 8 (HHV8), ook bekend als het Kaposi-sarcoom-geassocieerde herpesvirus, dat een rol speelt in de ontwikkeling van deze aandoening.
 ___
-# Biology and management of primary effusion lymphoma, Blood, november 2018
+**bron**: [Biology and management of primary effusion lymphoma, Blood, november 2018](https://ashpublications.org/blood/article/132/18/1879/39604/Biology-and-management-of-primary-effusion)
 ## Morfologie en immuunfenotype
 - wisselend formaat: groot immunoblastair of plasmablastair tot anaplastische morfologie (bijna als Reed Sternberg cellen)
 	- in weefsel: grofweg conform, met veel mitose figuren (ongeveer 'starry sky' kan)
@@ -39,8 +39,5 @@ ___
 - enkel 1 holte: betere OS
 #### Nieuwe therapieën
 - o.a. onderzocht: daratumumab (CD38+ PEL) veelbelovend, brentuximab, bortezomib, IMiD's, EPOCH-R2 (adjusted DA-EPOCH-R + lenalidomide), (...)
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 21-02-2024

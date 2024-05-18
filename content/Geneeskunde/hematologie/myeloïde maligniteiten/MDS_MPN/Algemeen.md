@@ -1,11 +1,11 @@
-MDS/MPN overlap syndromen zijn complexe hematologische aandoeningen die zowel kenmerken van MDS als MPN vertonen. Typisch zijn eigenschappen van dysplasie en ineffectieve hematopoëse aanwezig, naast MPN-kenmerken zoals organomegalie en verhoogde bloedcelaantallen. Secundaire gevallen kunnen voorkomen bij aandoeningen zoals CML in de acceleratiefase of AML uit PV.
+MDS/MPN overlap syndromen zijn complexe hematologische aandoeningen die zowel kenmerken van MDS als MPN vertonen. Typisch zijn eigenschappen van dysplasie en ineffectieve hematopoëse aanwezig, naast MPN-kenmerken zoals organomegalie en verhoogde bloedcel aantallen. Secundaire gevallen kunnen voorkomen bij aandoeningen zoals CML in de acceleratiefase of een AML uit PV.
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## Algemeen
 - primair
 	- kenmerken MDS: dysplasie, ineffectieve hematopoiese
 	- kenmerken MPN: organomegalie, erytro-, leuko- en/of trombocytose
-	- blasten <20% en Ph/BCR::ABL fusiegen negatief
+	- blasten < 20% en Ph/BCR::ABL fusiegen negatief
 - secundair
 	- b.v. CML in acceleratiefase, AML uit PV, ontwikkeling van CMML/CNL karakteristieken in MDS of MPN of MPN uit MDS
 		- niet herclassificeren
@@ -16,11 +16,11 @@ ___
 	- MDS-f
 	- acute panmyelose met myelofibrose
 	- acute megakaryoblastaire leukemie
-		- geen splenomegalie, >30% blasten
+		- geen splenomegalie, > 30% blasten
 	- (bijkomende) systemische masytocytose
 ___
 ## MDS/MPN met neutrofilie (vroegere aCML)
-- splenomegalie, OS 11-18m
+- splenomegalie, OS 11-18 maanden
 - genetica
 	- t(9;22), BCR/ABL1 -
 	- PDGFRA -, PDGFRB -, FGFR1 -, PCM1-JAK2 - 
@@ -32,14 +32,14 @@ ___
 	- CNL (MPN)
 		- CSF3R
 	- CMML
-		- meer mono's (>10%), minder granulocytaire dysplasie
+		- meer mono's (> 10%), minder granulocytaire dysplasie
 	- CML
-		- meer immature voorlopers (>20%), basofilie, BCR-ABL
+		- meer immature voorlopers (> 20%), basofilie, BCR-ABL
 ### Perifeer bloed
 - anemie, trombopenie
 - leuko's > 13 (matuur en immatuur)
 	- blasten < 20%
-	- promyelo's, myelo's en metamyelo's >10%
+	- promyelo's, myelo's en metamyelo's > 10%
 	- basofielen < 2%
 	- mono's < 10%
 ### Beenmerg
@@ -63,13 +63,13 @@ ___
 		- geen anemie met dysplasie
 		- geen SF3B1
 ### perifeer bloed
-- trombo's >450
+- trombo's > 450
 - refractaire anemie met dysplasie 
 	- >15% ringsidero's (zonder SF3B1 ook ok)
 - blasten < 1%
 ### beenmerg
 - megakaryo's conform ET en PMF
-- blasten <5%
+- blasten < 5%
 ___
 ## MDS/MPN NOS
 - karakteristieken MDS-LB, MDS-IB met myeloproliferatie
@@ -78,8 +78,5 @@ ___
 	- t(9;22) -, BCR1/ABL1 -
 	- geen PDGFRA, PDGFRB, PCM1::JAK2 of FGFR1, del(5q), t(3;3) of inv(3)
 		- (inv(3), t(3;3) geeft MECOM-herschikking/EVI1-mutatie: AML-definiërende afwijking met veel dysplasie)
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

@@ -1,6 +1,6 @@
 Erdheim-Chester-ziekte (ECD) is een zeldzame histiocytaire aandoening die onlangs is erkend als een neoplasie vanwege de ontdekking van terugkerende activerende mutaties in het MAPK (RAS-RAF-MEK-ERK) pathway. Typische kenmerken van ECD omvatten centrale diabetes insipidus, restrictieve pericarditis, perinefrische fibrose en sclerotische botlaesies. De histopathologische diagnose van ECD is vaak uitdagend vanwege niet-specifieke inflammatoire en fibrotische bevindingen bij histopathologisch onderzoek van weefselmonsters. Bovendien leiden de associatie van ECD met ongebruikelijke weefseltropisme en een sluipend begin vaak tot diagnostische fouten en vertragingen. De meeste patiënten met ECD hebben behandeling nodig, behalve een minderheid met minimaal symptomatische aandoeningen die beperkt zijn tot één orgaan.
 ___
-# ECD: Consensus Recommendations for Evaluation, Diagnosis, and Treatment in the Molecular Era, 2020
+**bron**: [ECD: Consensus Recommendations for Evaluation, Diagnosis, and Treatment in the Molecular Era, 2020](https://ashpublications.org/blood/article/135/22/1929/452713/Erdheim-Chester-disease-consensus-recommendations)
 ## Epidemiologie
 - zeldzaam, gemiddelde leeftijd 46 jaar, 70-75% man
 ## Moleculaire Pathogenese en COO
@@ -12,8 +12,8 @@ ___
 - recent i.c.m. RDD
     - vaak mannen, vaak MAP2K1 mutatie
 ## Klinische en Radiologische Kenmerken
-- [zie](https://ashpublications.org/blood/article/135/22/1929/452713/Erdheim-Chester-disease-consensus-recommendations) tabel 2, p1936 voor samenvatting
-- [zie](https://ashpublications.org/blood/article/135/22/1929/452713/Erdheim-Chester-disease-consensus-recommendations) tabel 3, p1938 voor DD met JXG/AXG, ALK+ histiocytose, RDD en LCH
+- zie tabel 2, pagina 1936 voor samenvatting
+- zie tabel 3, pagina 1938 voor DD met JXG/AXG, ALK+ histiocytose, RDD en LCH
 - meta-diafyseale osteosclerose
     - botpijn lange pijpbeenderen
     - ~ 95% betrokkenheid op PET of scintigrafie
@@ -56,10 +56,11 @@ ___
 ## Rol van moleculaire diagnostiek
 - driver-mutatie in MAPK-ERK of PI3K-AKT pathway helpt enorm maar bedenk: 10-15% negatief (kleuring kan helpen)
 ## Diagnostiek
-- [zie](https://ashpublications.org/blood/article/135/22/1929/452713/Erdheim-Chester-disease-consensus-recommendations) ie p1932 - 1933, o.a. PET/CT, MRI cerebrum en MRI hart bij iedere nieuwe diagnose, vergeet endocrinologische analyse niet en uiteraard weefseldiagnose (vaak meerdere biopten; cave overlap syndroom)
+- zie b.v. pagina 1932 - 1933, o.a. PET/CT, MRI cerebrum en MRI hart bij iedere nieuwe diagnose, vergeet endocrinologische analyse niet en uiteraard weefseldiagnose (vaak meerdere biopten; cave overlap syndroom)
 	- bedenk: juiste decalcificatie methode (EDTA) t.b.v. moleculaire diagnostiek
-	- moleculaire diagnostiek: BRAF-V600E eerst (vaak VAF <5%) aanvullend KRAS, NRAS, ARAF, RAF1, MAP2K1, MAP2K2, BRAF indels, and PI3KCA
-## Behandeling (mede o.b.v. NCCN guidelines)
+	- moleculaire diagnostiek: BRAF-V600E eerst (vaak VAF < 5%) aanvullend KRAS, NRAS, ARAF, RAF1, MAP2K1, MAP2K2, BRAF indels, and PI3KCA
+## Behandeling
+- mede o.b.v. [NCCN guidelines](https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1502)
 ### Asymptomatisch en geen kritische orgaanbetrokkenheid?
 - overweeg observatie met PET/CT a 3-6 maanden
 ### Symptomatische systeemziekte
@@ -86,7 +87,7 @@ ___
 - cladribine
     - max 3-4 cycli i.v.m. lymfopenie
 - IFN-alfa en PEG-IF-alfa
-    - <50% ++ bijwerkingen: vermoeidheid, artralgieen, myalgieen en depressie
+    - \< 50% ++ bijwerkingen: vermoeidheid, artralgieen, myalgieen en depressie
     - wel optie i.g.v. afwezigheid mutaties/targets
 - alternatief, overwegen i.g.v. refractoriteit:
     - anakinra
@@ -112,9 +113,5 @@ ___
 		- everolimus
 	- RET-fusie
 		- selpercatinib
-## Anki
-ja
-## Aliassen
-[[Erdheim Chester]], [[Erdheim Chester disease]], [[non-Langerhanscel histiocytose]]
 ## Datum laatste update
 03-02-2024

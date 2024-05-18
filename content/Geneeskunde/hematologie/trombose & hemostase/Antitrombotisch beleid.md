@@ -211,8 +211,6 @@ ___
 - zie richtlijn:
 	- https://richtlijnendatabase.nl/richtlijn/antitrombotisch_beleid/periprocedureel_beleid_bij_antistolling/periprocedureel_beleid_tars.html
 
-  
-
 ## Strategie in geval van bloedingen of ingrepen
 ## Bloedingen of ingreep bij VKA
 - Onderbreek tijdelijk VKA

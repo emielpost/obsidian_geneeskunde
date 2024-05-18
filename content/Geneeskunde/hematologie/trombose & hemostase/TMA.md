@@ -32,6 +32,7 @@ ___
 	- infecties (viraal, o.a. HIV, parvo, CMV, S. pneumoniae (zeldzaam bij volwassenen; Coombs dan vaak positief), malaria en dengue?)
 	- systeemziekten (i.e. SLE, AFS)
 	- defect cobalamine-metabolisme
+	- ernstige FZ deficiëntie (NTVH mei 2024, Stutvoet)
 #### aHUS 
 - door dysregulatie alternatieve route complementsysteem
 	- genetische mutaties, verworven mutaties, antistoffen (i.e. tegen complement factor H)

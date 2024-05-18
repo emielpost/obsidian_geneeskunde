@@ -1,64 +1,64 @@
-De pathofysiologie van T-LGL berust op de continue activatie van cytotoxische T-cellen en wordt klinisch gekenmerkt door cytopenieën, recidiverende infecties en/of auto-immuunziekten. De morfologie vertoont vaak typische kenmerken. In tegenstelling tot verdringing, is de cytopenie eerder het gevolg van auto-immuniteit. Het is belangrijk om te weten dat LGL-proliferaties kunnen voorkomen bij indolente B-cel non-Hodgkin-lymfoom, chronische lymfatische leukemie (CLL) of hairy cellymfoom (HCL), en soms als gevolg van iatrogene immuundysregulatie (bijv. door lenalidomide).
+De pathofysiologie van T-LGL berust op de continue activatie van cytotoxische T-cellen en wordt gekenmerkt door cytopenieën, recidiverende infecties en/of auto-immuunziekten. De morfologie vertoont vaak typische kenmerken. In tegenstelling tot verdringing, is de cytopenie eerder het gevolg van auto-immuniteit. Het is belangrijk om te weten dat LGL-proliferaties kunnen voorkomen bij indolente B-cel non-Hodgkin lymfomen, CLL of HCL, en soms als gevolg van iatrogene immuundysregulatie (bijv. door lenalidomide).
 ___
-# Richtlijn LGL, 2020
+**bron**: [richtlijn LGL, 2020](https://publicatie.hematologienederland.nl/richtlijnen/lgl/)
 ## Diagnostiek
 - A/LO: o.a auto-immuunaandoeningen? m.n. RA
-- Lab: bloedbeeld, manuele diff, DAT, HBV/HCV serologie, HIV, reumafactor, ANA, BSE
+- lab: bloedbeeld, manuele diff, DAT, HBV/HCV serologie, HIV, reumafactor, ANA, BSE
 - IFT perifeer bloed
-- Indien gewenst en verdenking T-LGL: moleculaire, i.e. TCRB en TCRG genherschikkingsonderzoek, eventueel NGS  (o.a. STAT3/STAT5b)
+- indien gewenst en verdenking T-LGL: moleculaire, i.e. TCRB en TCRG genherschikkingsonderzoek, eventueel NGS  (o.a. STAT3/STAT5b)
 	- STAT3 komt te weinig voor: geen rol bij diagnose.
-- Indien gewenst en verdenking NK-CLPD:
+- indien gewenst en verdenking NK-CLPD:
 	- IFT met KIR antistoffen of via CD94/HLA-DR analyse
-- Op indicatie beenmerg (i.e. dd AA, PRCA of MDS)
-- Op indicatie: X-Thorax, echo abdomen, CT Thorax/abdomen
-- Zie tabel 1, pagina 5 voor IFT opmaak T-LGL
-- Bedenk: LGL lymfoproliferaties op ziektespectrum: polyklonaal en geactiveerd via TCUS en chronische lymfoproliferaties van NK-cel origine tot klinisch evidente LGL leukemie.
-- Associaties:
+- op indicatie beenmerg (i.e. dd AA, PRCA of MDS)
+- op indicatie: X-Thorax, echo abdomen, CT Thorax/abdomen
+- zie tabel 1, pagina 5 voor IFT opmaak T-LGL
+- bedenk: LGL lymfoproliferaties op ziektespectrum: polyklonaal en geactiveerd via TCUS en chronische lymfoproliferaties van NK-cel origine tot klinisch evidente LGL leukemie.
+- associaties:
 	- 4-10% solide maligniteit
 	- 5% auto-immuun cytopenie
 	- 5% B-cel maligniteit
 	- 10-20% auto-immuun-/systeemziekte (RA)
 	- 3-10% MDS
 ## Behandelindicaties
-- Geen stadiëring
-- Indicaties: recidiverende infecties, B-symptomen, symptomatische anemie, symptomatische auto-immmuunziekte
-	- Hb < 6.2, trombo's <50 of neutro's < 0.5
+- geen stadiëring
+- indicaties: 
+	- recidiverende infecties
+	- B-symptomen
+	- symptomatische anemie
+	- symptomatische auto-immmuunziekte
+	- Hb < 6.2, trombo's < 50 of neutro's < 0.5
 ## Prognosticering
-- Geen aanvullend onderzoek geindiceerd
+- geen aanvullend onderzoek geindiceerd
 ## Behandeling
 - doel: verminderen symptomatologie en verbetering bloedbeeld
 	- tabel 3, p12: responsbeoordeling
 	- 1e keuze: MTX 10mg/m2/week voor 4 maanden, geen folinezuur noodzakelijk
 	- CR na 4m: staken na 1m
 	- PR na 4m: door gedurende 1j
-	- Onvoldoende respons: switch naar 2e keuze
+	- onvoldoende respons: switch naar 2e keuze
 	- bijwerkingen: o.a. longtoxiciteit, hepatitis en cytopeniëen
-- 2e keuze (vooral bij pure red cell aplasia en/of anemie): cyclofosfamide 100mg/dag voor 4 maanden
-	- respons: 8-12m door
+- 2e keuze (vooral bij pure red cell aplasia en/of anemie): cyclofosfamide 100 mg/dag voor 4 maanden
+	- respons: 8-12 maanden door
 	- CR: staken na 1 maand
 	- niet te lang: secundaire maligniteiten
-- Alternatief: ciclosporine 5-10 mg/kg/dag verdeeld over 2 doses
-	- streefspiegeL: 200-350 ng/mL
+- alternatief: ciclosporine 5-10 mg/kg/dag verdeeld over 2 doses
+	- streefspiegel: 200-350 ng/mL
 	- bijwerkingen: o.a. TMA/hypertensie, nierinsufficiëntie
 ### Aanvullende maatregelen
-- G-CSF of prednisolon 1mg/kg bij problematische neutropenie
-- Prednison 20-60 mg/dag bij auto-immuun symptomen (b.v. RA)
+- G-CSF of prednisolon 1 mg/kg bij problematische neutropenie
+- prednison 20-60 mg/dag bij auto-immuun symptomen (b.v. RA)
 	- monotherapie weinig effect op T-LGL, wel op reumatische klachten
 - griepvaccinatie
 ### Refractair op MTX, cyclofosfamide en ciclosporine?
-- Purine analogen: cladribine, fludarabine, bendamustine
-- Splenectomie bij symptomatische splenomegalie
+- purine analogen: cladribine, fludarabine, bendamustine
+- splenectomie bij symptomatische splenomegalie
 ## FU bij LGL?
 - elke 3-12 maanden bloedbeeld en anamnese
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024
+___
+**bron**: Wenkebach cursus, 2023
 
-
-
-# Wenkebach cursus, 2023
 - bij RA met splenomegalie en granulopenie (overlap Felty kan)
 - DD
 	- LGL lymfocytose
@@ -72,8 +72,5 @@ ja
 	- intrasinusoïdaal CD3+ en CD8+ T-cellen
 	- CD57 + (++ specifiek, weinig sensitief)
 	- veel CD4+ T-cellen, maar reactief
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

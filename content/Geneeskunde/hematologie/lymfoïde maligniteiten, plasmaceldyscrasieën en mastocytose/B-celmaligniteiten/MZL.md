@@ -4,13 +4,13 @@ Marginale zone lymfoom (MZL) is een subtype non-Hodgkin lymfoom (NHL) dat voorko
 3. Nodale MZL (met of zonder monocytoïde B-cellen), dat ook ongeveer 20% van de gevallen uitmaakt. Deze vorm wordt meestal gevonden in stadium III/IV van de ziekte.
 Elk type MZL heeft zijn eigen klinische kenmerken en presentaties, en de behandeling kan variëren afhankelijk van het subtype en de ziektestadium.
 ___
-# HOVON richtlijn MZL, 2021
+**bron**: [HOVON richtlijn MZL, 2021](https://publicatie.hematologienederland.nl/richtlijnen/marginale-zone-lymfoom/)
 ## Diagnostiek
 - A/LO, verder o.a. histologisch (excisie) biopt, B2M, IgA, IgG, IgM en M-proteine, virale serologie
 - CT hals/thorax/abdomen (met contrast) of PET op indicatie
-- Beenmerg: sMZL en nMZL, op indicatie bij eMZL
+- beenmerg: sMZL en nMZL, op indicatie bij eMZL
 - ECG, echocardiografie of MUGA voorafgaand aan antracyclines
-- Fertiliteitscounceling op indicatie
+- fertiliteitscounceling op indicatie
 - sMZL: DAT, op indicatie cryo's, vWF etc.
 	- vaak circulerende lymfo's
 	- beenmerg vrijwel altijd aangedaan
@@ -29,7 +29,7 @@ ___
 - morfologisch kleine - middelgrote B-cellen met wisselende hoeveelheid cytoplasma. Vaak lymfoepitheliale laesies klierbuizen (niet specifiek, ook reactief)
 - IHC: gebruik CD20, CD10, BCL6, CD3, CD5, CD23, cycline D1, doe lichte keten expressie (diagnose lymfoom en plasmaceldifferentiatie ja/nee)
 - MALT lymfoom maag: H. Pylori diagnostiek
-	- soms H. heilmannii.
+	- soms H. heilmannii
 	- toegevoegde waarde aantonen H. Pylori op ontlasting of serologisch is onzeker
 ##### sMZL
 - bij voorkeur splenectomie
@@ -65,14 +65,14 @@ ___
 		- onvoldoende respons MZL behandeling
 	- diagnose histologisch, PET helpt
 ## Stadiëring
-- Algemeen
+- algemeen
 	- volgens Lugano: I (IE) t/m IV, zie tabel 2, p 15
-- Beeldvorming
+- beeldvorming
 	- altijd CT h/th/a bij diagnose, voor en na afronding behandeling
 	- PET/CT zoals bij FL:
 		- nMZL: bij stadium I-II voor curatieve bestraling (niet bij eMZL en sMZL)
 		- bij vermoeden transformatie
-- Beenmerg
+- beenmerg
 	- altijd bij nMZL, gedissemineerd eMZL of sMZL
 		- eventueel van afzien als stadium III of IV of geen behandelindicatie
 - MALT lymfoom maag
@@ -111,11 +111,11 @@ in praktijk vaak IPI/FLIPI maar niet gevalideerd voor MZL
 #### MALT maag (zie [figuur 1](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=24))
 ##### H. Pylori positief
 - eradicatie (ook hogere stadia)
-	- na 2-3m H. Pylori antigeen
+	- na 2-3 maanden H. Pylori antigeen
 		- 2e lijns AB als nog positief
-	- na 3m gastroscopie:
+	- na 3 maanden gastroscopie:
 		- complete respons: klinische FU
-		- microscopisch persisterend maar klinisch goede respons: afwachten en scopie a 3-6m voor 2j
+		- microscopisch persisterend maar klinisch goede respons: afwachten en scopie a 3-6 maanden voor 2 jaar
 		- no change of progressie:
 			- als H. Pylori negatief behandelen
 ##### H. Pylori negatief
@@ -138,18 +138,18 @@ in praktijk vaak IPI/FLIPI maar niet gevalideerd voor MZL
 		- PS1 t(11;18) lijkt minder responsief op chloorambucil
 		- PS2 R-lena lijkt effectief maar nog niet beschikbaar
 #### eMZL van de oculaire adnexa (OAMZL)
-- Stadium I-II
+- stadium I-II
 	- radiotherapie (één of beide ogen)
 	- asymptomatisch/beperkte ziekte: overweeg 'watch and wait'
-- Stadium III-IV (zeldzaam)
+- stadium III-IV (zeldzaam)
 	- asymptomatisch: 'watch and wait'
 	- symptomatisch:
 		- i.f.v. leeftijd/conditie/uitgebreidheid/urgentie:
 			- immunochemo of rituximab monotherapie, conform andere eZML
 			- radiotherapie
-- Overweeg doxycycline, vooral indien C. psittaci positief en geen acute behandelindicatie
+- overweeg doxycycline, vooral indien C. psittaci positief en geen acute behandelindicatie
 #### BALT lymfoom (zie ook [tabel](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=33) op pagina 33)
-- Stadium I-II
+- stadium I-II
 	- na radicale resectie: geen aanvullende therapie
 	- asymptomatisch: overweeg 'watch and wait'
 - symptomatisch/behandelindicatie:
@@ -158,7 +158,7 @@ in praktijk vaak IPI/FLIPI maar niet gevalideerd voor MZL
 		- immunochemo
 		- rituximab mono
 		- lage dosis radiotherapie
-- Stadium III-IV
+- stadium III-IV
 	- asymptomatisch: 'watch and wait' 
 	- symptomatisch: immunochemo of rituximab monotherapie, conform andere eZML
 #### eMZL van de speekselklieren
@@ -175,7 +175,7 @@ in praktijk vaak IPI/FLIPI maar niet gevalideerd voor MZL
 				- M proteïne, cryoglobulines, IgM reuma factor > 100 KIU/L, ernstige extraglandulaire ziektemanifestaties geeft slechtere uitkomsten
 		- radiotherapie
 ### sMZL
-Vrij goede prognose: >50% >10j overleving, 30% ongunstiger, 5-10% transformeert naar DLBCL
+vrij goede prognose: > 50% > 10 jaar overleving, 30% ongunstiger, 5-10% transformeert naar DLBCL
 - 20% auto-immuun: AIHA, ITP, koude agglutininen, C1-esterase deficiëntie, vWF
 - criteria start behandeling:
 	- symptomatische splenomegalie
@@ -239,40 +239,37 @@ Vrij goede prognose: >50% >10j overleving, 30% ongunstiger, 5-10% transformeert 
 ## Behandelschema's
 Details: zie vanaf [pagina](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=45) 45, bevat o.a. sectie over overgevoeligheid rituximab
 ## Radiotherapie voor MZL
-Details: [zie](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=47) pagina's 47 en 48. Grofweg:
+details: [zie](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=47) pagina's 47 en 48. Grofweg:
 - stadium I en II: 12x2 Gy involved site
 - stadium III en IV: palliatief 1x4 Gy
 - recidief of palliatief: 1x4 Gy bij klachten
 ## Responsevaluatie    
 - algemeen
-	- interim: CT h/th/a met i.v. contrast
+	- interim: CT hals/thorax/abdomen met i.v. contrast
 	- eind:
-		- CT h/th/a met i.v. contrast
+		- CT hals/thorax/abdomen met i.v. contrast
 			- PR? ná inductiebehandeling alsnog CR kán
-			- <PR: overweeg salvagebehandeling
+			- \< PR: overweeg salvagebehandeling
 		- optioneel: beenmerg als bij start positief
 - MALT maag
-	- 3m na eradicatie gastroscopie met biopten herhalen
-		- respons volgens GELA scoring systeem (zie p50)
+	- 3 maanden na eradicatie gastroscopie met biopten herhalen
+		- respons volgens GELA scoring systeem (zie pagina 50)
 	- ureum ademtest of H. feces antigeen
 ## Follow-up    
-- Algemeen
-	- A/LO + lab a 3-4m in jaar 1, vanaf jaar 3 a 6 maanden
+- algemeen
+	- A/LO + lab a 3-4 maanden in jaar 1, vanaf jaar 3 a 6 maanden
 		- TSH (indien bestraald op hals): jaarlijks
-	- Geen routine beeldvorming
-		- CT h/th/a + i.v. contrast bij verdenking progressie
+	- geen routine beeldvorming
+		- CT hals/thorax/abdomen + i.v. contrast bij verdenking progressie
 		- PET/CT bij verdenking transformatie
 - MALT maag
 	- herhaalscopieën i.f.v. restziekte en symptomen na afronden behandeling
 		- mapping ook tijdens FU
-	- details:  [zie](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=52) pagina 52
-## Anki
-ja
-## Aliassen
+	- details: [zie](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Lymphoma/MZL-richtlijn-2021.pdf#page=52) pagina 52
 ## Datum laatste update
 21-02-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## sMZL/SLVL
 - In WHO 2022 classificatie deels ondergebracht bij splenisch B-cel lymfoom/leukemie met prominente nucleoli
 - zeldzaam, karakteristiek leukemisch
@@ -292,8 +289,5 @@ ___
 - PA
 	- noduli, zonder vezeltoename
 	- typisch intrasinusoidale ligging
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 24-02-2024

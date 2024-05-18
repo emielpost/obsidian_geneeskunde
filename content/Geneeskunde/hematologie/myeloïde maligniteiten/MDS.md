@@ -1,6 +1,6 @@
 Inefficiënte hematopoëse, met als gevolg cytopenieën, vormt een cruciaal aspect in de ontwikkeling van myelodysplastisch syndroom (MDS). De diagnose is gebaseerd op gedetailleerde analyses van bloed- en beenmergmorfologie, waarbij de prognose afhangt van cytogenetische en moleculaire afwijkingen. In de leeftijdsgroep van boven de 70 jaar komt deze aandoening relatief vaak voor, met ongeveer 20 gevallen per 100.000 mensen, Nederland registreert jaarlijks ongeveer 500 nieuwe diagnoses. MDS gaat vaak gepaard met auto-immuunfenomenen zoals vasculitis met o.a. gewrichts- en spierklachten. Het klinische beloop varieert tussen progressief beenmergfalen en evolutie naar AML.
 ___
-# ESMO clinical practical guidelines for diagnosis, treatment and follow-up, 2020
+**bron**: [Myelodysplastic syndromes: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up, 2021](https://www.annalsofoncology.org/article/S0923-7534(20)43129-1/fulltext)
 ## Incidentie en epidemiologie
 - klonale HSC afwijking
 - 1/4 - 1/3 ontwikkelt AML
@@ -19,28 +19,28 @@ ___
 - diagnostische classificatie o.b.v. WHO, prognose o.b.v. IPSS-R
 	- verder te differentieren met:
 		- ICUS (idiopathic cytopenias of uncertain significance)
-			- meer dan 4m milde cytopenie
-			- dysplasie <10%, blasten <5%, negatieve cytogenetica/MODi, geen andere aandoeningen
+			- meer dan 4 maanden milde cytopenie
+			- dysplasie < 10%, blasten < 5%, negatieve cytogenetica/MODi, geen andere aandoeningen
 		- IDUS (idiopathic dysplasia of unknown significance)
 			- geen cytopenie
-			- dysplasie > 10%, blasten <5%, negatieve cytogenetica/MoDi
+			- dysplasie > 10%, blasten < 5%, negatieve cytogenetica/MoDi
 		- CHIP (clonal haematopoiesis of indeterminate potential; 10-30% van ouderen)
-			- geen cytopenie, dysplasie <10%, blasten <5%
+			- geen cytopenie, dysplasie < 10%, blasten < 5%
 			- 1 of meer MDS-geassocieerde mutatie: DNMT3a, ASXL1, TET2, JAK2 en TP53 met VAF 2-30%
 		- CCUS (clonal cytopaenias of uncertain significance)
-			 - meer dan 4m cytopenie
-			- dysplasie <10%, blasten <5%
+			 - meer dan 4 maanden cytopenie
+			- dysplasie < 10%, blasten < 5%
 			- 1 of meer MDS-geassocieerde mutatie: DNMT3a, ASXL1, TET2, JAK2 en TP53 met VAF 2-30%
 ### Cytomorfologie
-- dysplasie >= 10% in merg of PB in >= cellijn:
-	- perifeer bloed (>200 beoordelen):
+- dysplasie $\geq$ 10% in merg of PB in $\geq$ cellijn:
+	- perifeer bloed (> 200 beoordelen):
 		- granulocyten
 			- pseudo Pelger-Huet cellen, abnormale chromatine klontering, hypo-/degranulatie, linksverschuiving
 		- trombocyten
 			- reustrombocyten, anisometrie
 			- erytrocyten
 			- anisocytose, poikilocytose, dimorfe ery's, polychromasie, hypochromasie, megalocyten, basofiele stippeling, aanwezigheid erytroblasten, traandruppelcellen, ovalocyten, fragmentocyten
-	- beenmerg (>500 beoordelen): 
+	- beenmerg (> 500 beoordelen): 
 		- cellulariteit merg
 			- typisch hypercellulair, zelden hypo-
 		- erytropoiese
@@ -53,8 +53,8 @@ ___
 - botbiopt bij diagnose: fibrose? niet t.b.v. FU zoals in VS
 ### Cytogenetica
 - 30-80% klonale chromosomale afwijkingen
-	- overige 20-70% sub-microscopische afwijkingen: puntmutaties, microdeleties/-amplificaties, epigenetische afwijkingen of copy number neutral loss (b.v. uniparental disomy [UPD])
-- >= 3 onafhankelijke cytogenetische afwijkingen in >= 2 metafases: complexe cytogenetica -> slechte prognose
+	- overige 20-70% sub-microscopische afwijkingen: puntmutaties, microdeleties/-amplificaties, epigenetische afwijkingen of copy number neutral loss (b.v. uniparental disomy)
+- $\geq$ 3 onafhankelijke cytogenetische afwijkingen in $\geq$ 2 metafases: complexe cytogenetica → slechte prognose
 ### Moleculaire genetica/-diagnostiek
 - 80-90% heeft moleculaire mutaties (allen circa 10-20%):
 	- epigenetische afwijkingen
@@ -68,23 +68,23 @@ ___
 	- cohesine complex
 		- STAG2
 ## Diagnostische classificatie
-+ erg variabel, mediane OS 15-30m, 25-35% 5j progressie AML
-- gebruik IPSS-R: 5 risicogroepen o.b.v. bloedbeeld, cytogenetica en %blasten in BM
++ erg variabel, mediane OS 15-30 maanden, 25-35% 5 jaar progressie AML
+- gebruik IPSS-R: 5 risicogroepen o.b.v. bloedbeeld, cytogenetica en % blasten in BM
 - overige factoren van belang: multilineage j/n, transfusieafhankelijkheid, LDH, beenmergfibrose, IFT en MoDi
 	- momenteel enige gevalideerde/relevante mutaties: SF3B1 (lager risico), TP53 (in del(5q) MDS) en IDH1/IDH2 (targeted behandeling)
 ## Behandeling
 ### Responscriteria
 - modificatie ziektetraject
-	- allo, intensieve CT en HMA's, CR, PR, SD en progressie
+	- allo, intensieve CT en HMA's, CR, PR, SD en progressie hé y
 - verbetering cytopenieen
 	- HI (hematological improvement)
 ### Hoger risico MDS (figuur 2, p148)
 - hypomethylerend
 	- indien niet direct in aanmerking voor allo: azacitidine (o.a. AZA-001 fase III RCT)
-		- minimaal 6 cycli azacitidine 75 mg/m2 7D, of 5-2-2 regime
+		- minimaal 6 cycli azacitidine 75 mg/m<sup>2</sup> 7D, of 5-2-2 regime
 	- vaak ook 2-6 cycli vóór allo-SCT
 - AML-like chemotherapie
-	- beperkte indicatie, tenzij fit (<70j) + niet-slecht risico karyogram en >10% blasten
+	- beperkte indicatie, tenzij fit (< 70 jaar) + niet-slecht risico karyogram en > 10% blasten
 	- bij voorkeur als bridge to transplant
 	- b.v. cytarabine, idarubicine of fludarabine
 	- overweeg vyxeos!
@@ -94,7 +94,7 @@ ___
 - allo SCT
 	- enige curatieve optie, vaak beperkt mogelijk vanwege leeftijd
 	- myeloablatief i.p. voorkeur als jong (RIC hogere relapse)
-	- blastenreductie ja/nee is nog niet duidelijk, al wordt dit vaak gedaan als >10%
+	- blastenreductie ja/nee is nog niet duidelijk, al wordt dit vaak gedaan als > 10%
 	- ijzerstapeling ~ infectie-gerelateerde mortaliteit en lagere OS: chelatie!
 - best supportive care als ++ kwetsbaar
 ### Lager risico MDS (figuur 3, p150)
@@ -104,12 +104,12 @@ ___
 - verder:
 	- zonder del(5q)
 		- 30.000 - 80.000 E EPO per week of 150-300mcg darbepoetine zo'n 40-60% respons
-			- m.n. als laag EPO (<200-500) en lage transfusie behoefte
+			- m.n. als laag EPO (< 200-500) en lage transfusie behoefte
 			- G-CSF doet effectiviteit EPO mogelijk toenemen
 	- mét del(5q)
 		- lagere responskans op EPO
 		- lenalidomide, circa 60-65% responskans
-			- initieel 10mg 1dd voor 3w iedere 4w
+			- initieel 10 mg 1dd voor 3 weken iedere 4 weken
 			- TP53 geeft lagere responskans
 				- dienen ook vaker vervolgd te worden + regelmatig beenmerg voor klonale evolutie
 			- vervolg bloedbeeld: 60% kans op graad 3/4 neutro- en trombocytopenie w.v. G-CSF
@@ -132,38 +132,34 @@ ___
 - trombopenie (circa 30%)
 	- hoge dosis androgeneica kán maar vaak kortdurend
 	- TPO-agonisten (niet geregistreerd!):
-		- romiplostim 500-1000 mcg/wk
+		- romiplostim 500-1000 mcg/week
 			- 55% respons rate maar wel (transient) toename blasten met mogelijk toename AML-risico (niet bewezen)
 		- eltrombopag mogelijk ook effectief
 - ATG +/- cyclosporine en HMA's 35-40% effectief
 ### Supportive care en chelatietherapie in MDS
 - transfundeer EC's ruim
-- trombo's >10
+- trombo's > 10
 - profylactisch AB en/of G-CSF in principe niet geadviseerd, koorts wel snel behandelen
 	- dan kortdurend G-CSF mogelijk effectief
 - t.a.v. ijzerchelatie: 
 	- vanaf 70-80 EC's significante cardiale ijzerstapeling 
-	- start chelatiebehandeling als relatief goede prognose met 20-60 EC's transfusie of ferritine >1000-2500
-		- eerder als potentiele allo-kandidaat
+	- start chelatiebehandeling als relatief goede prognose met 20-60 EC's transfusie of ferritine > 1000-2500
+		- eerder als potentiële allo-kandidaat
 		- of als klinische consequenties van ijzerstapeling
 	- voorkeur voor deferasirox (oraal)
-## Anki
-ja
-## Aliassen
-[[dysplasie]]
 ## Datum laatste update
 30-01-2024
 ___
-# MDS richtlijn diagnostiek 2013
+**bron**: [MDS richtlijn diagnostiek 2013](https://hovon.nl/_asset/_public/TreatmentGuidelines/TreatmentGuidelines_Leukemia/Richtlijnen-MDS.pdf)
 ## Differentiaal diagnose
-Dysplasie niet pathognomisch, ook bij:
+dysplasie niet pathognomisch, ook bij:
 - megaloblastaire anemie
 - overvloedig alcoholgebruik
 - infectieziekten (HIV, TBC)
 - hemolyse
 - tijdens of na cytostatica
 - ernstig ijzergebrek
-Moeilijk als ICUS (cytopenie(en), nauwelijks dysplasie en geen richtinggevende cytogenetica) of hypolastisch: DD AA of PNH
+moeilijk als ICUS (cytopenie(en), nauwelijks dysplasie en geen richtinggevende cytogenetica) of hypolastisch: DD AA of PNH
 ## Diagnostiek
 - cytopenie in 1 of meer cellijnen, EN één/meer van:
 	- dysplasie in 1 of meer cellijnen
@@ -220,16 +216,16 @@ nieuw: MDS met dysplasie in 1 cellijn = MDS met unilineage dysplasie (RCUD)
 - RCUD-RN
 - RCUD-RT
 nieuw: 
-- 2-4% blasten PB = RAEB-1 (zelfs als BM <5%)
+- 2-4% blasten PB = RAEB-1 (zelfs als BM < 5%)
 - 5-19% blasten PB/BM = RAEB-2
 hypoplastisch of fibrose kan toegevoegd aan 1 van MDS-classificaties
 ## Prognostische scoresystemen
 ### IPSS
-- mediane overleving o.b.v. BM blasten <5%, karyotype, cytopenieën:
-	- laag risico: 5.7m
-	- intermediair-1: 3.5m
-	- intermediair-2: 1.2m
-	- hoog risico: 0.4m
+- mediane overleving o.b.v. BM blasten < 5%, karyotype, cytopenieën:
+	- laag risico: 5.7 maanden
+	- intermediair-1: 3.5 maanden
+	- intermediair-2: 1.2 maanden
+	- hoog risico: 0.4 maanden
 ### WPSS en WPSS-refined
 - o.b.v. WHO-classificatie, karyotype, transfusiebehoefte of Hb bij diagnose
 	- zeer laag risico
@@ -239,39 +235,35 @@ hypoplastisch of fibrose kan toegevoegd aan 1 van MDS-classificaties
 	- zeer hoog
 ### IPSS revised
 - mediane overleving o.b.v. karyotype, BM blasten, Hb, trombo's en neutro's bij diagnose:
-	- zeer laag: 8.8m
-	- laag: 5.3m
-	- intermediair: 3.0m
-	- hoog: 1.6m
-	- zeer hoog: 0.8m
+	- zeer laag: 8.8 maanden
+	- laag: 5.3 maanden
+	- intermediair: 3.0 maanden
+	- hoog: 1.6 maanden
+	- zeer hoog: 0.8 maanden
 ### Comorbiditeit
 - steeds belangrijker, o.a. HCT-CI, gemodificeerde Charlson comorbiditeitsindex
-## Anki
-ja
-## Aliassen
-[[dysplasie]]
 ## Datum laatste update
 31-01-2024
 ___
-# MDS JNVvH  5 april 2023 (UMCG)
+**bron**: MDS JNVvH 5 april 2023 (UMCG)
 ## Diagnose
 - doe ook PA (myelofibrose? celrijkdom)
 - cytogenetica 
 - NGS: SF3B1 en DNMT3A
-- Nieuwe WHO-classificatie (5e editie):
-	- Myelodysplastische neoplasma (MDS)
-	- Grens dysplasie in 10% van de cellen
-	- Grens met AML nog steeds 20% blasten maar minder strikt...
-		- b.v. bij sommige mutaties <20% blasten ook AML
+- nieuwe WHO-classificatie (2022, 5e editie):
+	- myelodysplastische neoplasma (MDS)
+		- grens dysplasie in 10% van de cellen
+		- grens met AML nog steeds 20% blasten maar minder strikt...
+			- b.v. bij sommige mutaties < 20% blasten ook AML
 	- CCUS:
 		- clonale cytopenie van unknown significance (CCUS): persisterend met bijpassende mutatie, niet anderszins verklaard
 	- classificatie x2:
-		- met gedefineerde genetische afwijkingen
+		- met gedefinieerde genetische afwijkingen
 		- morfologisch gedefinieerd
 ## Prognosticering
 - IPSS-R
 - Somatische mutaties niet in IPSS-R, maar:
-	- TP53 (zeker ontbreken WT allel) en aantal mutaties (>3): slechtere prognose en kortere duur respons op hypomethylerende therapie
+	- TP53 (zeker ontbreken WT allel) en aantal mutaties (> 3): slechtere prognose en kortere duur respons op hypomethylerende therapie
 	- ongunstig: ASXL1, TP53, ETV6, EZH2, RUNX1, SRSF2, U2AF1, STAG2, CBL en (...)
 	- gunstig: SF3B1
 - nieuw: IPSS-M risicocalculator [online](https://mds-risk-model.com/)
@@ -286,39 +278,35 @@ ___
 			- streefspiegel onbekend
 			- doel: stabilisatie, zo mogelijk reductie
 	- EPO (hoge dosis) + G-CSF, rol TPO-agonisten dubieus (risico clonale evolutie/progressie naar AML)
-		- start met 150 mcg/week (darbepoietine), ophogen naar 300mcg/week als na 6-8 weken geen effect
+		- start met 150 mcg/week (darbepoietine), ophogen naar 300 mcg/week als na 6-8 weken geen effect
 			- minder effectief als
 				- EPO > 500 U/L
-				- meer dan 2 RBC's/4w
+				- meer dan 2 RBC's per 4 weken
 				- hogere IPSS/IPSS-R
 				- (ringsideroblasten)
-	- G-CSF: b.v. 2-3x/week 300 mcg
+	- G-CSF: b.v. 2-3x per week 300 mcg
 	- IMiD: lenalidomide in geval van del(5q), *ook in geval van non 5q???*
 		- transfusie-onafhankelijkheid circa 70% (vs. 25% als non 5q-)
-			- lenalidomide 10mg (met stopweek), effect <5w dus kom je vrij snel achter
+			- lenalidomide 10 mg (met stopweek), effect < 5 weken dus kom je vrij snel achter
 	- Luspatercept: bij MDS met ringsideroblasten
-		- 1mg/kg a 3 weken -> verhoogd Hb, verminderd transfusie-behoefte (beperkt?)
+		- 1 mg/kg a 3 weken → verhoogd Hb, verminderd transfusie-behoefte (beperkt?)
 		- EPO vervolgens stoppen
 		- 75.000-100.000 euro/jaar (!)
 - Immuunsuppressiva: overwegen bij hypocellulair beenmerg en jong
 - allo HCT: TRM vs. winst op langere termijn (<5% blasten up-front, >10% inductietherapie, 5-10% onduidelijk...)
 	- dan mogelijk rol voor azacitidine (hypomethylerend; vs. IR)
-- Anabolica? Geen aangetoond effect, mogelijk bij telomeerziekte
-## Anki
-nee
-## Aliassen
-[[dysplasie]], [[jongerendag]]
+- anabolica? Geen aangetoond effect, mogelijk bij telomeerziekte
 ## Datum laatste update
 31-01-2024
 ___
-# Wenkebach cursus, 2023
+**bron**: Wenkebach cursus, 2023
 ## Algemeen
-- ineffectieve hematopoiese
-	- cytopenie minimaal 1 cellijn en <20% blasten
+- ineffectieve hematopoïese
+	- cytopenie minimaal 1 cellijn en < 20% blasten
 	- mild is ok, mits voldoende dysplasie en cytogenetische afwijkingen
-		- Hb < 8.0 (mannen) <7.5 (vrouwen)
+		- Hb < 8.0 (mannen) < 7.5 (vrouwen)
 		- neutro's < 1.8
-		- trombo's <150
+		- trombo's < 150
 	- dysplasie erytroid > megakaryocytair > myeloid
 		- vaak 2/3 cellijnen
 - oorzaak
@@ -333,7 +321,7 @@ ___
 		- recente chemotherapie
 	- ook:
 		- chronische leverziekte en alcohol
-		- inflammatie (HIV) en kanker
+		- inflammatie (HIV) en kankerh
 ## Cytomorfologie
 ### Bloeduitstrijk
 - kwantitatief
@@ -351,7 +339,8 @@ ___
 		- hypo- en hypergranulatie, pseudo-Pelgervormen ("zonnebrilletje"), hypersegmentatie, lichaampjes van Döhle
 	- dysmegakaryopoiese
 		- megatrombocyten, hypo- en hypergranulatie
-### Beenmerg (zie Cazzola et al. Blood 2013; 122:4021)
+### Beenmerg 
+- zie ook [Cazzola et al. Blood 2013; 122:4021](https://ashpublications.org/blood/article/122/25/4021/32026/The-genetic-basis-of-myelodysplasia-and-its)
 - dyserytropoiese
 	- kernafwijkingen
 		- abnormale vormen, kernfragmentatie en abnormale mitosen
@@ -390,7 +379,7 @@ ___
 - prognostisch gunstig
 - trombo's > 450?
 	- MDS/MPN met SF3B1 mutatie en trombocytose
-- geen mutatie, wel >15% ringsideroblasten?
+- geen mutatie, wel > 15% ringsideroblasten?
 	- MDS met laag blastenaantal en RS (en wildtype SF3B1)
 #### MDS met laag blastenaantal en geïsoleerde del(5q) (MDS-5q)
 - één additionele afwijking mag, m.u.v.:
@@ -407,10 +396,10 @@ ___
 - na uitsluiting MDS met definiërende afwijkingen en secundaire MDS
 	- cytopenie in minimaal één cellijn i.c.m. dysplasie >10% in één reeks
 		- monocyten < 0.5
-		- ringsideroblasten <15%
-	- blasten <5% beenmerg, <2% PB
+		- ringsideroblasten < 15%
+	- blasten < 5% beenmerg, < 2% PB
 #### Hypoplastische MDS (h-MDS)
-- <30% cellulariteit <70j, <20% cellulariteit > 70j
+- \< 30% cellulariteit < 70 jaar, < 20% cellulariteit > 70 jaar
 - dysplasie bloeduitstrijkjes en beenmerg
 - passende MoDi en cytogenetica helpt
 	- b.v. -7, del(5q), +8
@@ -432,18 +421,16 @@ ___
 - voldoet aan criteria MDS
 	- geen megatrombocyten of leuco-erytroblastose (PMF)
 	- splenomegalie kán
-- fibrose MF2-3
+- fibrose MF 2-3
 	- naast dysplasie veel stromaveranderingen: fibrose, oedeem, toename plasmacellen en lymfo's
 - DD 
 	- acute panmyelose met myelofibrose
-		- acuut, progressieve pancytopenie en >20% blasten
+		- acuut, progressieve pancytopenie en > 20% blasten
 	- primaire myelofibrose
 		- megakaryo's MDS simpel, PMF bizar ("ingewikkelde megakaryo's")
 		- beiden splenomegalie
 		- bloedbeeld PMF proliferatiever en minder dysplasie
 	- acceleratiefase CML
-
-
 ## MDS van de kinderleeftijd
 - vaak -7 i.h.k.v. GATA2-deficiëntie of Fanconi anemie
 ## Myeloide neoplasie post-cytotoxische therapie (MN-pCT)
@@ -451,7 +438,7 @@ ___
 ## Pre-maligne cytopenieën en vormen van clonale hematopoiese volgens ICC 2022
 - praktisch: hou in follow-up
 ### clonal hematopoiesis with indeterminate potential (CHIP, synoniem ARCH)
-- VAF > 2% (>4% van cellen) 
+- VAF > 2% (> 4% van cellen) 
 	- of > 4% voor mannen met X-linked gen mutaties
 	- GEEN dysplasie, neutropenie etc.
 		- meestal benigne beloop
@@ -473,9 +460,5 @@ ___
 - geen reactieve conditie die monocytose verklaard
 ### clonal cytopenia and monocytosis of undetermined significance (CCMUS)
 - conform CMUS maar mét cytopenie
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 22-02-2024
-___

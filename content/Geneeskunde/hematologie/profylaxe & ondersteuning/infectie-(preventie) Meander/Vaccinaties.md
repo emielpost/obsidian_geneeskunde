@@ -1,23 +1,23 @@
 Het nemen van geschikte preventieve maatregelen kan aanzienlijk bijdragen aan het verminderen van infectierisico's en het verbeteren van de gezondheidsuitkomsten voor hematologische patiënten met een immuunstoornis.
 ___
-# Infectiepreventie en antibioticabeleid Hemato-oncologie MeanderMC
+**bron**: Infectiepreventie en antibioticabeleid MeanderMC, lokaal protocol
 ## Algemeen
-- bij voorgenomen autoloog pas nadíen: verlies van respons.
+- bij voorgenomen autoloog pas nadíen i.v.m. verlies van respons.
 - landelijke richtlijn 2023: 
 	- pneumokokken, influenza en VZV vaccinatie bij álle NHL en HL patiënten
-- eerder gevaccineerd voor pneumokkken? pneumovax a 5j i.p.v. tandem prevenar/pneumovax
+- eerder gevaccineerd voor pneumokkken? pneumovax a 5 jaar i.p.v. tandem prevenar/pneumovax
 ## Indicaties per ziektebeeld
 ### (functionele) asplenie
 - zie Meander MC protocol: "infectiepreventie bij asplenie bij volwassenen"
 ### MPN + ruxolitinib
-- shingrix 1/prevenar: voor start ruxo
-- shingrix 2/pneumovax: na 2m
+- shingrix 1/prevenar: voor start ruxolitinib
+- shingrix 2/pneumovax: na 2 maanden
 	- uitstel ruxolitinib niet nodig
 - influenza jaarlijks
 ### MM
 - shingrix 1/prevenar: bij start behandeling
 	- tenzij autoloog: dan nadien
-- shingrix 2/pneumovax: 2m nadien
+- shingrix 2/pneumovax: 2 maanden nadien
 - influenza: jaarlijks
 #### SMM/MGUS
 - conform hierboven, tenzij laag risico MGUS (MAYO 0-1)
@@ -34,14 +34,14 @@ ___
 - shingrix 2/pneumovax: 2m na eerste vaccinaties
 - influenza: jaarlijks 
 ### ALL
-- eenmalig hervaccinatie met RIVM kinderprogramma 3-6m na afronding ALL onderhoudsbehandeling
+- eenmalig hervaccinatie met RIVM kinderprogramma 3-6 maanden na afronding onderhoudsbehandeling
 ### Allo
 - UMCU behandelrichtlijnen
 ## Achtergrondinformatie per vaccinatie
 ### Prevenar/pneumovax
-- eerst prevenar, 2m later pneumovax:
-	- prevenar-13: T-cel afhankelijke respons -> langdurige bescherming
-	- pneumovax-23: T-cel onafhankelijke respons -> /5j herhalen (wel vs. meer serotypes)
+- eerst prevenar, 2 maanden later pneumovax:
+	- prevenar-13: T-cel afhankelijke respons → langdurige bescherming
+	- pneumovax-23: T-cel onafhankelijke respons → a 5jaar herhalen (wel vs. meer serotypes)
 		- (pneumokokkenvaccinatieprogramma bij HA voor ouderen >65j)
 		- E12,70 bijbetaling
 ### Shingrix
@@ -78,9 +78,6 @@ ___
 		- na allogene SCT
 		- na autoloog met **BEAM**
 		- (na B-celdepletie: indien geen vaccinaties/exposure voorafgaand aan start behandeling)
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 11-02-2024
 ___
@@ -102,7 +99,7 @@ ___
 	- immunogeniciteitsdata: antistoftiters na vaccinatie
 		- meestal verlaagd bij immuungecompromitteerden
 			- pas op, zegt niets over cellulaire immuniteit
-## Optimale tijdstip vaccinatie
+## Optimale tijdstipy vaccinatie
 ### Geïnactiveerde vaccins
 - vaak verminderde vaccinatierespons door ziekte én behandeling
 	- zie [tabel 6](https://lci.rivm.nl/richtlijnen/vaccinatie-bij-hematologische-aandoeningen#6-medicatie-gebruikt-bij-hematologische-aandoeningen) voor effectiviteit behandelingen

@@ -1,6 +1,6 @@
-Sinds 2001 hebben tyrosinekinaseremmers (TKIs) de vooruitzichten van CML-patiënten aanzienlijk verbeterd, met chronische fase patiënten die diepe moleculaire responsen bereiken en een overleving hebben vergelijkbaar met de normale bevolking. Ondanks deze vooruitgang blijft het omgaan met bijwerkingen een uitdaging. Bij een groeiend aantal patiënten kan de behandeling stop worden gezet, wat nieuwe uitdagingen met zich meebrengt en strikte controle vereist.
+Sinds 2001 hebben tyrosinekinaseremmers (TKI's) de vooruitzichten van CML-patiënten aanzienlijk verbeterd, met chronische fase patiënten die diepe moleculaire responsen bereiken en een overleving hebben vergelijkbaar met de normale bevolking. Ondanks deze vooruitgang blijft het omgaan met bijwerkingen een uitdaging. Bij een groeiend aantal patiënten kan de behandeling stop worden gezet, wat nieuwe uitdagingen met zich meebrengt en strikte controle vereist.
 ___
-# Richtlijn chronische myeloïde leukemie 2023
+**bron**: [Richtlijn chronische myeloïde leukemie 2023](https://publicatie.hematologienederland.nl/richtlijnen/chronische-myeloide-leukemie-2/)
 ## Diagnose en indeling
 - volgens WHO 2022:
 	- chronische fase
@@ -20,25 +20,25 @@ ___
 	- meer dan 5% lymfoblasten in bloed of beenmerg (drempelwaarde conform ICC)
 	- meer dan 20% blasten in PB of BM
 	- extramedullaire blastenproliferatie
-## Diagnostiek
+## Diagnostiek en classificatie
 - A: B-symptomen? Hyperviscositeit? Lever-/pancreasproblematiek? Rookgedrag?
 - LO: milt?
-- Lab: o.a. TLS, glucose en cholesterol
+- lab: o.a. TLS, glucose en cholesterol
 - PCR op bloed (of beenmerg): BCR-ABL, transcripttype
 	- optioneel: ASXL1 mutatiestatus
-- Beenmerg: 
+- beenmerg: 
 	- o.a. cytogenetica (FISH indien geen Ph chromosomen)
 		- Ph+ cellen:
 			- aanvullende translocaties
 		- Ph- cellen:
 			- bij 9% patiënten ook afwijkingen: lijkt slechtere overleving te geven.
-- Prognostische scores: ELTS conform tabel 5, p11
+- prognostische scores: ELTS conform tabel 5, pagina 11
 - hoog risico of blastenfase: mutatie-analyse
-- ECG, hepatitis B serologie## Classificatie
-## Eerste lijnsbehandeling CML in chronische fase
-- zie figuur 1, p20
+- ECG, hepatitis B serologie
+## 1e lijnsbehandeling CML in chronische fase
+- zie figuur 1, pagina 20
 - niet-hoog risico CML: 
-	- imatinib 1dd 400mg
+	- imatinib 1dd 400 mg
 	- of risico-gestuurd: 
 		- ELTS laag:
 			- imatinib
@@ -50,11 +50,11 @@ ___
 		- patent dasatinib verlopen, bosutinib in september '24
 - bedenk: kans op therapievrije remissie ("TFR") groter met 2G-TKI
 	- lukt dit niet, overweeg vervolgens switch terug naar imatinib
-- eventuele dosisaanpassingen: zie richtlijn, p15
+- eventuele dosisaanpassingen: zie richtlijn, pagina 15
 - geen hydrea tenzij symptomatische hyperleukocytose of -splenomegalie
 - stoppen met roken!! ter reductie risico acceleratiefase/blastencrise
 ## Welke therapiedoelen worden bij de behandeling van CML in de chronische fase nagestreefd?
-- 1e lijn conform ELN zoals in tabel 6, p13
+- 1e lijn conform ELN zoals in tabel 6, pagina 13
 	- optimaal: zo door
 	- waarschuwing: door maar intensievere monitoring
 	- falen:
@@ -62,7 +62,7 @@ ___
 			- subtherapeutisch: ophogen dosis
 			- goede spiegel: omzetten in afwachting van mutatieanalyse
 - 2e lijns responscriteria conform 1e lijn
-- in 3e lijn BCR::ABL <1% afdoende
+- in 3e lijn BCR::ABL < 1% afdoende
 - streven naar TFR is valide behandeldoel
 ## Hoe effect van behandeling controleren (zie tabel 2)?
 - BCR-ABL perifeer bloed, weergegeven in internationale schaal (%); niet meetbaar? Geef gevoeligheid weer.
@@ -73,18 +73,18 @@ ___
 		- morfologie en cytogenetica herhalen (ook bij aanhoudende graad 3-4 toxiciteit) t.u.v. acceleratiefase of blastencrise
 - BCR-ABL fluctueert blijvend rond 1%?
 	- morfologie en cytogenetica beenmerg: indien cytogenetische respons, beschouwen als acceptabele (weliswaar niet-optimale) respons
-- Responsmonitoring o.b.v. cytogenetisch onderzoek onvoldoende gevoelig
+- responsmonitoring o.b.v. cytogenetisch onderzoek onvoldoende gevoelig
 	- enkel bij atypische BCR::ABL transcripten, dan aangevuld met FISH
 - na hCR in chronische fase eventueel telefonische of video-consult
-- Bedenk: moleculaire respons als b.v. MR^4 (reductie van 100% naar 0.01%), MR^4.5 of MR^5 rapporteren
-	- Definitie MMR: 3-log reductie (MR^3), i.e. 0.1% (zie ook tabel 14, p23)
+- bedenk: moleculaire respons als b.v. MR^4 (reductie van 100% naar 0.01%), MR^4.5 of MR^5 rapporteren
+	- definitie MMR: 3-log reductie (MR^3), i.e. 0.1% (zie ook tabel 14, pagina 23)
 ## Welke tweedelijnsbehandeling?
 - Spiegel adequaat? Over van imatinib op 2G TKI o.b.v. comorbiditeiten of van 2G TKI naar ponatinib
-	- start in afwachting van mutatie-analyse (zie tabel 15, p26)
+	- start in afwachting van mutatie-analyse (zie tabel 15, pagina 26)
 	- switch tússen TKI's alleen als zinvol o.b.v. mutatie analyse
 		- T351I-mutatie? of falen op 1e lijns 2G-TKI?
-			- ponatinib 45mg 1dd, af te bouwen tot 15mg o.g.v. responscontrole en/of aan te passen i.f.v. cardiovasculaire comorbiditeit (dan eventueel al bij BCR::ABL <1%). Strikt CVRM geindiceerd!
-			- T351I en reeds twee TKI's gebruikt? Overweeg asciminib 200mg 2dd (maar off-label)
+			- ponatinib 45 mg 1dd, af te bouwen tot 15 mg o.g.v. responscontrole en/of aan te passen i.f.v. cardiovasculaire comorbiditeit (dan eventueel al bij BCR::ABL <1%). Strikt CVRM geindiceerd!
+			- T351I en reeds twee TKI's gebruikt? Overweeg asciminib 200 mg 2dd (maar off-label)
 - intolerantie 2G-TKI in 1e lijn? Overweeg switch naar imatinib
 - BCR::ABL rond 1% maar cyCR en bij releatieve c.i. voor volgende lijns TKI's? Beschouw dit als suboptimale maar acceptabele respons## Anki
 ## Welke behandeling bij intolerantie of onvoldoende respons op tweedelijnsbehandeling?
@@ -97,10 +97,10 @@ ___
 - Bij intolerantie 2G-TKI over op andere 2G-TKI
 	- na 2x intolerantie 2G-TKI in 1e en 2e lijn over op imatinib
 	- bedenk: hematologische toxiciteit en/of vermoeidheid verbetert vaak niet met switch
-- BCR::ABL a 4-6w
+- BCR::ABL a 4-6 weken
 ## Hoe om te gaan met bijwerkingen?
 - algemeen: 
-	- graad 3-4 hematotox (ANC< 1.0, trombo's <50):
+	- graad 3-4 hematotox (ANC < 1.0, trombo's < 50):
 		- stop en hervat bij ANC > 1.5 en trombo's > 75
 			- opnieuw? herstart TKI aan lagere dosis.
 				- minimaal:
@@ -124,15 +124,15 @@ ___
 - dasatinib (2G-TKI):
 	- dyspnoe? sluit pleuravocht en PHT uit (o.a. eerst NT-proBNP, X-Thorax; nadien eventueel echo +/- rechtskath)
 		- (beperkte hoeveelheid) symptomatisch pleuravocht?
-			- stop en hervat a 70-80mg
-				- opnieuw? stop en hervat a 50mg
+			- stop en hervat a 70-80 mg
+				- opnieuw? stop en hervat a 50 mg
 			- overweeg altijd switch naar andere 2G-TKI
-			- overweeg 35mg prednisolon en afbouwen in 7 dagen +/- diureticum
+			- overweeg 35 mg prednisolon en afbouwen in 7 dagen +/- diureticum
 			- PS geassocieerd met betere CML-respons
 	- PHT? stop en over op andere TKI
 		- compleet herstel niet gegarandeerd
 - bosutinib (2G-TKI):
-	- t.v.v. diarree start 200-300mg 1dd, 1x/week ophogen naar max 400mg 1dd
+	- t.v.v. diarree start 200-300 mg 1dd, 1x/week ophogen naar max 400 mg 1dd
 		- probeer loperamide 
 	- check transaminasen eerste 3 maanden
 		- recidiveert nauwelijks bij hervatten
@@ -146,30 +146,30 @@ ___
 		- strikt CVRM!
 		- jaarlijks enkelarmindex t.b.v. vroegtijdige diagnostiek stenoses beenarterieën
 ## Behandeling van CML in acceleratiefase of blastencrisis?
-- CML-BC vs. BCR::ABL+ AML: zie figuur 2, p41
+- CML-BC vs. BCR::ABL+ AML: zie figuur 2, pagina 41
 - acceleratiefase de novo: 2G-TKI
-	- nilotinib 2dd 40mg
-	- dasatinib 1dd 140mg
-	- imatinib 2dd 400mg
+	- nilotinib 2dd 40 mg
+	- dasatinib 1dd 140 mg
+	- imatinib 2dd 400 mg
 - acceleratie tijdens behandeling: 
 	- BCR-ABL mutatie analyse en start met middel w.v. niet resistent
 		- ineffectief: allo
 	- tijdens behandeling met 2G TKI:
 		- ponatinib indien geen richtinggevende mutatie
 		- start donorsearch
-- blastencrise de novo: dasatinib 140mg 1dd
-	- komt weinig voor, indien p210 wel aannemelijk.
+- blastencrise de novo: dasatinib 140 mg 1dd
+	- komt weinig voor, indien pagina 210 wel aannemelijk.
 	- hyperleukocytose? overweeg toevoegen chemo
 	- doe mutatieanalyse (komt > 80% voor)
 	- z.s.m. allo zodra respons
-		- na allo: 1j door met juiste TKI, BCR-ABL minimaal 1j ondetecteerbaar
+		- na allo: 1 jaar door met juiste TKI, BCR-ABL minimaal 1 jaar ondetecteerbaar
 - blastencrise tijdens behandeling:
 	- BCR-ABL mutatie analyse en start met volgende generatie TKI in afwachting van resultaten
-		- dasatinib 140mg 1dd
-		- bosutinib 500mg 1dd
-		- ponatinib 45mg 1dd
+		- dasatinib 140 mg 1dd
+		- bosutinib 500 mg 1dd
+		- ponatinib 45 mg 1dd
 	- z.s.m. allo zodra respons
-		- na allo: 1j door met juiste TKI, BCR-ABL minimaal 1j ondetecteerbaar
+		- na allo: 1 jaar door met juiste TKI, BCR-ABL minimaal 1 jaar ondetecteerbaar
 - allo geen optie? TKI door tot progressie
 - nilotinib en asciminib NIET geregistreerd voor behandeling blastencrisis
 ## Onder welke voorwaarden stoppen met behandeling CML?
@@ -188,43 +188,39 @@ ___
 		- PCM, NSAID's +/- kortdurend prednison
 - na staken intensieve controle BCR-ABL
 	- 1e 6 maanden a 4 weken, 2e 6 maanden a 6 weken, na jaar a 3 maanden (recidieven vooral 1e 7m)
-		- verlies MMR, i.e. BCR-ABL >0.1%? 
+		- verlies MMR, i.e. BCR-ABL > 0.1%? 
 			- Hervat TKI!
 				- nadien controles a 3m tot weer MMR
 				- inclusie in "tweede stop" studie
 				- buiten studieverband niet opnieuw stoppen
-	- TFR > 3j? controle naar 1x/4 maanden, TFR >5j? 1x/6 maanden
+	- TFR > 3 jaar? controle naar 1x/4 maanden, TFR > 5 jaar? 1x/6 maanden
 ## Zwangerschapswens tijdens behandeling van CML
-- Advies: vermijden zwangerschap vanwege teratogeniciteit TKI's tijdens eerste 12 weken. Mannen ok.
-	- Opties:
+- advies: vermijden zwangerschap vanwege teratogeniciteit TKI's tijdens eerste 12 weken. Mannen ok.
+	- opties:
 		- overweeg wachten tot voldaan aan stopcriteria, nadien x2:
 			- z.s.m. zwanger worden
 			- 6-7 maanden wachten zodat kans op recidief zo klein mogelijk
 		- IF-alfa, eventueel met herstart TKI in 2e en 3e trimester
 		- stoppen en afwachten beloop, als BCR-ABL boven 1% start interferon of TKI in 2e of 3e trimester
 - de-novo CML in 1e 12 weken?
-	- leukaferese indien leukocytose symptomatisch (<100)
+	- leukaferese indien leukocytose symptomatisch (< 100)
 		- ineffectief: IF-alfa
 		- ineffectief: hydrea
 		- ineffectief: nilotinib (geringe placentapassage)
 - blastencrisis?
 	- start TKI, poog voldragen zwangerschap alvorens allo
 	- chemo bijgegeven indien onvoldoende/trage respons op TKI
-## Anki
-nee
-## Aliassen
-[[CML]]
 ## Datum laatste update
 30-01-2024
 ___
-# Wenkebach, cursus 2023
+**bron**: Wenkebach, cursus 2023
 ## Diagnostiek
 ## Perifeer bloed
-- leukocytose >25, alle voorlopers
+- leukocytose > 25, alle voorlopers
 	- basofilie, meestal < 10-15%
-	- perifere blastose, meestal <2% (0.5-10%)
+	- perifere blastose, meestal < 2% (0.5-10%)
 	- meestal eosinofilie
-	- monocytose maar meestal <3%
+	- monocytose maar meestal < 3%
 	- vaak trombocytose
 	- geen erytroblasten
 - vaak anemie
@@ -248,8 +244,8 @@ ___
 	- geringe reticulocytose
 		- MF 2-3 prognostisch slecht
 ### blastencrisis CML (70% myeloid, 30% lymfoid)
-- >1 van:
-	- >20% myeloblasten bloed of beenmerg
+- > 1 van:
+	- > 20% myeloblasten bloed of beenmerg
 		- monoblastair of megakaryoblastair kan
 	- myeloid sarcoom
 	- aanwezigheid lymfoblasten bloed/beenmerg
@@ -257,11 +253,8 @@ ___
 	- negatief? MoDi BCR-ABL fusie
 - increased risk CML (vroeger 'acceleratiefase')
 	- hoge ELTS
-	- >20% baso's in perifeer bloed
+	- > 20% baso's in perifeer bloed
 	- 10-19% blasten bloed of beenmerg
 	- vaak additionele chromosomale afwijkingen
-## Anki
-ja
-## Aliassen
 ## Datum laatste update
 23-02-2024
