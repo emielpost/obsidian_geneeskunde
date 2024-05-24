@@ -1,4 +1,5 @@
-# Erytrocytenserologie, Sanquin, 2009 
+**bron**: Erytrocytenserologie, Sanquin, 2009 
+
 - bloedgroepsysteem: antigenen gecodeerd door één enkel genlocus of nauw gekoppelde genloci
 - bloeddgroepverzameling: antigenen met elkaar erband houden maar niet één bloedgroepsysteem omdat genetische codering nog niet bekend.
 - HFA: frequentie > 99% in Kaukasische populatie

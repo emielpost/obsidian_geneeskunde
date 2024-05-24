@@ -1,4 +1,4 @@
-# Erytrocytenserologie, Sanquin, 2009 
+**bron**: Erytrocytenserologie, Sanquin, 2009 
 ## Algemene immunohematologie
 Niet-specifieke immuunsysteem: barrieres, humorale factoren (complement) en diverse cellen: granulocyten, monocyten/macrofagen en NK-cellen
 

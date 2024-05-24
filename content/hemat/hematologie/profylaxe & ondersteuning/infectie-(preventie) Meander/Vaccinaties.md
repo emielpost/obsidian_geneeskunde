@@ -99,7 +99,7 @@ ___
 	- immunogeniciteitsdata: antistoftiters na vaccinatie
 		- meestal verlaagd bij immuungecompromitteerden
 			- pas op, zegt niets over cellulaire immuniteit
-## Optimale tijdstipy vaccinatie
+## Optimale tijdstip vaccinatie
 ### Geïnactiveerde vaccins
 - vaak verminderde vaccinatierespons door ziekte én behandeling
 	- zie [tabel 6](https://lci.rivm.nl/richtlijnen/vaccinatie-bij-hematologische-aandoeningen#6-medicatie-gebruikt-bij-hematologische-aandoeningen) voor effectiviteit behandelingen
@@ -599,7 +599,7 @@ ___
 		- <4m na allo-SCT
 	- S1-IgG > 300 BAU/mL:
 		- AML (na hoge dosis chemo)
-		- [[CML]]
+		- CML
 		- SCD
 	- opvallend:
 		- MM (hoger dan verwacht)

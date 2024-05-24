@@ -10,6 +10,8 @@ ___
 	- EPO-spiegel, voor start aderlatingen
 	- echo milt
 	- VvWF type II uitsluiten als trombocytose en/of bloedingsneiging en/of ingrepen met hoog bloeding
+- zie figuur 1 richtlijn: ![[Figuur-1-stroomdiagram-erytrocytose.pdf]]
+
 ### Diagnostische criteria WHO 2022
 - 3 major of 2 major en minor criterium
 - major

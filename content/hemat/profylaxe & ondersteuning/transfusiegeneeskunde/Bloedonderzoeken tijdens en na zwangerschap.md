@@ -1,4 +1,5 @@
-# Erytrocytenserologie, Sanquin, 2009 
+**bron**: Erytrocytenserologie, Sanquin, 2009 
+
 Antistoffen IgG via placentair naar neonaat. Oorzaken x2:
 - transfusie met incompatibel bloed
 - FMT (foetomaternele transfusie)

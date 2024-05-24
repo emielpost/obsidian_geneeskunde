@@ -1,4 +1,5 @@
-# Erytrocytenserologie, Sanquin, 2009 
+**bron**: Erytrocytenserologie, Sanquin, 2009 
+
 Volledig compatibiliteitsonderzoek  
 1. AB0-bloedgroep en Rh-D-factor van ontvanger en donor  
 2. Antistofscreening  

@@ -49,8 +49,10 @@ Pas als symtomatisch of zeer laag trombocytengetal.
 - overweeg prednison 1 mg/kg d1-d21 indien verwacht intolerant voor DXM
 ## Rescue therapie bij ernstige bloedingen
 - WHO Graad III/IV en/of zeer lage trombo's:
-	- IVIG 1g/kg per 1-2 dagen, gecombineerd met 40 mg DXM gedurende 4 dagen of 1000 mg methylprednisolon gedurende 3 dagen
-	- geef trombocytentransfusie bij acute therapie bij vitale bloedingen (graad IV cerebraal/fundus)
+	- IVIG 1 g/kg per 1-2 dagen, gecombineerd met 40 mg DXM gedurende 4 dagen of 1000 mg methylprednisolon gedurende 3 dagen
+		- geef (aansluitend/tegelijktertijd) trombocytentransfusie bij acute therapie bij vitale bloedingen (graad IV cerebraal/fundus)
+		- overweeg NovoSeven als graad IV bloeding niet reagerend op cyklokapron, IVIG en trombocytentransfusie
+	- acute ITP bij recente of actieve EBV, CMV, rubella, varicella of HIV infectie dient IVIG 1 gram/kg IV in 2 dagen (1 gram/kg per dag) als eerste lijn
 ## 2e lijns behandeling (vanaf 3m)
 - rituximab (4x 375 mg/m<sup>2</sup>) + DXM (3 x 4 dagen 40mg)
 	- voorkeur boven rituximab mono

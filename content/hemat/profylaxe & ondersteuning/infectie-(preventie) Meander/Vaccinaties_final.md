@@ -4,6 +4,7 @@
 	- o.a. MGUS, SMM, onbehandelde CLL en MDS niet vermeld en adviezen niet toegespitst op specifieke ziektebeelden/behandelingen (b.v. advies bij ibrutinib) → richtlijn leidend (dixit Anke Bruns)
 - voor reizigersvaccinaties is opleiding en nascholing van arts(en) en verpleegkundigen via LCR noodzakelijk
 ___
+bron: [LCI vaccinatie richtlijn immuungecomprommitteerde patiënten](https://lci.rivm.nl/handleiding-covid-19-vaccinatie-van-immuungecompromitteerde-patienten)
 ## COVID19
 - één COVID19 vaccinatie in najaar:
 	- medische (hoog-)risicogroepen
@@ -124,8 +125,7 @@ ___
 		 - indien oproep tot vaccinatie tijdens behandeling, gewoon door laten gaan
 		 - ringvaccinatie volwassen huisgenoten
 ___
-# COVID-19-vaccinatie bij immuungecompromitteerde patiënten met hematologische aandoeningen, NTVH 2022
-
+**bron**: [[COVID-19_hemat.pdf]]
 ## Immunogeniciteit van COVID-19 vaccinatie bij patiënten met hematologische aandoening
 - antistofrespons (seroconversie) in COBRA-KAI:
 	- S1-IgG < 300 BAU/mL:
@@ -134,7 +134,7 @@ ___
 		- <4m na allo-SCT
 	- S1-IgG > 300 BAU/mL:
 		- AML (na hoge dosis chemo)
-		- CML
+		- [[CML]]
 		- SCD
 	- opvallend:
 		- MM (hoger dan verwacht)
@@ -165,9 +165,8 @@ ___
 - Bepaling antistofconcentratie ter beoordeling mate van bescherming na infectie of vaccinatie wordt afgeraden
 - Patiënten na allogene HCT en B-celgedepleteerde patiënten dienen te worden gerevaccineerd
 	- aantal doses en timing moet nog worden vastgesteld
-
-
 ___
+# Nieuw lokaal vaccinatieprotocol
 ## CLL
 - **COVID basisserie x3, nadien 2x/jaar**
 - influenza jaarlijks

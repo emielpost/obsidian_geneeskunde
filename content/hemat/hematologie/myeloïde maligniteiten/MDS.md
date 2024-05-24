@@ -75,7 +75,7 @@ ___
 ## Behandeling
 ### Responscriteria
 - modificatie ziektetraject
-	- allo, intensieve CT en HMA's, CR, PR, SD en progressie hé y
+	- allo, intensieve CT en HMA's, CR, PR, SD en progressie
 - verbetering cytopenieen
 	- HI (hematological improvement)
 ### Hoger risico MDS (figuur 2, p148)
@@ -330,7 +330,7 @@ ___
 	- trombocytopenie
 		- juist trombocytose bij del(5q) kán
 	- neutropenie en monocytose
-		- absolute monocytose: uitsluiten [[CMML]]
+		- absolute monocytose: uitsluiten CMML
 		- myeloide voorlopers kán
 - kwalitatief
 	- dyserytropoiese
@@ -455,7 +455,7 @@ ___
 - mono's > 0.5 en > 10%
 - geen cytopenie
 - minimaal 1 MN-geassocieerde mutatie (VAF > 2%)
-- geen afwijkingen op beenmergonderzoek passend bij [[CMML]]: hyperplasie granulopoiese, toename mono's +/- monoblasten of promono's, en/of dysplasie in 1 lijn
+- geen afwijkingen op beenmergonderzoek passend bij CMML: hyperplasie granulopoiese, toename mono's +/- monoblasten of promono's, en/of dysplasie in 1 lijn
 - voldoet niet aan criteria ander MN
 - geen reactieve conditie die monocytose verklaard
 ### clonal cytopenia and monocytosis of undetermined significance (CCMUS)

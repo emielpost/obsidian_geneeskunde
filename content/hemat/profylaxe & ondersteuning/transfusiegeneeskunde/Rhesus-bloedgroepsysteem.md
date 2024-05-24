@@ -1,4 +1,5 @@
-#  Erytrocytenserologie, Sanquin, 2009
+**bron**: Erytrocytenserologie, Sanquin, 2009 
+
 - Belangrijkste antigenen: D (84% positief, 16% negatief), C, c, E, e
 	- D meest immunigeen: 50-80% D-negatieve mensen maakt antistoffen na 1 transfusie
 ## Biochemie van het Rhesus systeem

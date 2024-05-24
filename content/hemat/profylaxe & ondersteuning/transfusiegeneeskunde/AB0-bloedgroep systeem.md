@@ -1,4 +1,4 @@
-# Erytrocytenserologie, Sanquin, 2009 
+**bron**: Erytrocytenserologie, Sanquin, 2009 
 ## Biochemie van het ABO-systeem
 Antigenen A en B uit H-antigeen, uit grondsubstantie, worden langs 'indirecte weg' gevormd. Meest voorkomende allelen zijn A1, A2, B en 0.
 ## ABO: antigenen, frequentie en nomenclatuur

@@ -29,7 +29,7 @@ ___
 	- snelle analyse onderliggende oorzaak + behandeling waar mogelijk
 ### Transfusie
 - geen gevalideerde trigger, behalve cardiale en/of cerebrale ischemie
-- niet zozeer restrictief, ondanks risico op hyperhemolyse of hemolytische transfusiereacties (uiterst beperkt), risico allo-immunisatie 20-40%
+- niet zozeer restrictief, ondanks risico op hyperhemolyse of hemolytische [[transfusiereacties]] (uiterst beperkt), risico allo-immunisatie 20-40%
 	- pB19 veilig! 
 	- preventief matchen op Rh-fenotype en K
 		- vroeg overleg met transfusielab i.v.m. uitgebreide matching
