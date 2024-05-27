@@ -1,22 +1,24 @@
 Deze richtlijn bevat aanbevelingen voor diagnostiek en behandeling van zeldzame stollingsfactor deficiënties, te weten fibrinogeen, protrombine, factor V,  VII, X, XI en XIII. Zie originele richtlijn voor doseringen van concentraat of plasma en verwachte spiegelstijgingen (addendum > pagina 48)
 ___
-# Richtlijn zeldzame stollingsfactor deficiënties, 2023
+# Richtlijn zeldzame stollingsfactor deficiënties
+bron: [richtlijn zeldzame stollingsfactor deficiënties, 2023](https://publicatie.hematologienederland.nl/richtlijnen/zeldzame-stollingsfactordeficienties/)
 ## Definitie
-deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, XI en XI
+- deficiënties fibrinogeen, factor II, V, VII, X, XI, XI en gecombineerde V & VIII
 ## Diagnostiek
 - PT: FVII
 - aPTT: FVIII, FIX en FXI
-- aPTT én PT: II, V, X, V & VIII of fibrinogeen
+- aPTT én PT: II (protrombine), V, X, V & VIII, fibrinogeen
 - aPTT en PT normaal: FXIII
+- ![[Pasted image 20240525052914.png]]
 ### Work-up
-- aPTT en PT, fibrinogeen, D-dimeren, FXIII, alfa2-antiplasmine
-- laagdrempelig factor-activiteit meten, i.f.v. bevindingen
+- aPTT en PT, fibrinogeen, D-dimeren, FXIII, alfa<sub>2</sub>-antiplasmine
+- laagdrempelig factor-activiteit, i.f.v. bevindingen
 ### Wanneer aan denken?
 - verhoogde bloedingsneiging + verlengde aPTT/PT
 	- meestal mild fenotype: slijmvloesbloedingen, ingrepen, gynaecologisch
 	- meestal geen correlatie met factor-spiegels
-- verhoogde bloedingsneiging maar screenend hemostaseonderzoek niet afwijkend
-	- incl. fibrinogeen, FXIII, alfa2_antiplasmine
+- verhoogde bloedingsneiging maar normaal screenend hemostaseonderzoek
+	- incl. fibrinogeen, FXIII, alfa<sub>2</sub>-antiplasmine
 - eerstegraads familielid met zeldzame stollingsfactordeficiëntie
 	- meestal autosomaal recessief, m.u.v. (sommige vormen van) FXI deficiëntie en hypo-/dysfibrinogemie
 ## A-, hypo- en dysfibrinogenemie
@@ -31,7 +33,7 @@ deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, X
 	- streefdalspiegel > 1.0 g/L
 	- peripartum streefdalspiegel > 1.5 g/L (normaliter fysiologische stijging fibrinogeen)
 - profylactisch LMWH liever niet. Bij harde indicatie en bloedingsanamnese: fibrinogeenconcentraat bijgeven
-## Protrombinedeficiëntie
+## Protrombinedeficiëntie (FII)
 ### Therapeutisch beleid bij bloedingen en operaties
 - mild? TXA
 - ernstig en grote ingrepen:
@@ -39,7 +41,7 @@ deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, X
 		- streefdalspiegel FII > 20 IE/dL
 - overweeg profylaxe bij:
 	- protrombine < 1IE/DL en evidente bloedings- of familieanamnese
-		- PCC 20-40 IE FII/kg 1x/ week
+		- PCC 20-40 IE FII/kg 1x per week
 			- streefdalspiegel FII > 10 IE/dL
 - zwangere vrouwen met FII < 20 IE/dL
 	- rondom partus, ongeacht modus: 20-40 IE FII/kg i.v. 
@@ -49,8 +51,8 @@ deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, X
 - verwórven, remmer of gecombineerd met FVIII-deficiëntie kan
 - behandeling met plasma
 	- FV concentraat alleen preklinische data
-	- alternatieve bron FV is trombocytentransfusie (FV in granulen trombocyten); dan trombo's in plasma, niet in PAS-C vloeistof (bevatten nauwelijsk nog FV)
-- remmer? recombinant geactiveerd FVII (NovoSeven) of hsj038groot volume plasma en IVIG
+	- alternatieve bron FV is trombocytentransfusie (FV in granulen trombocyten); dan trombo's in plasma, niet in PAS-C vloeistof (bevatten nauwelijks nog FV)
+- remmer? recombinant geactiveerd FVII (NovoSeven) of groot volume plasma en IVIG
 ### Therapeutisch beleid bij bloedingen en operaties
 - mild? TXA
 - ernstig en grote ingrepen:
@@ -98,7 +100,7 @@ deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, X
 ### Therapeutisch beleid bij bloedingen en operaties
 - voor invasieve ingreep of partus, FXI < 10 IE/dL en eerder FXI gegeven?
 	- check remmer
-- mild/kleine ingreep? TX
+- mild/kleine ingreep? TXA
 	- liever niet met recombinant FXI concentraat (trombose)
 - ernstig/grote ingreep?
 	- FXI concentraat
@@ -122,8 +124,6 @@ deficiënties van fibrinogeen, factor II, V,  gecombineerde V & VIII, VII, X, X
 - zwangerschap
 	- monitoring + streefdalspiegel > 20 IE/dL, 9 maanden
 	- overweeg extra FXIII concentraat voor bevalling
-## Anki
-nee
 ## Aliassen
 ## Datum laatste update
 24-02-2024
