@@ -1,4 +1,7 @@
-# Richtlijn ziekte van Von Willebrand, 2023
+De ziekte van Von Willebrand (VWD) is de meest voorkomende erfelijke bloedingsziekte, met een prevalentie van 1 op 100 in populatiestudies en 1 op 10.000 in gespecialiseerde centra. VWD wordt gekenmerkt door een tekort aan werkzame von Willebrand factor (VWF), die bloedplaatjes helpt hechten en stollingsfactor VIII transporteert. Symptomen zijn onder andere bloedingen in huid, slijmvliezen, en na trauma of operaties. Ernstigere vormen kunnen leiden tot bloedingen in spieren en gewrichten.
+___
+# Richtlijn ziekte van Von Willebrand, 2023 (concept)
+**bron**: [[Richtlijn Diagnostiek en Behandeling van Von Willebrand (vervolg 2023)-20231003.pdf]]
 ## Algemeen
 - erfelijk, 1 op 100
 - tekort werkzaam VWF
@@ -9,23 +12,23 @@
 	- type 2: afwijkende structuur en/of functie VWF
 		- type 2A, 2B, 2M en 2N
 			- o.a. verschillende overervingsvormen
-- type 3: (nagenoeg) geen VWF
+	- type 3: (nagenoeg) geen VWF
 ## Diagnostiek
 - 1e lijn: i.f.v. BATS
 - 2e lijn: laagdrempelig i.f.v. BATS en m.n. (familie-)anamnese
 ## Bevestiging diagnose
 - algemeen:
-	- VWF:RCo, VWF:GPIbR, VWF: GPIbM allen assays voor VWF plaatjesbindende activiteit)
+	- VWF:RCo, VWF:GPIbR, VWF:GPIbM (allen assays voor VWF plaatjesbindende activiteit)
 	- VWF is acuut fase eiwit
 	- VWD type 2B: ernstiger bloedingsfenotype dan 2A en risico op trombocytopenie
-	- VWD type 2N: differentieren van milde hemofilie A
-- VWD type 1: 
-	- VWF:AG en/of VWF:Act <30
-	- VWF: AG en/of VWF:Act 30-50 als ook bloedingsneiging
+	- VWD type 2N: differentiëren van milde hemofilie A
+- VWD type 1:
+	- VWF:AG en/of VWF:Act < 30
+	- VWF:AG en/of VWF:Act 30-50 indien ook bloedingsneiging
 	- doe DDAVP proefbehandeling met 1- en 4-u nawaarde (versnelde VWF klaring?)
 	- indien normalisatie in loop der tijd (soms met de leeftijd): herevaluatie
 - VWD type 2 (2A, 2B of 2M)
-	- VWF:Act/VWF:Ag <0.7
+	- VWF:Act/VWF:Ag < 0.7
 	- multimeren analyse: 2A/2B vs. 2M
 	- overweeg RIPA of mutatieonderzoek: 2A vs. 2B
 - VWD type 2N
@@ -36,17 +39,19 @@
 ## Behandeling
 ### Behandeling met DDAVP
 - DDAVP proefbehandeling (i.v., nasaal of s.c.) bij:
-	- type 1 of type 2 (m.u.v. 2B) met VWF:Act en/of VWF:Ag <30 IE/dL
+	- type 1 of type 2 (m.u.v. 2B) met VWF:Act en/of VWF:Ag < 30 IE/dL
 		- FVIII:C, VWF:Ag en VWF:Act voor, 1u en 4u na toediening
+			- PR: stijging 2-3x en VWF:Act 30-50 IE/dL
+			- CR: VWF en FVIII:C > 50 IE/dL
 	- bij goede respons, voortaan voorkeursbehandeling 
 		- tenzij hoog-risico ingreep (CNS/oog), dan ook (FVIII/)VWF-concentraat
-- DDAVP gecontra-indiceerd bij type 2B en type 3
-	- ook niet als type 2 of type 1 met VWF:Act en/of VWF:Ag <30 en nooit proefbehandeling gehad
+- DDAVP gecontraindiceerd bij type 2B en type 3
+	- ook niet als type 2 of type 1 met VWF:Act en/of VWF:Ag < 30 en nooit proefbehandeling gehad
 - dosering i.v. en s.c. 0.3 mcg/kg tot max 30mcg, nasaal 300 mcg
 	- 60-90 minuten voor ingreep
 	- cave hyponatriëmie en tachyfylaxie
 		- waterrestrictie 1.5L tot 24u nadien
-### Behandeling met DDAVP
+### Behandeling van een bloeding
 - volgens behandelplan, bij voorkeur in hemofilie behandelcentrum
 - TXA bij mucosale bloedingen, overweeg bij overige bloedingen tenzij hematurie
 - DDAVP indien type 1 en sommige gevallen type 2A, 2M en 2N
@@ -56,8 +61,8 @@
 		- type 1 of type 2 en streefspiegels DDAVP niet gehaald
 		- contraindicaties DDAVP
 	- effect:
-		- 1 IE VWF/kg -> 1.5-2 IE/dL VWF activiteit
-		- 1 IE FVIII/kg -> 2 IE/dL FVIII
+		- 1 IE VWF/kg → 1.5-2 IE/dL VWF activiteit
+		- 1 IE FVIII/kg → 2 IE/dL FVIII
 	- **streef- initiële topspiegels VWF:Act en FVIII:Act**
 		- mucosaal > 30, inclusief antifibrinolytica
 		- klein >50
@@ -66,20 +71,20 @@
 		- levensbedreigend > 100
 			- directe bedreiging orgaan, hoge kans op verbloeding, intracraniële bloeding
 - streefdalspiegels dagen nadien: zie tabel 5.4, pagina 50
-- vermijd FVIII >270 IE/dL i.v.m. trombose risico
+- vermijd FVIII > 270 IE/dL i.v.m. trombose risico
 - vermijd FVIII > 150 IE/dL en langdurig TXA bij patiënten met reeds verhoogd trombose risico
 ### Behandeling bij ingrepen en operaties
 - streefspiegels conform tabel 6.3
-	- initiële topspiegels VWF:Act en FVIII:Act >50 tot >100 i.f.v. invasiviteit ingreep (klein mucosaal vs. klein vs. groot)
+	- initiële topspiegels VWF:Act en FVIII:Act > 50 tot > 100 i.f.v. invasiviteit ingreep (klein mucosaal vs. klein vs. groot)
 	- aanpassen, ook duur, i.f.v. ingreep, patiënt en bloedingsfenotype (van eenmalig tot 14 dagen)
 - overweeg TXA
 	- enkel monotherapie indien type 1 VWD met activiteit > 30IE/dL, mild fenotype en kleine mucosale ingreep
 - DDAVP indien type 1 en sommige gevallen van type 2A, 2M en 2N
 - VWF/FVIII concentraat bij type 2B en type 3
 	- effect:
-		- 1 IE VWF/kg -> 1.5-2 IE/dL VWF activiteit
-		- 1 IE FVIII/kg -> 2 IE/dL FVIII
-	- vermijd FVIII >270 IE/dL i.v.m. trombose risico
+		- 1 IE VWF/kg → 1.5-2 IE/dL VWF activiteit
+		- 1 IE FVIII/kg → 2 IE/dL FVIII
+	- vermijd FVIII > 270 IE/dL i.v.m. trombose risico
 	- vermijd FVIII > 150 IE/dL en langdurig TXA bij patiënten met reeds verhoogd trombose risico
 - geen pijnstilling met nadelig effect op hemostase, lokale hemostase-ondersteunde maatregelen
 	- b.v. gelatinesponzen, fibrinelijm en/of lokaal TXA
@@ -90,8 +95,8 @@
 ## Beleid bij zwangerschap (zie desbetreffende richtlijn uit 2020)
 - autosomaal dominant: 1, 2A, 2B, 2M
 - autosomaal recessief: 2N, 3, enkele 2A vormen
-### Aanbevelingen m.b.t. de moeder met vWD
-- VWF:Act of FVIII:C <80 IE/dL in 3e trimester? 
+### Aanbevelingen m.b.t. de moeder met VWD
+- VWF:Act of FVIII:C < 80 IE/dL in 3e trimester? 
 	- bevallen in hemofiliebehandelcentrum
 	- t.t.v. bevalling: 1x piekspiegel VWF:Act en FVIII:C > 150 IE/dL met Haemate P
 		- type 2B? trombo's > 50
@@ -133,8 +138,8 @@
 - streef dalspiegel FVIII > 20IE/dL
 ### antistolling bij AF
 - CHADSVASC 1-2
-	- FVIII <20 IE/dL: geen antistolling
-	- FVIII >20 IE/dL: overweeg antistolling
+	- FVIII < 20 IE/dL: geen antistolling
+	- FVIII > 20 IE/dL: overweeg antistolling
 - CHADSVASC > 2-3
 	- antistolling ongeacht FVIII:Act
 - doe MDO, herevalueer jaarlijks, overweeg linkerhartoor amputatie
@@ -169,7 +174,7 @@ ___
 ## Diagnostiek
 ### first level tests
 - VWF:Ag
-- VWF activiteit (GPIb bindingsactiviteit)
+- VWF:activiteit (GPIb bindingsactiviteit)
 - FVIII:C
 ### second level tests t.b.v. 
 - RIPA:
@@ -177,24 +182,24 @@ ___
 		- bij type 2B ristocetine nauwelijks nodig (doet dat in vitro al)
 		- bij overige types hogere concentraties nodig
 - VWF multimeren analyse
-- FVIII bindingsassay: 
+- FVIII bindingsassay:
 	- type 2N herkennen
 - VWF collageen bindingsassays:
 	- bij sommige 2M's als enige afwijkend (zeer zeldzaam)
 - VWF propeptide assay
 	- propeptide komt bij aanmaken von Willebrand vrij
 ## Diagnostisch algoritme
-- VWF:Ag <5IU/dL of undetectable? 
+- VWF:Ag < 5IU/dL of undetectable? 
 	- VWF type 3 (of zelden ernstige type 1, onderscheid theoretisch o.b.v. type 1)
 	- VWF propeptide afwezig: type 3
 		- (recessief)
 	- VWF propeptide aanwezig: ernstige type 1
 		- (dominant)
 - VWF:Rco/VWF:Ag
-	- > 0.7: type 1
-		- (VWF:FVIIIB bindingstest verlaagd: type 2N [vs. milde hemofilie])
-	- < 0.7: 
-		- RIPA: toename? 
+	- \> 0.7: type 1
+		- (VWF:FVIIIB bindingstest verlaagd: type 2N vs. milde [[hemofilie A]])
+	- \< 0.7:
+		- RIPA: toename?
 			- type 2B (/platelet type VWD; komt bijna niet voor)
 		- RIPA normaal
 			- multimeren:
@@ -211,14 +216,14 @@ ___
 - DDAVP
 	- stimuleert vrijstelling VW uit endotheel
 	- piek na 1u (2-4x spiegel), meet ook na 4 u:
-		- zeer zelden snelle klaring VW bij type 1: initiële stijging, weer daling @4u
+		- zeer zelden snelle klaring VW bij type 1: initiële stijging, weer daling @ 4u
 	- risico: hyponatriëmie, 24u waterrestrictie
 ### Exogeen VWF
 - o.a. HaemateP
 	- bedenk: VWF/ratio wisselt tussen producten (2.6 voor HaemateP)
 	- stijging VWF en FVIII na infusie:
 		- FVIII:C circa 2 IE/dL per E/kg
-			- bedenk: Tmax hiervan wat langer (klopt?)
+			- bedenk: Tmax hiervan wat langer
 		- VWF activiteit circa 1.5 - 2 IE/dL per E/kg
 ### Ondersteunend
 - OAC
