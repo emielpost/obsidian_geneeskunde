@@ -76,13 +76,15 @@ ___
 	    - acalabrutinib of ibrutinib
 ### Behandeling R/r na doelgerichte therapie
 ### zonder del(17p)/TP53-mutatie
-- acalabrutinib, ibrutinib, venetoclax continue of ven-R
-- chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R), duvelisib of R-idelalisib
-- (overweeg allo)
+- bij eerste recidief voorkeur BTKi → BCL2-remmer en andersom
+	- acalabrutinib, ibrutinib, venetoclax continue of ven-R
+	- chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R) of R-idelalisib
+	- (overweeg allo)
 ### del(17p)/TP53-mutatie
-- acalabrutinib, ibrutinib, venetoclax continue of ven-R
-- chemo-immunotherapie (FCR, BR70, Chl-O, Chl-R), duvelisib of R-idelalisib
-- (overweeg allo)
+- bij eerste recidief voorkeur BTKi → BCL2-remmer en andersom
+	- acalabrutinib, ibrutinib, venetoclax continue of ven-R
+	- duvelisib (nog niet vergoed) of R-idelalisib
+	- (overweeg allo)
 ## Allo SCT
 - overweeg wanneer:
 	- patiënt met:
