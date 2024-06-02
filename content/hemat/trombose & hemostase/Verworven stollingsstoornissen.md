@@ -27,21 +27,21 @@
 	- prednison plus cyclofosfamide (60-80% remissie < 5-6w)
 - tweede lijn bij onvoldoende respons of relaps: 
 	- rituximab 375 mg/m2 vier giften
-## Verworven VWD (zie ook Blood 2011, Tiede A et al.)
+## Verworven [[VWD]] (zie ook Blood 2011, Tiede A et al.)
 ### etiologie x5
 - verminderde aanmaak, b.v. hypothyreoidie
-	- mechanische stress: uitrollen VWF waardoor 'knipplaats' ADAMTS13 vrij komt en multimeren opgeknipt worden
-		- b.v. Heyde's syndroom of bij mechanische hartkleppen: verworven 2A
-			- door tekort von Willebrand meer vaatnieuwvorming in de darmen waaruit bloeding
-			- bij klep-OK verdwijnt de kliniek
-		- ook bij ECMO of LVAD's!
-	- toename degradatie VW multimeren: b.v. APL of MPN
-	- verworven antistoffen tegen VW: CLL of MGUS
-	- binding VW multimeren aan tumor of bepaalde cellen: bij HES b.v.
+- mechanische stress: uitrollen VWF waardoor 'knipplaats' ADAMTS13 vrij komt en multimeren opgeknipt worden
+	- b.v. Heyde's syndroom of bij mechanische hartkleppen: verworven 2A
+		- door tekort von Willebrand meer vaatnieuwvorming in de darmen waaruit bloeding
+		- bij klep-OK verdwijnt de kliniek
+	- ook bij ECMO of LVAD's!
+- toename degradatie VW multimeren: b.v. APL of MPN
+- verworven antistoffen tegen VW: CLL of MGUS
+- binding VW multimeren aan tumor of bepaalde cellen: bij HES b.v.
 ### diagnostiek
 - multimeren patroon: ontbreekt dan
 	- feitelijk type 2 von Willebrand
-### behandeling verworven VWD
+### behandeling verworven [[VWD]]
 - hardnekkig
 - doe proefbehandeling:
 	- IVIG, Haemate P of combinatie

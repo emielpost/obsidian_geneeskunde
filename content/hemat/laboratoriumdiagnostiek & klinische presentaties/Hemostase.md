@@ -7,9 +7,9 @@ CITRAAT BUIZEN VOOR STOLLING
 		- vorming plaatjesplug bepaalt eindpunt test
 	- 2x
 		- epinefrine
-			- collageen/EPI: vaak aspirine of lichte VWD of trombocytendysfunctie
+			- collageen/EPI: vaak aspirine of lichte [[VWD]] of trombocytendysfunctie
 		- APD
-			- verlengd i.c.m. epinefrine? vaak VWD
+			- verlengd i.c.m. epinefrine? vaak [[VWD]]
 	- onbetrouwbaar bij:
 		- hematocriet < 0.28
 		- plaatjes < 80 

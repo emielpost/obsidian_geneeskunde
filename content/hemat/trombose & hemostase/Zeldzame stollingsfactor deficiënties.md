@@ -124,6 +124,5 @@ ___
 - zwangerschap
 	- monitoring + streefdalspiegel > 20 IE/dL, 9 maanden
 	- overweeg extra FXIII concentraat voor bevalling
-## Aliassen
 ## Datum laatste update
 24-02-2024

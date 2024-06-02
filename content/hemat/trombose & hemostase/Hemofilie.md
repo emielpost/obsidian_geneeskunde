@@ -5,7 +5,7 @@ ___
 - positieve (familie)anamnese op bloedingsneiging
 - geisoleerd verlengde APTT zonder alternatieve verklaring
 - FVIII/FIX gehalte +/- DNA-diagnostiek bij vermoeden dragerschap
-	- bij FVIII-deficiëntie: VWD uitsluiten
+	- bij FVIII-deficiëntie: [[VWD]] uitsluiten
 - screen bij hemofilie A en B regelmatig op remmende antistoffen, m.n. de eerste 20 expositiedagen, en als:
 	- allergische reactie op FIX concentraat
 	- bloedingspatroon ernstiger
