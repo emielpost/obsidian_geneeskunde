@@ -4,7 +4,7 @@ ___
 ## Hormonale anticonceptie en VTE
 - veiligheid:
 	- mirena > desogestrel > levonorgestrel met maximaal 30 mcg ethinylestradiol
-	- verhoogd basisrisico (trombofilie en/of belaste familieanamnese)?
+	- verhoogd basisrisico ([[trombofilie]] en/of belaste familieanamnese)?
 		- mirena > desogestrel >> levonorgestrel
 		- geen pil <12w postpartum
 	- VTE in voorgeschiedenis?
@@ -18,11 +18,11 @@ ___
 - geen profylaxe:
 	- algemene populatie
 	- positieve familie anamnese voor VTE
-	- erfelijke trombofilie zonder familie anamnese voor VTE
+	- erfelijke [[trombofilie]] zonder familie anamnese voor VTE
 		- antitrombine-, proteine C-, proteine S-deficientie, heterozygote FV Leiden of heterozygote protrombine mutatie of dubbelheterozygotie voor FV Leiden en protrombine mutatie
 - 6w postpartum profylaxe:
 	- eenmalig VTE door OK of strikte immobilisatie
-	- erfelijke trombofilie en positieve (eerstegraad) familie anamnese voor VTE
+	- erfelijke [[trombofilie]] en positieve (eerstegraad) familie anamnese voor VTE
 		- antitrombine-, proteine C-, proteine S-deficientie, heterozygote FV Leiden of heterozygote protrombine mutatie of dubbelheterozygotie voor FV Leiden en protrombine mutatie
 	- homozygote FV Leiden of protrombine mutatie
 - antepartum én 6w postpartum profylaxe:
