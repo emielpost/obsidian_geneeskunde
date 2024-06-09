@@ -71,6 +71,7 @@ ___
 		- overweeg indien meerdere (jonge) familieleden met VTE
 		- alternatieve strategie: circa 2/1000 meer risico episodes met VTE, circa 0.6/1000 minder risico episodes met majeure bloedingen
 14. 
+    
 	1. negatieve familieanamnese voor VTE maar positief voor heterozygoot FVL of heterozygoot PGM: **niet testen** en **geen tromboseprofylaxe**
 		- alternatieve strategie: circa 2/1000 minder risico episodes met VTE, circa 2/1000 meer risico episodes met majeure bloedingen
 	2. negatieve familieanamnese voor VTE maar positief voor proteïne C-, S- of antitrombine-deficiëntie: **niet testen** en **geen tromboseprofylaxe**
@@ -84,12 +85,14 @@ ___
 18. niet testen
 	- vrouwen met positieve familieanamnese voor VTE maar onbekende trombofilie, en voorgenomen HRT.
 19. 
+    
 	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen COC gebruik
 		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
 			- alternatieve strategie: circa 4-5 minder VTE's/1000 persoonsjaren
 		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd COC** indien aangedaan
 			- alternatieve strategie: circa 10-20 meer VTE's/1000 persoonsjaren
 20. 
+    
 	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen HRT
 		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
 			- alternatieve strategie: circa 1-5 minder VTE's/1000 persoonsjaren
@@ -110,6 +113,7 @@ ___
 			2. heterozygoot FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan (tot 6w nadien)
 			3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen** (pas op, staat correct in de tekst maar verkeerd in tabel 1)
 23. 
+    
 	- ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
 ## Datum laatste update
 09-06-2024
