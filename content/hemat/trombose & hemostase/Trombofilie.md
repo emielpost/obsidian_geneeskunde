@@ -8,9 +8,9 @@ ___
 		- absoluut aantal VTE in beide groepen o.b.v.:
 			- prevalentie trombofilie
 			- expected event rate voor behandeling
-				- VTE en bloedingen voorkómen
+				- VTE en voorkomen bloedingen
 			- expected event rate ná behandeling
-				- VTE en bloedingen voorkómen
+				- VTE en voorkomen bloedingen
 
 ![[Pasted image 20240609070423.png]]
 ## resultaten
