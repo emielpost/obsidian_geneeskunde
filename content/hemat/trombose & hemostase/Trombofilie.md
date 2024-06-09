@@ -118,14 +118,3 @@ ___
 	- ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
 ## Datum laatste update
 09-06-2024
-___
-# Mondeling Nick van Es, 2023
-4x patiënt met indicatie voor trombofilie testen:
-* jong en idiopathisch VTE
-	* laagdrempelig APS diagnostiek
-* familie anamnese
-	* 5x: FVL, ATIII, prot C, prot S, protrombine deficiëntie
-* trombus ongebruikelijke plek
-	* vaker ET,  PV of b.v. PNH
-* young stroke
-	* o.a. APS maar ook Fabri etc.
