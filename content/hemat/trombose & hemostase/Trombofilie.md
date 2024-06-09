@@ -44,12 +44,12 @@ ___
 6. niet testen
 	- "unspecified": onbekend of uitgelokt, of niet (komt nauwelijks voor)
 7. en <font style="color:#899499">8.</font>
-	- richtlijnen inconclusief, in praktijk vaak risicogestuurde benadering
+	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
 	- PNH of JAK2 mutaties niet meegenomen in dit advies
 	1. plan om te stoppen: testen, levenslang antistolling indien trombofilie
 	2. plan om door te behandelen: niet testen
 9. en <font style="color:#899499">10.</font>
-	- richtlijnen inconclusief, in praktijk vaak risicogestuurde benadering
+	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
 	- PNH of JAK2 mutaties niet meegenomen in dit advies
 	1. plan om te stoppen: testen, levenslang antistolling indien trombofilie
 	2. plan om door te behandelen: testen, levenslang antistolling indien trombofilie
