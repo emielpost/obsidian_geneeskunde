@@ -50,20 +50,18 @@ ___
 6. niet testen
 	- "unspecified": onbekend of uitgelokt, of niet (komt nauwelijks voor)
 7. zie 8.
-8. 
-	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
-		- JAK2 of andere zeldzame protrombotische factoren hier niet meegenomen
-		- 2017 ESO guideline for the diagnosis and treatment of [[CVT]]: antistolling (VKA) voor 3 - 12 maanden, indien recidief of geassocieerde protrombotische aandoening levenslange antistolling overwegen
-	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
+8. richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
+	- JAK2 of andere zeldzame protrombotische factoren hier niet meegenomen
+	- 2017 ESO guideline for the diagnosis and treatment of [[CVT]]: antistolling (VKA) voor 3 - 12 maanden, indien recidief of geassocieerde protrombotische aandoening levenslange antistolling overwegen
+	1. plan om te stoppen: **testen**, levenslang **antistolling** indien trombofilie
 	2. plan om door te behandelen: **niet testen**
 9. zie 10.
-10. 
-	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
-		- levercirrose, PNH of JAK2 hier niet meegenomen
-		- 2020 ISTH SSC subcommittee control of anticoagulation guidance on antithrombotic therapy for [[SVT]]: antistolling minimaal 3 - 6 maanden, ongeacht uitgebreidheid en onderliggende risicofactoren
+10. richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
+	- levercirrose, PNH of JAK2 hier niet meegenomen
+	- 2020 ISTH SSC subcommittee control of anticoagulation guidance on antithrombotic therapy for [[SVT]]: antistolling minimaal 3 - 6 maanden, ongeacht uitgebreidheid en onderliggende risicofactoren
 	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
 	2. plan om door te behandelen: **niet testen**
-#### positieve familie anamnese voor VTE en/of trombofilie
+#### geen VTE, positieve familie anamnese voor VTE en/of trombofilie
 11. zie 13.
 12. zie 13.
 13. 
@@ -87,21 +85,18 @@ ___
 	- vrouwen met positieve familieanamnese voor VTE maar onbekende trombofilie, en voorgenomen COC gebruik.
 18. niet testen
 	- vrouwen met positieve familieanamnese voor VTE maar onbekende trombofilie, en voorgenomen HRT.
-19. 
-	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen COC gebruik
+19. vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen COC gebruik
 		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
 			- alternatieve strategie: circa 4-5 minder VTE's/1000 persoonsjaren
 		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd COC** indien aangedaan
 			- alternatieve strategie: circa 10-20 meer VTE's/1000 persoonsjaren
-20. 
-	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen HRT
+20. vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen HRT
 		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
 			- alternatieve strategie: circa 1-5 minder VTE's/1000 persoonsjaren
 		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd HRT** indien aangedaan
 			- alternatieve strategie: circa 4-17 meer VTE's/1000 persoonsjaren
 21. zie 22.
-22. 
-	- zwangere vrouwen met positieve familieanamnese voor VTE en bekende trombofilie
+22. zwangere vrouwen met positieve familieanamnese voor VTE en bekende trombofilie
 		1. heterozygoot FVL of PGM: **niet testen** een **geen antepartum profylaxe**
 		2. homozygoot FVL of FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **antepartum** **profylaxe** indien aangedaan
 		3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen**
@@ -114,7 +109,6 @@ ___
 			1. heterozygoot FVL of PGM: **niet testen** een **geen postpartum profylaxe**
 			2. heterozygoot FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan (tot 6w nadien)
 			3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen** (pas op, staat correct in de tekst maar verkeerd in tabel 1)
-23. 
-	- ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
+23. ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
 ## Datum laatste update
 09-06-2024
