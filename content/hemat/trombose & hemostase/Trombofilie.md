@@ -4,8 +4,8 @@ ___
 **bron**: [ASH 2023 guidelines](https://ashpublications.org/bloodadvances/article/7/22/7101/495845/American-Society-of-Hematology-2023-guidelines-for)
 ## methode
 - lang niet altijd interventionele studies:
-	- prevalentie + absoluut risico VTE in populatie met en zonder trombofilie (zie tabel hieronder)
-		- absoluut aantal VTE in beide groepen o.b.v.:
+	- prevalentie + absoluut risico VTE in populatie met en zonder (familiale) trombofilie (zie tabellen hieronder)
+		- simulatie absoluut aantal VTE in interventie- en controle groepen o.b.v.:
 			- prevalentie trombofilie
 			- expected event rate voor behandeling
 				- VTE en voorkomen bloedingen
@@ -13,29 +13,35 @@ ___
 				- VTE en voorkomen bloedingen
 
 ![[Pasted image 20240609070423.png]]
+
+![[Pasted image 20240609103633.png]]
 ## resultaten
 
 ![[Pasted image 20240303202203.png]]
-- minor provoking risk factors: circumstances that generally do not require prophylaxis, such as immobility or minor injury, illness, or infection.
+- no VTE: positieve familie anamnese voor VTE en/of trombofilie
+	- 1e of 2e graadsfamilielid
+- minor provoking risk factors: omstandigheden waarin normaliter geen indicatie voor profylaxe, zoals beperkte immobiliteit, minor injury, ziekte of infectie
+	- indicatie profylaxe?
 - COC: combined oral contraceptives
+	- vermijden?
 - HRT: hormone replacement therapy
+	- vermijden?
+- zwangerschap
+	- indicatie ante- of postpartum profylaxe?
+- maligniteit
+	- indicatie profylaxe?
 - panel:
 	- hereditair: FVL, protrombine gen mutatie (PGM), antitrombine-, proteïne C- en proteïne S-deficiëntie
 	- verworven: APS (1 of meer positieve testen + klinisch criterium)
 ### diagnostiek
+#### VTE
 1. niet testen
 	- alternatieve strategie: 42/1000 persoonsjaren meer VTE recidieven, 5-15/1000 persoonsjaren minder majeure bloedingen
 2. niet testen
 	- alternatieve strategie: 4/1000 persoonsjaren minder VTE recidieven, 2-7/1000 persoonsjaren meer majeure bloedingen
 3. testen, levenslang antistolling indien trombofilie
-	- majeure transiënte risicofactoren (< 3 maanden), o.a.:
+	- majeure transiënte risicofactoren (< 3 maanden), m.n.:
 		- \> 3 dagen bedlegerigheid in ziekenhuis ("bathroom privileges only")
-	- mineure transiënte risicofactoren (< 2 maanden), o.a.:
-		- \< 3 dagen bedlegerigheid
-		- exogene oestrogenen (OAC, HRT)
-		- zwangerschap
-		- \> 3 dagen bedlegerigheid buiten ziekenhuis
-		- blessure been met verminderde mobiliteit $\geq$ 3 dagen
 	- alternatieve strategie: 21/1000 persoonsjaren meer VTE recidieven, 2-7/1000 persoonsjaren minder majeure bloedingen
 4. testen, levenslang antistolling indien trombofilie
 	- alternatieve strategie: 21/1000 persoonsjaren meer VTE recidieven, 2-7/1000 persoonsjaren minder majeure bloedingen
@@ -45,52 +51,75 @@ ___
 	- "unspecified": onbekend of uitgelokt, of niet (komt nauwelijks voor)
 7. en <font style="color:#899499">8.</font>
 	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
-	- PNH of JAK2 mutaties niet meegenomen in dit advies
-	1. plan om te stoppen: testen, levenslang antistolling indien trombofilie
-	2. plan om door te behandelen: niet testen
+		- JAK2 of andere zeldzame protrombotische factoren hier niet meegenomen
+		- 2017 ESO guideline for the diagnosis and treatment of [[CVT]]: antistolling (VKA) voor 3 - 12 maanden, indien recidief of geassocieerde protrombotische aandoening levenslange antistolling overwegen
+	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
+	2. plan om door te behandelen: **niet testen**
 9. en <font style="color:#899499">10.</font>
 	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
-	- PNH of JAK2 mutaties niet meegenomen in dit advies
-	1. plan om te stoppen: testen, levenslang antistolling indien trombofilie
-	2. plan om door te behandelen: testen, levenslang antistolling indien trombofilie
-11. **strategie #1, selectief testen:**
-	1. heterozygoot FVL of heterozygoot PGM: niet testen
-	2. proteïne C, S of antitrombine deficiëntie: testen voor bekende afwijking en tromboseprofylaxe indien aangedaan
-12. strategie #2, panel testen:
-	1. heterozygoot FVL of heterozygoot PGM: niet testen
-	2.  proteïne C, S of antitrombine deficiëntie: test volledig panel en tromboseprofylaxe indien aangedaan
-13. niet testen
-14. strategie:
-	1. heterozygoot FVL of heterozygoot PGM: niet testen
-	2. 1e graads met proteïne C, S of antitrombine deficiëntie: test voor bekende afwijking en tromboseprofylaxe indien aangedaan
-	3. 2e graads met proteïne C, S of antitrombine deficiëntie: test of test niet (?)
+		- levercirrose, PNH of JAK2 hier niet meegenomen
+		- 2020 ISTH SSC subcommittee control of anticoagulation guidance on antithrombotic therapy for [[SVT]]: antistolling minimaal 3 - 6 maanden, ongeacht uitgebreidheid en onderliggende risicofactoren
+	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
+	2. plan om door te behandelen: **niet testen**
+#### positieve familie anamnese voor VTE en/of trombofilie
+11. en <font style="color:#899499">12.</font> en <font style="color:#899499">13.</font> 
+	1. positieve familieanamnese voor VTE en heterozygoot FVL of heterozygoot PGM: **niet testen** en **geen tromboseprofylaxe**
+		- alternatieve strategie: circa 5/1000 meer risico episodes met VTE, circa 2/1000 minder risico episodes met majeure bloedingen
+	2. positieve familieanamnese voor VTE en proteïne C-, S- of antitrombine-deficiëntie: **test** bekende afwijking (voorkeursadvies 11) of gehele panel (advies 12) en **tromboseprofylaxe** indien aangedaan
+		- alternatieve strategie: circa 20/1000 meer risico episodes met VTE, circa 2/1000 minder risico episodes met majeure bloedingen
+	3. positieve familieanamnese voor VTE en onbekende trombofilie: **niet testen** en **geen tromboseprofylaxe**
+		- overweeg indien meerdere (jonge) familieleden met VTE
+		- alternatieve strategie: circa 2/1000 meer risico episodes met VTE, circa 0.6/1000 minder risico episodes met majeure bloedingen
+14. 
+	1. negatieve familieanamnese voor VTE maar positief voor heterozygoot FVL of heterozygoot PGM: **niet testen** en **geen tromboseprofylaxe**
+		- alternatieve strategie: circa 2/1000 minder risico episodes met VTE, circa 2/1000 meer risico episodes met majeure bloedingen
+	2. negatieve familieanamnese voor VTE maar positief voor proteïne C-, S- of antitrombine-deficiëntie: **niet testen** en **geen tromboseprofylaxe**
+		- alternatieve strategie: circa 10/1000 minder risico episodes met VTE, circa 2/1000 meer risico episodes met majeure bloedingen
 15. niet testen
+	- vrouwen uit algemene populatie, dus zonder afwijkende familieanamnese voor VTE noch voor trombofilie, en voorgenomen COC gebruik
 16. niet testen
+	- vrouwen uit algemene populatie, dus zonder afwijkende familieanamnese voor VTE noch voor trombofilie, en voorgenomen HRT
 17. niet testen
+	- vrouwen met positieve familieanamnese voor VTE maar onbekende trombofilie, en voorgenomen COC gebruik.
 18. niet testen
-19. strategie:
-	1. FVL of PGM: niet testen
-	2. proteïne C, S of antitrombine deficiëntie: test volledig en geen HRT indien aangedaan
-20. strategie:
-	1. FVL of PGM: niet testen
-	2. proteïne C, S of antitrombine deficiëntie: test volledig en geen HRT indien aangedien
-21. strategie, selectief testen:
-	1. homozygoot FVL, FVL + PGM of antitrombine deficiëntie: test voor bekende afwijking en antepartum profylaxe indien aangedaan
-	2. proteïne C- of proteïne S deficiëntie: testen of niet testen
-22. strategie, selectief testen:
-	1. homozygoot FVL, FVL + PGM of antitrombine-, proteïne S of proteïne C deficiëntie: test voor bekende afwijking en postpartum profylaxe indien aangedaan
-	2. FVL + PGM of antitrombine deficiëntie in 2e graads familie: test voor bekende afwijking en postpartum profylaxe indien aangedaan
-	3. proteïne C of proteïne S deficiëntie in de familie: test wel of niet
-23. ambulante kanker patiënt met laag- of intermediair risico VTE met VTE bij 1e graads familieleden: trombofilie panel en profylaxe bij alle aangedane patiënten.
+	- vrouwen met positieve familieanamnese voor VTE maar onbekende trombofilie, en voorgenomen HRT.
+19. 
+	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen COC gebruik
+		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
+			- alternatieve strategie: circa 4-5 minder VTE's/1000 persoonsjaren
+		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd COC** indien aangedaan
+			- alternatieve strategie: circa 10-20 meer VTE's/1000 persoonsjaren
+20. 
+	- vrouwen met positieve familieanamnese voor VTE en bekende trombofilie, en voorgenomen HRT
+		1. heterozygoot FVL of heterozygoot PGM: **niet testen**
+			- alternatieve strategie: circa 1-5 minder VTE's/1000 persoonsjaren
+		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd HRT** indien aangedaan
+			- alternatieve strategie: circa 4-17 meer VTE's/1000 persoonsjaren
+21. en <font style="color:#899499">22.</font> 
+	- zwangere vrouwen met positieve familieanamnese voor VTE en bekende trombofilie
+		1. heterozygoot FVL of PGM: **niet testen** een **geen antepartum profylaxe**
+		2. homozygoot FVL of FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **antepartum** **profylaxe** indien aangedaan
+		3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen**
+	- zwangere vrouwen met positieve familieanamnese voor VTE en bekende trombofilie
+		- 1e graads:
+			1. heterozygoot FVL of PGM: **niet testen** een **geen postpartum profylaxe**
+			2. homozygoot FVL of FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan
+			3. proteïne C- of proteïne S deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan
+		- 2e graads:
+			1. heterozygoot FVL of PGM: **niet testen** een **geen postpartum profylaxe**
+			2. heterozygoot FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan (tot 6w nadien)
+			3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen** (pas op, staat correct in de tekst maar verkeerd in tabel 1)
+23. 
+	- ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
 ## Datum laatste update
-03-03-2024
+09-06-2024
 ___
 # Mondeling Nick van Es, 2023
 4x patiënt met indicatie voor trombofilie testen:
 * jong en idiopathisch VTE
 	* laagdrempelig APS diagnostiek
 * familie anamnese
-	* 5x: FV-Leiden, ATIII, prot C, prot S, protrombine deficientie
+	* 5x: FVL, ATIII, prot C, prot S, protrombine deficiëntie
 * trombus ongebruikelijke plek
 	* vaker ET,  PV of b.v. PNH
 * young stroke
