@@ -49,20 +49,20 @@ ___
 	- alternatieve strategie: 21/1000 persoonsjaren meer VTE recidieven, 2-7/1000 persoonsjaren minder majeure bloedingen
 6. niet testen
 	- "unspecified": onbekend of uitgelokt, of niet (komt nauwelijks voor)
-7. en <font style="color:#899499">8.</font>
+7. en 8.
 	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
 		- JAK2 of andere zeldzame protrombotische factoren hier niet meegenomen
 		- 2017 ESO guideline for the diagnosis and treatment of [[CVT]]: antistolling (VKA) voor 3 - 12 maanden, indien recidief of geassocieerde protrombotische aandoening levenslange antistolling overwegen
 	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
 	2. plan om door te behandelen: **niet testen**
-9. en <font style="color:#899499">10.</font>
+9. en 10.
 	- richtlijnen inconclusief, in praktijk vaak risico gestuurde benadering
 		- levercirrose, PNH of JAK2 hier niet meegenomen
 		- 2020 ISTH SSC subcommittee control of anticoagulation guidance on antithrombotic therapy for [[SVT]]: antistolling minimaal 3 - 6 maanden, ongeacht uitgebreidheid en onderliggende risicofactoren
 	1. plan om te stoppen: **testen**, levenslang antistolling indien trombofilie
 	2. plan om door te behandelen: **niet testen**
 #### positieve familie anamnese voor VTE en/of trombofilie
-11. en <font style="color:#899499">12.</font> en <font style="color:#899499">13.</font> 
+11. en 12. en 13.
 	1. positieve familieanamnese voor VTE en heterozygoot FVL of heterozygoot PGM: **niet testen** en **geen tromboseprofylaxe**
 		- alternatieve strategie: circa 5/1000 meer risico episodes met VTE, circa 2/1000 minder risico episodes met majeure bloedingen
 	2. positieve familieanamnese voor VTE en proteïne C-, S- of antitrombine-deficiëntie: **test** bekende afwijking (voorkeursadvies 11) of gehele panel (advies 12) en **tromboseprofylaxe** indien aangedaan
@@ -95,7 +95,7 @@ ___
 			- alternatieve strategie: circa 1-5 minder VTE's/1000 persoonsjaren
 		2. proteïne C-, S- of antitrombine-deficiëntie: **test** voor bekende afwijking en **vermijd HRT** indien aangedaan
 			- alternatieve strategie: circa 4-17 meer VTE's/1000 persoonsjaren
-21. en <font style="color:#899499">22.</font> 
+21. en 22.
 	- zwangere vrouwen met positieve familieanamnese voor VTE en bekende trombofilie
 		1. heterozygoot FVL of PGM: **niet testen** een **geen antepartum profylaxe**
 		2. homozygoot FVL of FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **antepartum** **profylaxe** indien aangedaan
