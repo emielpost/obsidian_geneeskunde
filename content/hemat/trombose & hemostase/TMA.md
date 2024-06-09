@@ -143,8 +143,7 @@ ja
 ## Aliassen
 ## Datum laatste update
 24-02-2024
-
-
+____
 # Wenkebach, 2023
 ## bloed
 - schistocyten (fragmentocyten), poikylocytose

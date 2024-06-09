@@ -78,7 +78,8 @@ ___
 		- 6x DA-EPOCH-R + CNS profylaxe
 			- C1 R-CHOP ok
 		- tox? 6x R-CHOP + CNS profylaxe
-		- **H130**: 6x R-CHOP + 2R met lenalidomide vergelijkbare OS en PFS, voordeel: poliklinisch; add-on vergoeding aangevraagd.
+		- **H130**: 6x R-CHOP + 2R met lenalidomide + CNS profylaxe
+			- vergelijkbare OS en PFS, voordeel: poliklinisch; add-on vergoeding goedgekeurd.
 	- DLBCL
 		- PET-gestuurd
 			- iPET positief
