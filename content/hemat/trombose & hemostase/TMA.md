@@ -4,7 +4,8 @@ TMA (Thrombotische Microangiopathie) is een aandoening waarbij obstructie van de
 - Hart: symptomen zoals angina pectoris, myocardinfarct, en hartfalen (decompensatio cordis) kunnen voorkomen.
 - Tractus digestivus: klachten variërend van buikpijn, bloedingen, pancreatitis tot braken en diarree kunnen zich voordoen
 ___
-# Richtlijn TMA, 2021
+# Concept richtlijn TMA, 2024
+**bron:** [[Concept Richtlijn2024 TMA_final R1 DEF 23052024.pdf]]
 ## Oorzaken
 - 4x: TTP, STEC-HUS, secundaire TMA of aHUS:  
 #### TTP
@@ -145,13 +146,14 @@ ja
 24-02-2024
 ____
 # Wenkebach, 2023
+**bron**: cursus Wenkebach 2023
 ## bloed
 - schistocyten (fragmentocyten), poikylocytose
 - trombocytopenie
 - voorstadia rode en witte reeks
 ## beenmerg
-- aspecifiek, compensatoire hyperplasie vooral erytro- en megakaryopoïese. 
-- ijzerkleuring: ijzergebrek.
+- aspecifiek, compensatoire hyperplasie vooral erytro- en megakaryopoïese
+- ijzerkleuring: ijzergebrek
 ## Anki
 ja
 ## Aliassen

@@ -90,7 +90,7 @@ ___
 	- streef zo diep mogelijke respons na
 ##### niet-refractair voor lenalidomide
 ###### niet voorbehandeld/refractair onder daratumumab
--  **dara-Rd (1e keuze) 
+-  **dara-Rd (1e keuze)**
 	- langere PFS en OS (maar nooit head-to-head)
 	- cave longtox daratumumab, COPD/astma relatieve c.i.
 - ixa-Rd
@@ -121,16 +121,19 @@ ___
 niet-carfilzomib refractair: 
 - **dara-Kd** of **isa-Kd**
 - Kd
+
 carfilzomib refractair:
 - **dara-pom-dex of isa-pom-dex**
 - elo-pom-dex
 - REP, PED
 ###### dara voorbehandeld of refractair
 - **Kd**
+
 carfilzomib refractair:
 - PED
 - elo-pom-dex
 - REP
+
 penta refractair:
 - studies of compassionate use
 - overweeg PEP
