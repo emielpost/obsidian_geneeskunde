@@ -4,6 +4,7 @@ ___
 ## Klinisch beeld en diagnostiek in nieuw gediagnosticeerde fase
 meestal spontaan hematomen, petechieën, tandvleesbloedingen tot ernstige epistaxis, GI-bloeding of hersenbloeding. Minder dan 10% gevallen uitgelokt door infectie (bacterieel/viraal) en andere auto-immuunaandoeningen. 
 - anamnese: check o.a. medicatie en tromboembolische voorgeschiedenis
+	- [DITP](https://ouhsc.edu/platelets/ditp.html)
 - LO: o.a. graderen bloedingen (WHO graad)
 - AO: o.a. IgA, IgG, IgM om CVID en IGa deficiëntie uit te sluiten en manuele diff: o.a. leukocyten inclusie lichaampjes, grey platelets, pseudotrombocytopenie
 ## Differentiaal diagnose trombocytopenie
