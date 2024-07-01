@@ -33,7 +33,7 @@ bron: [Richtlijn bloedtransfusiebeleid, 2020](https://richtlijnendatabase.nl/ric
 	- AIHA, CAD en niet-immunologische hemolyse: 
 		- hypotone vloeistoffen
 		- bevriezing/verhitting ery's
-		- G6PD of PK-deficiëntie, PNH, klephemolyse, aHUS/TTP, malaria, clostridium of drug-induced hemolyse
+		- G6PD of PK-deficiëntie, PNH, klephemolyse, aHUS/[[TMA|TTP]], malaria, clostridium of drug-induced hemolyse
 ##### beleid
 - direct stop transfusie
 - kruisbloed, Hb en hemolyse parameters
@@ -52,7 +52,7 @@ bron: [Richtlijn bloedtransfusiebeleid, 2020](https://richtlijnendatabase.nl/ric
 	- AIHA, CAD en niet-immunologische hemolyse: 
 		- hypotone vloeistoffen
 		- bevriezing/verhitting ery's
-		- G6PD of PK-deficiëntie, PNH, klephemolyse, aHUS/TTP, malaria, clostridium of drug-induced hemolyse
+		- G6PD of PK-deficiëntie, PNH, klephemolyse, aHUS/[[TMA|TTP]], malaria, clostridium of drug-induced hemolyse
 - nieuw kruisbloed
 - Hb, hemolyse parameters vervolgen
 - transfusies indien nodig

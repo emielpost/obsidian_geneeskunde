@@ -142,7 +142,7 @@ ___
 - DDAVP
 - emicizumab (bispecifieke antistof)
 	- neemt rol FVIII over: brengt FIXa en FX samen
-	- niet samen met FEIBA (TMA/trombose risico)
+	- niet samen met FEIBA ([[TMA]]/trombose risico)
 	- hebben vervolgens een normale aPTT!! 
 		- dus gewoon FVIII geven als patient met bloeding onder emicizumab op SEH komt (equivalent van ongeveer 10% FVIII)
 ## Hemofilie dragerschap

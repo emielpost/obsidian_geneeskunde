@@ -44,7 +44,7 @@
 - verworven meervoudige stollingsdeficiëntie met actieve bloeding/invasieve ingreep en geen andere correctie mogelijk
 	- synthesestoornis (b.v. asparaginase, vitamine K-deficiëntie...)
 	- verbruik of verdunning
-- TTP
+- [[TMA|TTP]]
 - plasmaferese
 ## Autologe bloedtransfusie
 - zeer zeldzame private antigens en/of antistoffen tegen public antigens

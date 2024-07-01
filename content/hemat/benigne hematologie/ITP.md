@@ -21,7 +21,7 @@ meestal spontaan hematomen, petechieën, tandvleesbloedingen tot ernstige epista
 - toename afbraak of verbruik
 	- APS
 	- DIS
-	- TTP/HUS
+	- [[TMA|TTP]]/HUS
 	- HIT
 	- virusinfecties: HIV, HCV, CMV, EBV, rubella, Dengue
 	- hypersplenisme

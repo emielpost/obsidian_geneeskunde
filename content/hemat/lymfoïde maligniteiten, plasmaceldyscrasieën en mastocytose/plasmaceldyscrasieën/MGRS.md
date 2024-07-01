@@ -40,7 +40,7 @@ zie ook figuur 1 en figuur 2
 				- dense deposit disease (rare)
 			- thrombotic microangiopathy
 				- inclompletely understood, possibly monoclonal Ig antibody vs. complement regulatory protein. 
-				- sometimes TMA in context of POEMS nearly always lambda light-chain (usually absent from kidney biopsy samples); interestingly no MAHA but endothelial lesions from CK-mediated process
+				- sometimes [[TMA]] in context of POEMS nearly always lambda light-chain (usually absent from kidney biopsy samples); interestingly no MAHA but endothelial lesions from CK-mediated process
 ## Evaluation of suspected MGRS
 1. biopsy
 	- when monoclonal gammopathy and:

@@ -26,7 +26,7 @@ ___
 		- psychofarmaca (lithium, carbamazepine)
 		- overig: benzeen, MDMA, lijm/tolueen, pesiticiden, radiatie, oplosmiddelen
 - celdestructie of sequestratie
-	- DIS, TTP
+	- DIS, [[TMA|TTP]]
 	- hypersplenisme: levercirrose, stapelingsziekte, lymfoom of auto-immuunaandoeningen
 ## Oorzaken
 ### Verworven
@@ -96,8 +96,8 @@ ___
 	- benigne aandoeningen:
 		- hypersegmentatie + ovalocyten: suggereert megaloblastaire aandoening (FZ/vit B12)
 		- atypische lymfocyten, o.a. na virusinfecties
-		- leukoerytroblastair bloedbeeld met traandruppelcellen en TMA kan door myelofibrose of metastasen solide tumor
-		- fragmentocyten: TMA door sepsis, APL of andere oorzaken
+		- leukoerytroblastair bloedbeeld met traandruppelcellen en [[TMA]] kan door myelofibrose of metastasen solide tumor
+		- fragmentocyten: [[TMA]] door sepsis, APL of andere oorzaken
 	- hypoproliferatieve aandoeningen:
 		- reticulocytopenie: o.a. AA, hypoplastische MDS maar ook:
 			- vitamine deficiënties, incl. vitamine B12, FZ of koper
@@ -109,7 +109,7 @@ ___
 		- vaak, niet altijd, geïndiceerd
 		- bedenk: soms verwarrend, b.v. kort na stoppen medicament 'maturatie arrest' mogelijk (nog geen uitrijping, lijkt dan op AML)
 	- verlengde stollingstijden
-		- direct analyse TMA: fragmentocyten? trombopenie?
+		- direct analyse [[TMA]]: fragmentocyten? trombopenie?
 			- negatief? zoek naar leverziekte, vitamine K deficiëntie, medicatie etc.
 ## Datum laatste update
 02-02-2024

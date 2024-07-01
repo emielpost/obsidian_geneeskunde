@@ -1,11 +1,10 @@
 inleiding
 ___
 # Richtlijn xxx
+**bron**:
 ## Diagnostiek
 ## Classificatie
 ## Behandeling
-
-## Anki
 
 ## Aliassen
 ## Datum laatste update

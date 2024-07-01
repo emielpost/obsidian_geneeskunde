@@ -158,7 +158,7 @@ ___
 - Corposculair
 	- PNH
 - Niet-corposculair
-	- o.a. TMA, infecties, TTP/HUS
+	- o.a. [[TMA]], infecties, [[TMA|TTP]]/HUS
 - (pre-)maligne beenmergaandoeningen
 	- AA
 	- hypo MDS

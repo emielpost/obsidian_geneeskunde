@@ -5,7 +5,7 @@ ___
 - verminderde productie:
     - beenmergfalen, i.e. aplastische anemie, MDS en chemotherapie-geïnduceerd
 - verhoogde afbraak:
-    - ITP, DIS/TTP/HUS
+    - ITP, DIS/[[TMA|TTP]]/HUS
 - redistributie:
     - splenomegalie bij portale hypertensie
 - hemodilutie
@@ -19,13 +19,13 @@ ___
 - congenitale thrombocytopenie
 - CVID
 ### Klinische patiënt
-- TTP/HUS, DIC, DITP, leverziekten, HIT, MA, BM aandoeningen, chemotherapie, ferese
+- [[TMA|TTP]]/HUS, DIC, DITP, leverziekten, HIT, MA, BM aandoeningen, chemotherapie, ferese
 - cardiale patiënt:
     - cardio(pulmonale) bypass, GPIIb/IIIa inhibitoren, dilutioneel, overige DITP
 ### Zwangere patiënt
-- GT, ITP, HELLP, preeclampsie, abruptio placentae, TTP/HUS
+- GT, ITP, HELLP, preeclampsie, abruptio placentae, [[TMA|TTP]]/HUS
 ## Rol laboratorium
-- check manuele diff: TMA? blasten?
+- check manuele diff: [[TMA]]? blasten?
 - check lever, nierfunctie, stollingslab en LDH
 - etiologie onduidelijk? BM aspiraat en biopt
 - TPO: helpt bij inschatten kans op plaatjes destructie (dan verhoogd)

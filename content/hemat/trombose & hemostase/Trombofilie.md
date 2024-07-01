@@ -112,3 +112,102 @@ ___
 23. ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
 ## Datum laatste update
 09-06-2024
+___
+# Onverklaarde arteriële trombose, ASH education program, 2021
+**bron**: [Unexplained arterial thrombosis: approach to diagnosis and treatment](https://ashpublications.org/hematology/article/2021/1/76/482964/Unexplained-arterial-thrombosis-approach-to)
+
+![[Pasted image 20240630143606.png]]
+
+## inleiding
+- onduidelijke etiologie, ongebruikelijke lokatie of jonge patiënt
+## defining the clot
+- m.n. voor vasculatuur naar viscerale organen of centrale retinale venen soms onduidelijk of arterieel of veneus!
+- zoek naar recente literatuur over arteriële trombose op specifieke lokatie (zie ook figuur 2)
+## diagnose en beleid
+- 6 mogelijke oorzaken:
+	- atherosclerose (meest voorkomend)
+	- embolie (meest voorkomend)
+	- systeemziekten
+	- vasculaire/anatomische afwijkingen
+	- trombofilie
+### atherosclerose
+- diagnose:
+	- beeldvorming, maar rol vaak beperkt (o.a. duplex carotiden > 50% stenose)
+	- risicofactoren
+		- lipoproteïne(a) nieuwe biomarker voor ASCVD
+			- volgnes richtlijnen meten bij:
+				- prematuur ASCVD of iCVA (< 55j)
+				- familie anamnese
+				- progressief ASCVD ondanks therapie
+- beleid:
+	-  nieuw:
+		- dual pathway inhibition (DPI):
+			- very low-dose anticoagulation (rivaroxaban 2.5mg 2dd) en plaatjesremming
+			- indicaties:
+				- stabiel coronairlijden
+				- perifeer vaatlijden na revascularisatie
+					- zie ook [PAD ricthlijn 2024, pagina e1336](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001251) (i.p. aanbevolen maar iets verhoogd risico op bloeding, waarmee beslissing afhankelijk van comorbiditeiten, complexiteit revascularisatie procedure en overall risico op MACE en MALE)
+				- (waarschijnlijk in de toekomst): ongebruikelijke lokaties waar weinig evidence
+### embolie
+- uit hart maar ook van elders
+	- thromboembolie, atherombolie, vetembolie, septische embolie
+- diagnostiek:
+	- soms suggestie o.b.v. beeldvorming:
+		- multipele stroomgebieden cerebraal (mogelijk toch minder voorspellend)
+		- lacunair infarct suggereert atherosclerose (enkel, klein, subcorticaal infarct)
+		- sommige lokalisaties:
+			- milt en nier 40-70% van de gevallen o.b.v. embolie
+	- TTE eerste stap, TEE tweede stap
+		- atria, kleplijden, intracardiaal materiaal, PFO (valsalva, contrast)
+	- Holter/Reveal
+- beleid:
+	- AF conform vigerende richtlijn
+	- ESUS ('embolic stroke of undetermined source')
+		- TAR (minder bloedingen dan DOAC)
+	- trombus LV
+		- bijzonder tegenstrijdige literatuur:
+			- VKA > DOAC maar afwijken o.b.v. patiënt-specifieke factoren
+	- PFO sluiting
+		- conform richtlijn neurologie, o.a. voorkeur indien grote shunt, < 60j, geen vasculaire risico factoren, non-lacunair infarct
+### medicatie
+- zie tabel 2 
+	- o.a. oestrogenen, heparine, anabole steroïden, cocaïne, tabak/cannabis, VEGF inhibitoren, tamoxifen, fluorouracil, checkpoint inhibitoren
+		- meestal geassocieerd met veneuze events
+		- literatuur bovendien meestal associates met iCVA en cardiovasculaire vents
+### systeemziekten
+- maligniteiten
+	- screening m.n. o.b.v. risicofactoren
+		- geen evidence voor uitgebreide beeldvorming
+- autoimmuun
+	- SLE, RA, vasculitis
+- hematologische aandoeningen
+	- MPN
+	- PNH
+	- sikkelcelziekte
+	- plasmaceldyscrasieën (behandeld?)
+	- cryoglobulinemie
+- infecties
+	- COVID-19 (vaccinaties? → TTS/VITT)
+### vasculaire/anatomische afwijkingen
+- beeldvorming ,i.e. CTA, MRA, catheter-geleid angiogram:
+	- dissectie, aneurysma, fibromusculaire dysplasie, vasculitis
+	- vasospasme, externe compressie
+### trombofilie
+- in uitzonderlijke gevallen (geen alternatieve verklaring, < 50-55 en positieve familie anamnese):
+	- prot C, prot S, ATIII, FVL en PGM (enkel homozygoot of compound heterozygoot)
+		- cave beperkingen assays onder antistolling
+		- overweeg vervolgens DOAC (laag gedoseerd?) + ascal
+- APS veel vaker
+	- volgens Sapporo, of Sydney, criteria (klinisch + biochemisch)
+	- optimale antistolling onderwerp van discussie:
+		- TAR
+		- antistolling
+			- VKA > DOAC, maar mogelijk enkel waardevol bij triple positieve patiënten
+				- overweeg DOAC als enkel/dubbel positief, en:
+					- probleemloos DOAC al > 1 jaar
+					- last van beperkingen VKA
+					- INR onbetrouwbaar door LAC
+		- antistolling + TAR (voorkeur auteurs)
+				- o.b.v. kleine RCT: VKA + aspirine lager recidief risico, zelfde bloedingsrisico
+## Datum laatste update
+2024-06-30

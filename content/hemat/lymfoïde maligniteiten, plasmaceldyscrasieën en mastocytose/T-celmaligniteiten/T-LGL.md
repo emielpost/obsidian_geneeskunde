@@ -43,7 +43,7 @@ ___
 	- niet te lang: secundaire maligniteiten
 - alternatief: ciclosporine 5-10 mg/kg/dag verdeeld over 2 doses
 	- streefspiegel: 200-350 ng/mL
-	- bijwerkingen: o.a. TMA/hypertensie, nierinsufficiëntie
+	- bijwerkingen: o.a. [[TMA]]/hypertensie, nierinsufficiëntie
 ### Aanvullende maatregelen
 - G-CSF of prednisolon 1 mg/kg bij problematische neutropenie
 - prednison 20-60 mg/dag bij auto-immuun symptomen (b.v. RA)
